@@ -1,0 +1,2477 @@
+{
+ "courseId": "E410",
+ "courseTitle": "Phonetics and Phonology",
+ "overview": "Phonetics and Phonology (E410) explores the physical reality and abstract organization of speech sounds in human language, focusing especially on English (Received Pronunciation). The course begins by establishing the fundamental dichotomy between phonetics—the universal, physical study of speech production (articulatory), transmission (acoustic), and perception (auditory)—and phonology—the language-specific study of sound systems, phonemes, and functional contrasts. It examines classical and modern phonological theory through the seminal contributions of Nikolai Trubetzkoy, Roman Jakobson, Daniel Jones, Noam Chomsky, and Morris Halle. Students learn the classification and phonetic properties of all 44 English phonemes: 12 monophthongs, 8 diphthongs, 5 triphthongs, and 24 consonants analyzed by voicing, place, and manner of articulation. Moving to suprasegmental phonology and prosody, the course investigates the phonetic and phonological structure of syllables, the Sonority Sequencing Principle, and phonotactic constraints. It analyzes connected speech processes including strong versus weak forms, contractions, elision, and assimilation (regressive, progressive, coalescent). Suprasegmental phenomena are deepened through word stress rules, sentence stress, chunking into tone units (pre-head, head, tonic syllable, tail), tone types (fall, rise, fall-rise, rise-fall, level), and the multi-dimensional communicative functions of intonation (grammatical, attitudinal, discourse, accentual). Finally, practical competence is demonstrated through broad and narrow IPA transcription of connected speech, including linking and intrusive phenomena (/r/, /j/, /w/). This comprehensive foundation equips students to analyze spoken language critically for academic linguistics, ELT pedagogy, and oral viva voce defense.",
+ "topics": [
+  {
+   "id": "E410_T01",
+   "title": "Phonetics and Phonology: Definitions, Differences, Classification, and Correlation",
+   "coreIdea": "Phonetics studies the concrete, physical properties of speech sounds universally, whereas phonology examines how sounds function systematically to distinguish meaning within a specific language. Understanding their differences and correlation reveals how physical phonetic data forms the raw material organized by abstract phonological rules.",
+   "vivaAnswer": "Phonetics is the universal study of the physical production, acoustic transmission, and auditory perception of speech sounds, transcribed in square brackets [ ]. Phonology is the language-specific study of how sounds function, pattern, and distinguish meaning in a mental linguistic system, transcribed in slashes / /.",
+   "example": "In English, [pʰ] (aspirated in 'pin') and [p] (unaspirated in 'spin') are two physically different phones studied in phonetics, but in phonology, both represent the single phoneme /p/ because the difference does not change word meaning.",
+   "understandMore": "Phonetics is traditionally divided into three branches: articulatory phonetics (how vocal organs produce sounds), acoustic phonetics (the physical properties of sound waves such as frequency, amplitude, and formants measured by spectrograms), and auditory phonetics (how the ear and brain perceive and decode sound signals). Phonetics and phonology are mutually dependent: phonetics provides the empirical raw material, while phonology provides the structural grammar and functional interpretation of that material.",
+   "commonConfusion": "Students often treat phonetics and phonology as synonyms or confuse their notations. Phonetics deals with concrete, physical sounds (phones) written in square brackets [ ], while phonology deals with abstract, psychological units (phonemes) written in slashes / /.",
+   "relatedConcepts": [
+    "E410_T02",
+    "E411_T01",
+    "E412_T02"
+   ],
+   "sourceRef": "E410 Study Guide, pp. 3-6"
+  },
+  {
+   "id": "E410_T02",
+   "title": "Phonemes, Phones, Allophones, and Phonological Theory (Trubetzkoy, Jakobson, Jones, Chomsky, Halle)",
+   "coreIdea": "A phoneme is an abstract, meaning-distinguishing sound unit realized as concrete phones or contextual allophones. Phonological theory has evolved from structuralist functionalism and physical sound families (Trubetzkoy, Jones) through acoustic distinctive features (Jakobson) to generative rule-based derivations from underlying to surface representations (Chomsky and Halle).",
+   "vivaAnswer": "A phoneme is the smallest abstract contrastive sound unit that distinguishes meaning, proven via minimal pairs (e.g. /p/ vs /b/ in 'pat'/'bat'). Key theorists include Trubetzkoy (oppositions and neutralization), Jones (concrete phoneme and Cardinal Vowels), Jakobson (binary distinctive features), and Chomsky & Halle (generative phonology in SPE).",
+   "example": "In English, [pʰ] in 'pin' and [p] in 'spin' are in complementary distribution—they never contrast in the same environment and therefore function as allophones of the phoneme /p/.",
+   "understandMore": "Trubetzkoy established phonology's theoretical base through phonological oppositions (bilateral, multilateral, privative) and neutralization leading to archiphonemes. Daniel Jones defined the phoneme practically as a 'family of sounds' and created the Cardinal Vowel system and modern IPA usage. Jakobson introduced binary distinctive features (+/-) based on acoustic criteria. Chomsky and Halle's 'The Sound Pattern of English' (1968) introduced Generative Phonology, replacing classical autonomous phonemes with underlying representations transformed by ordered phonological rules into surface phonetic representations.",
+   "commonConfusion": "Do not confuse phones, phonemes, and allophones. A phone is any actual sound; a phoneme is an abstract mental unit; an allophone is a non-contrastive phonetic variant of a phoneme occurring in complementary distribution or free variation.",
+   "relatedConcepts": [
+    "E410_T01",
+    "E410_T03",
+    "E410_T04",
+    "E411_T01"
+   ],
+   "sourceRef": "E410 Study Guide, pp. 7-14"
+  },
+  {
+   "id": "E410_T03",
+   "title": "English Vowels: Monophthongs, Diphthongs, and Triphthongs",
+   "coreIdea": "Vowels are voiced speech sounds produced with an open vocal tract without airflow obstruction, serving as syllable nuclei. Received Pronunciation (RP) English features 20 vowel phonemes—12 monophthongs (7 short, 5 long) and 8 diphthongs (5 closing, 3 centring)—plus 5 triphthongs formed by glide movements.",
+   "vivaAnswer": "A vowel is an unobstructed, voiced sound forming the sonorous core of a syllable. English has 12 monophthongs classified by tongue height, tongue frontness, and lip rounding, 8 diphthongs involving a glide between two positions, and 5 triphthongs gliding across three vowel qualities ending in schwa /ə/.",
+   "example": "/iː/ in 'see' is a long close front unrounded monophthong, /aɪ/ in 'my' is a closing diphthong gliding from open central to front close, and /aɪə/ in 'fire' is a triphthong.",
+   "understandMore": "Monophthongs remain acoustically stable throughout articulation. The schwa /ə/ is the most frequent English vowel, occurring strictly in unstressed positions as a central, mid, neutral vowel central to rhythm and weak forms. Diphthongs comprise closing types (/eɪ, aɪ, ɔɪ, əʊ, aʊ/) that move toward closer vowels /ɪ/ or /ʊ/, and centring types (/ɪə, eə, ʊə/) gliding toward /ə/ (with /ʊə/ increasingly merged into /ɔː/ in modern RP). Triphthongs (/eɪə, aɪə, ɔɪə, əʊə, aʊə/) represent complex glides within a single syllable, frequently smoothed in rapid speech.",
+   "commonConfusion": "Students often mistake diphthongs for two separate vowels or syllables; a diphthong is a single phoneme and constitutes one syllable peak. Also, vowel length in English is phonemic (distinguishing words like 'ship' /ʃɪp/ and 'sheep' /ʃiːp/), accompanied by differences in vowel quality and muscular tension (lax vs tense).",
+   "relatedConcepts": [
+    "E410_T04",
+    "E410_T05",
+    "E410_T06",
+    "E412_T02"
+   ],
+   "sourceRef": "E410 Study Guide, pp. 15-18"
+  },
+  {
+   "id": "E410_T04",
+   "title": "English Consonants: Voicing, Places, and Manners of Articulation",
+   "coreIdea": "Consonants are speech sounds produced with partial or complete obstruction of the vocal tract. The 24 English consonants are systematically classified along three phonetic dimensions: state of the glottis (voicing), place of articulation (where the constriction occurs), and manner of articulation (how the airflow is modified).",
+   "vivaAnswer": "English has 24 consonant phonemes described by voicing (voiced or voiceless), place of articulation (8 places: bilabial, labiodental, dental, alveolar, post-alveolar, palatal, velar, glottal), and manner of articulation (6 manners: plosive, fricative, affricate, nasal, lateral, approximant).",
+   "example": "/b/ is a voiced bilabial plosive (as in 'bin'), /s/ is a voiceless alveolar fricative ('sun'), and /tʃ/ is a voiceless post-alveolar affricate ('church').",
+   "understandMore": "Plosives (/p, b, t, d, k, ɡ/) involve complete closure followed by explosive release; fricatives (/f, v, θ, ð, s, z, ʃ, ʒ, h/) involve close approximation producing friction; affricates (/tʃ, dʒ/) begin as plosives and release into fricatives. Nasals (/m, n, ŋ/) have complete oral closure with a lowered velum allowing nasal airflow. The lateral /l/ allows lateral airflow around tongue contact, while approximants (/r, j, w/) involve frictionless narrowing. The sound /w/ is a labial-velar approximant with two simultaneous articulatory places.",
+   "commonConfusion": "Do not treat /tʃ/ and /dʒ/ as two sequential phonemes; each is a single complex phoneme (affricate). Also distinguish /θ/ (voiceless dental fricative in 'thin') from /ð/ (voiced dental fricative in 'this'), and recognize that /ŋ/ is a velar nasal phoneme, not /n/ + /ɡ/.",
+   "relatedConcepts": [
+    "E410_T02",
+    "E410_T03",
+    "E410_T05",
+    "E411_T01",
+    "E412_T02"
+   ],
+   "sourceRef": "E410 Study Guide, pp. 19-22"
+  },
+  {
+   "id": "E410_T05",
+   "title": "The Syllable: Phonetic vs. Phonological Definitions, Internal Structure, and Phonotactics",
+   "coreIdea": "A syllable is a foundational unit of phonological organization consisting of a sonority peak (nucleus) optionally flanked by onsets and codas. Phonetically defined by sonority peaks and phonologically by structural constraints, English syllables exhibit complex phonotactic possibilities permitting onsets up to CCC and codas up to CCCC.",
+   "vivaAnswer": "Phonetically, a syllable is a sonority peak governed by the Sonority Sequencing Principle. Phonologically, it is a structural unit consisting of an onset and a rhyme, which splits into a nucleus (vowel core) and a coda (final consonants), permitting complex structures up to CCCVCCCC.",
+   "example": "In the word 'cat' /kæt/, /k/ is the onset, /æ/ is the nucleus, and /t/ is the coda; in 'string' /strɪŋ/, /str/ is a three-consonant onset obeying the phonotactic rule: /s/ + voiceless stop + approximant.",
+   "understandMore": "The Sonority Hierarchy ranks sounds from vowels > glides > liquids > nasals > fricatives > plosives. In an onset with three consonants, English phonotactics strictly mandates C1 must be /s/, C2 must be /p, t, k/, and C3 must be /l, r, w, j/. Syllables ending in a vowel are open (e.g. 'go' /ɡəʊ/), while those ending in consonants are closed ('cat' /kæt/). Unstressed syllables may lack vowels when a liquid or nasal becomes a syllabic consonant (e.g. /n̩/ in 'button' /ˈbʌtn̩/, /l̩/ in 'bottle' /ˈbɒtl̩/).",
+   "commonConfusion": "A spoken syllable does not correspond to written orthographic syllable breaks or letter count (e.g., 'cake' has 4 letters but only 1 syllable /keɪk/). Furthermore, English forbids onsets like /ŋ/ or /tl/, illustrating language-specific phonotactic constraints.",
+   "relatedConcepts": [
+    "E410_T03",
+    "E410_T04",
+    "E410_T07",
+    "E411_T02"
+   ],
+   "sourceRef": "E410 Study Guide, pp. 23-26"
+  },
+  {
+   "id": "E410_T06",
+   "title": "Strong and Weak Forms, Contractions, Elision, and Assimilation",
+   "coreIdea": "In connected speech, words undergo systematic phonetic modifications to optimize articulatory ease and rhythm. Function words alternate between citation strong forms and reduced weak forms, while adjacent sounds undergo elision (deletion) or assimilation (regressive, progressive, coalescent), alongside grammatical contractions.",
+   "vivaAnswer": "Weak forms are the unstressed, reduced pronunciations of grammatical words in connected speech (e.g., 'to' /tə/). Elision is the deletion of sounds (e.g., 'last night' /lɑːs naɪt/), while assimilation is the modification of a sound to match a neighbour (e.g., 'ten boys' /tem bɔɪz/).",
+   "example": "In 'What do you want?', coalescent assimilation merges /d/ + /j/ into /dʒ/ (/wɒt dʒə wɒnt/), and 'you' appears in its weak form /jə/.",
+   "understandMore": "Strong forms are reserved for emphasis, contrast, isolation, and phrase-final positions ('Who are you looking for?' /fɔː/). Elision commonly targets alveolar stops /t, d/ in complex consonant clusters ('next day' /neks deɪ/) and weak unstressed vowels ('family' /ˈfæmli/). Assimilation occurs in place (/n/ becomes /m/ before bilabials in 'ten men' /tem men/), voice ('have to' /hæf tə/), or coalescence (/t/ + /j/ → /tʃ/ in 'don't you' /ˈdəʊntʃuː/). Contraction is a conventionalized, orthographically represented shortening ('I am' → 'I'm').",
+   "commonConfusion": "Weak forms and elision are not 'careless' or 'incorrect' speech; they are the natural phonological rules of English rhythm. Notice also that in elision a sound disappears entirely, whereas in assimilation the sound remains present but transforms.",
+   "relatedConcepts": [
+    "E410_T07",
+    "E410_T08",
+    "E410_T10",
+    "E404_T02"
+   ],
+   "sourceRef": "E410 Study Guide, pp. 27-31"
+  },
+  {
+   "id": "E410_T07",
+   "title": "Stress: Definition, Factors of Prominence, Word Stress Rules, and Sentence Stress",
+   "coreIdea": "Stress is the relative auditory prominence given to a syllable, produced by heightened articulatory energy. Governed primarily by pitch change alongside loudness, length, and vowel quality, stress operates at word level (lexical stress patterns and noun-verb shifts) and sentence level (stress-timing and information focus).",
+   "vivaAnswer": "Stress is syllable prominence perceived through four acoustic factors: pitch change (most important), loudness, length/duration, and full vowel quality. In English words, stress distinguishes nouns from verbs (e.g., ˈrecord vs reˈcord) and establishes stress-timed sentence rhythm.",
+   "example": "In the noun-verb pair 'present', the noun is stressed on the first syllable (ˈpresent /ˈpreznt/) while the verb is stressed on the second (preˈsent /prɪˈzent/).",
+   "understandMore": "Stress levels include primary (ˈ), secondary (ˌ), and unstressed. Rules for polysyllabic words include suffix-determined stress (penultimate stress before -tion, -ic, -ity; antepenultimate before -ate, -ize; final on -ee, -eer). Compound nouns stress the first element (ˈblackbird), whereas compound adjectives and verbs stress the second (bad-ˈtempered, underˈstand). In sentences, content words (nouns, main verbs, adjectives, adverbs) receive stress, while function words remain unstressed unless highlighted by contrastive or emphatic stress.",
+   "commonConfusion": "Loudness alone does not create stress; psychoacoustic research proves pitch movement is the most potent perceptual cue. Additionally, English is a stress-timed language where intervals between stressed syllables are roughly equal, unlike syllable-timed languages where every syllable has equal duration.",
+   "relatedConcepts": [
+    "E410_T05",
+    "E410_T06",
+    "E410_T08",
+    "E405_T01"
+   ],
+   "sourceRef": "E410 Study Guide, pp. 32-36"
+  },
+  {
+   "id": "E410_T08",
+   "title": "Chunking, Tone, and Tone Units",
+   "coreIdea": "Chunking divides continuous spoken discourse into manageable tone units or thought groups, each anchored by a prominent pitch movement (tone). The tone unit is the fundamental building block of spoken prosody, possessing a hierarchical structure centered on the obligatory tonic syllable.",
+   "vivaAnswer": "Chunking is dividing continuous speech into meaningful tone units (thought groups) separated by pauses. A tone unit has an obligatory tonic syllable (nucleus) carrying the primary pitch movement (tone), flanked optionally by a pre-head, head, and tail.",
+   "example": "In the utterance | She ˈbought a ↘CAR |, 'car' is the tonic syllable bearing the falling pitch movement, preceded by the head 'ˈbought a' and pre-head 'She'.",
+   "understandMore": "Natural chunking respects grammatical and sense boundaries (clauses, phrases) and respiration needs. Pitch movement on the tonic syllable constitutes tone: falling (certainty/finality), rising (incompleteness/question), fall-rise (reservation/doubt), rise-fall (strong surprise/sarcasm), and level (routine/boredom). In tone unit structure, the tonic syllable is the only mandatory element; pre-head covers unstressed syllables before the head, head runs from the first stressed syllable to the tonic, and tail includes any syllables following the tonic.",
+   "commonConfusion": "Do not confuse tone in intonation languages with lexical tone in tonal languages (like Mandarin). In English, tone operates at the phrase/utterance level to signal pragmatic meaning, not to change individual lexical word definitions. Furthermore, a tone unit does not necessarily equal a syntactic sentence.",
+   "relatedConcepts": [
+    "E410_T07",
+    "E410_T09",
+    "E410_T10",
+    "E405_T01"
+   ],
+   "sourceRef": "E410 Study Guide, pp. 37-40"
+  },
+  {
+   "id": "E410_T09",
+   "title": "Intonation: Definition, Four Functions, and Pitch Contours",
+   "coreIdea": "Intonation is the meaningful variation of pitch across entire utterances. It fulfills four core communicative functions—grammatical, attitudinal, discourse, and accentual—allowing speakers to signal sentence types, emotional attitudes, conversational management, and information focus.",
+   "vivaAnswer": "Intonation is the melody of speech formed by pitch variation across utterances. It serves four key functions: grammatical (distinguishing questions from statements), attitudinal (expressing emotion and attitude), discourse (managing turn-taking and given vs new information), and accentual (focusing the tonic syllable).",
+   "example": "The tag question 'It's cold, isn't it?' means 'I expect you to agree' with a falling tag (↘), but becomes a genuine question with a rising tag (↗).",
+   "understandMore": "Falling intonation (↘) is standard for declarative statements, wh-questions, commands, exclamations, and final items in lists. Rising intonation (↗) characterizes yes/no questions, polite requests, encouragement, and open/listing items. Fall-rise intonation (↘↗) conveys reservation, partial agreement ('It's ↘↗nice...'), polite dissent, and contrast. Rise-fall (↗↘) signals strong emotion, surprise ('That's ↗↘amazing!'), or irony. Intonational meaning interacts directly with pragmatics and speech acts.",
+   "commonConfusion": "Rising intonation does not automatically mean 'question'; wh-questions routinely use falling intonation, while rising intonation can indicate polite listing or unfinished statements. Tone is the pitch change on a single syllable, while intonation is the overarching pitch pattern across an entire utterance.",
+   "relatedConcepts": [
+    "E410_T07",
+    "E410_T08",
+    "E410_T10",
+    "E405_T01",
+    "E405_T03"
+   ],
+   "sourceRef": "E410 Study Guide, pp. 41-44"
+  },
+  {
+   "id": "E410_T10",
+   "title": "IPA Transcription of Connected Speech and Linking Phenomena",
+   "coreIdea": "Connected speech transcription represents natural spoken language using standard IPA notation, capturing systematic alterations from citation forms. It accounts for weak forms, elisions, assimilations, and linking phenomena (linking /r/, intrusive /r/, and glide insertion /j, w/).",
+   "vivaAnswer": "IPA transcription of connected speech captures fluent speech modifications using broad phonemic notation / / annotated for weak forms, elisions, assimilations, stress marks, and linking phenomena such as linking /r/, intrusive /r/, and glide insertions (/j/, /w/).",
+   "example": "The sentence 'I want to go to the shop' changes from citation /aɪ wɒnt tuː ɡəʊ tuː ðiː ʃɒp/ to connected speech /aɪ wɒnə ɡəʊ tə ðə ʃɒp/ through /t/-elision and vowel reductions to schwa.",
+   "understandMore": "Broad transcription represents contrastive phonemes between slashes / /, while narrow transcription adds diacritics in square brackets [ ] to indicate phonetic detail (aspiration, nasalization, syllabicity). In non-rhotic accents like RP, linking /r/ reintroduces silent orthographic 'r' before following vowels ('far away' /fɑːrəweɪ/), while intrusive /r/ inserts /r/ after /ɔː, ɑː, ə/ where no orthographic 'r' exists ('law and order' /lɔːrənd ɔːdə/). Vowel-vowel transitions insert /j/ after front vowels ('he asked' /hiːjɑːskt/) and /w/ after back rounded vowels ('go away' /ɡəʊwəweɪ/).",
+   "commonConfusion": "Connected speech is not 'sloppy' or substandard speech; it is rule-governed, systematic phonological behavior characteristic of all native speakers. Pronouncing every word in its isolated citation form sounds artificial and hinders natural stress-timed English rhythm.",
+   "relatedConcepts": [
+    "E410_T01",
+    "E410_T02",
+    "E410_T06",
+    "E404_T02"
+   ],
+   "sourceRef": "E410 Study Guide, pp. 45-50"
+  }
+ ],
+ "questions": [
+  {
+   "id": "E410_Q001",
+   "topicId": "E410_T01",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is phonetics?",
+   "directAnswer": "Phonetics is the scientific study of the physical properties of human speech sounds.",
+   "vivaAnswer": "Phonetics is the branch of linguistics that studies the physical properties of speech sounds. It investigates how sounds are produced by the vocal organs, transmitted as sound waves through the air, and perceived by the human ear, regardless of language meaning.",
+   "keyPoints": [
+    "Scientific study of speech sounds as physical events",
+    "Covers production, transmission, and perception",
+    "Universal across all human languages",
+    "Transcribed using square brackets [ ]"
+   ],
+   "explanation": "Phonetics treats speech sounds as concrete acoustic and biological events. For example, when saying 'pin', phonetics details the muscular movement of the lips, vocal fold vibration, and sound wave frequencies of [pʰ], [ɪ], and [n], without considering whether the sounds contrast words in English.",
+   "followUp": "E410_Q002",
+   "sourceRef": "E410 Study Guide, p. 3",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q002",
+   "topicId": "E410_T01",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is phonology?",
+   "directAnswer": "Phonology is the study of how speech sounds function and pattern within a specific language system.",
+   "vivaAnswer": "Phonology is the branch of linguistics that studies how speech sounds function, pattern, and organize within a particular language. It focuses on abstract mental sound units called phonemes and the sound contrasts that distinguish word meaning.",
+   "keyPoints": [
+    "Study of sound systems and patterns in a language",
+    "Deals with abstract, mental sound representations",
+    "Focuses on contrastive, meaning-distinguishing units (phonemes)",
+    "Transcribed using slashes / /"
+   ],
+   "explanation": "Unlike phonetics which is universal and purely physical, phonology is language-specific. It asks which sound differences create distinctions in meaning (such as /p/ vs /b/ in English 'pin' vs 'bin') and what rules govern sound combinations (phonotactics).",
+   "followUp": "E410_Q003",
+   "sourceRef": "E410 Study Guide, p. 3",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q003",
+   "topicId": "E410_T01",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "What are the fundamental differences between phonetics and phonology?",
+   "directAnswer": "Phonetics is universal, concrete, and physical (studying phones in [ ]), whereas phonology is language-specific, mental, and functional (studying phonemes in / /).",
+   "vivaAnswer": "The main difference is that phonetics studies the physical, universal properties of all speech sounds (production, acoustic transmission, perception), while phonology studies how sounds function and contrast within a specific language's mental system. Phonetics uses square brackets [ ] for phones, whereas phonology uses slashes / / for phonemes.",
+   "keyPoints": [
+    "Physical/concrete (phonetics) vs. abstract/mental (phonology)",
+    "Universal (all human speech) vs. language-specific",
+    "Does not consider meaning vs. focuses on meaning distinction",
+    "Phone [ ] vs. phoneme / /"
+   ],
+   "explanation": "A clear example is aspiration in English: [pʰ] in 'pin' and [p] in 'spin' are phonetically two distinct sounds because [pʰ] has a puff of air. Phonologically, however, both represent the single phoneme /p/ in English because swapping them does not change word meaning.",
+   "followUp": "E410_Q008",
+   "sourceRef": "E410 Study Guide, pp. 3-4",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q004",
+   "topicId": "E410_T01",
+   "type": "identification",
+   "difficulty": 1,
+   "question": "What are the three main branches of phonetics?",
+   "directAnswer": "The three main branches are articulatory phonetics, acoustic phonetics, and auditory phonetics.",
+   "vivaAnswer": "Phonetics is divided into three branches based on the speech communication chain: articulatory phonetics (how sounds are produced by the vocal organs), acoustic phonetics (how sound waves travel through the air), and auditory phonetics (how sounds are received and perceived by the ear and brain).",
+   "keyPoints": [
+    "Articulatory phonetics: sound production (speaker)",
+    "Acoustic phonetics: sound wave transmission (medium)",
+    "Auditory phonetics: sound perception (listener)"
+   ],
+   "explanation": "These three branches correspond to the speaker's mouth, the transmitting air, and the listener's ear. In linguistics viva examinations, articulatory phonetics is the most frequently tested branch.",
+   "followUp": "E410_Q005",
+   "sourceRef": "E410 Study Guide, pp. 4-5",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q005",
+   "topicId": "E410_T01",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What does articulatory phonetics study, and what are its key parameters?",
+   "directAnswer": "Articulatory phonetics studies how speech sounds are produced by the vocal organs using parameters like voicing, place of articulation, and manner of articulation.",
+   "vivaAnswer": "Articulatory phonetics examines how speech sounds are produced by the human vocal organs, including the lungs, vocal cords, tongue, lips, teeth, and palate. It classifies sounds primarily through three parameters: the state of the glottis (voicing), the place of articulation (where constriction occurs), and the manner of articulation (how airflow is modified).",
+   "keyPoints": [
+    "Focuses on speech production by vocal organs",
+    "Key articulators: lips, teeth, alveolar ridge, palate, velum, vocal cords",
+    "Primary descriptive triad: voicing, place, manner",
+    "Example: /b/ is described as a voiced bilabial plosive"
+   ],
+   "explanation": "Articulatory descriptions provide anatomical precision. For instance, in producing /t/, the tongue blade contacts the alveolar ridge, completely obstructing the airstream before releasing it without vocal cord vibration (voiceless alveolar plosive).",
+   "followUp": "E410_Q006",
+   "sourceRef": "E410 Study Guide, p. 4",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q006",
+   "topicId": "E410_T01",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What is acoustic phonetics and what physical properties does it measure?",
+   "directAnswer": "Acoustic phonetics studies speech sound waves traveling through the air, measuring frequency, amplitude, and duration.",
+   "vivaAnswer": "Acoustic phonetics analyzes the physical properties of speech sound waves as they travel between speaker and listener. It measures three primary properties: frequency (pitch), amplitude (loudness/intensity), and duration (length), typically utilizing instruments such as sound spectrographs to produce spectrograms.",
+   "keyPoints": [
+    "Analyzes sound waves in the transmission phase",
+    "Measures frequency (Hertz), amplitude (decibels), and duration (milliseconds)",
+    "Key concepts: fundamental frequency (F0), harmonics, formants (F1, F2)",
+    "Instrument: Spectrogram"
+   ],
+   "explanation": "Acoustic phonetics is crucial for identifying vowel qualities by measuring formant frequencies (F1 corresponds inversely to tongue height; F2 corresponds to tongue frontness). It bridges articulatory movements and auditory perception.",
+   "followUp": "E410_Q007",
+   "sourceRef": "E410 Study Guide, pp. 4-5",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q007",
+   "topicId": "E410_T01",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "What is auditory phonetics and how does it differ from acoustic phonetics?",
+   "directAnswer": "Acoustic phonetics examines the physical sound wave in the air, while auditory phonetics examines how that sound wave is detected by the ear and interpreted by the brain.",
+   "vivaAnswer": "Auditory (or perceptual) phonetics investigates how speech signals are received, converted into neural impulses by the ear, and processed psychoacoustically by the listener's brain. In contrast, acoustic phonetics measures the objective physical wave itself (frequency and amplitude) before it enters the human auditory system.",
+   "keyPoints": [
+    "Acoustic: objective physical wave properties (spectrograms, waveforms)",
+    "Auditory: subjective psychoacoustic hearing and perceptual discrimination",
+    "Anatomical focus: cochlea, eardrum, auditory nerve, and auditory cortex"
+   ],
+   "explanation": "While acoustic instruments measure absolute decibels and Hertz, auditory phonetics studies perceived loudness, pitch contours, and how humans categorize continuous acoustic signals into discrete phonemic categories.",
+   "followUp": null,
+   "sourceRef": "E410 Study Guide, p. 5",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q008",
+   "topicId": "E410_T01",
+   "type": "connection",
+   "difficulty": 2,
+   "question": "How do phonetics and phonology correlate and depend on each other?",
+   "directAnswer": "Phonetics provides the empirical raw material of speech sounds, while phonology provides the structural rules and functional organization of those sounds.",
+   "vivaAnswer": "Phonetics and phonology are mutually dependent. Phonetics provides the empirical raw data—the physical sounds that the vocal organs produce—while phonology organizes that data into functional, meaningful linguistic patterns. You cannot describe phonological systems without phonetic data, nor can you understand linguistic communication with phonetics alone.",
+   "keyPoints": [
+    "Phonetics provides raw physical sounds; phonology organizes them",
+    "Phonology selects a subset of phonetic possibilities to create meaning contrasts",
+    "They share the same subject matter (speech sounds) at different analytical levels",
+    "Phonetics is concrete; phonology is abstract"
+   ],
+   "explanation": "In English, [p] and [pʰ] are phonetically distinct in airflow, but phonology reveals that this difference is predictable and non-contrastive. In languages like Hindi or Thai, however, this very phonetic difference is phonological, distinguishing entirely different words.",
+   "followUp": "E410_Q009",
+   "sourceRef": "E410 Study Guide, pp. 5-6",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q009",
+   "topicId": "E410_T01",
+   "type": "distinction",
+   "difficulty": 1,
+   "question": "Why are square brackets [ ] used for phonetic transcription and slashes / / for phonological transcription?",
+   "directAnswer": "Square brackets [ ] enclose concrete phones (actual sounds), while slashes / / enclose abstract phonemes (meaning-distinguishing units).",
+   "vivaAnswer": "Square brackets [ ] represent phonetic transcription, indicating actual, physical sounds (phones) with exact acoustic and articulatory details, such as aspiration [pʰ]. Slashes / / represent phonemic transcription, indicating abstract, functional sound units (phonemes) stored in the speaker's mental lexicon, such as /p/.",
+   "keyPoints": [
+    "[ ] = phonetic (phones, allophones, narrow details)",
+    "/ / = phonemic (phonemes, broad contrastive units)",
+    "Confusing the two brackets is a serious theoretical error in viva"
+   ],
+   "explanation": "Transcribing /pʰ/ is incorrect because aspiration is not contrastive in English; the phonemic unit is /p/, while its physical phonetic realization in 'pin' is written [pʰ].",
+   "followUp": "E410_Q010",
+   "sourceRef": "E410 Study Guide, p. 4, 6",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q010",
+   "topicId": "E410_T01",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "Why is phonetics considered universal while phonology is language-specific?",
+   "directAnswer": "Phonetics applies universally to human anatomy and physics, whereas phonology describes the unique sound rules and contrasts chosen by a specific language.",
+   "vivaAnswer": "Phonetics is universal because all humans share the same vocal apparatus and physical acoustics; any human vocal tract can potentially produce an alveolar click or a nasal vowel. Phonology is language-specific because each individual language selects only a small subset of sounds and establishes its own unique rules for which sounds contrast meaning.",
+   "keyPoints": [
+    "Phonetics is universal: biological vocal anatomy and physical acoustics",
+    "Phonology is language-specific: arbitrary, culturally inherited sound systems",
+    "The same phone can be an allophone in Language A and a phoneme in Language B"
+   ],
+   "explanation": "For example, aspiration ([p] vs [pʰ]) exists phonetically in both English and Hindi. In English, it is non-contrastive (allophonic), but in Hindi, it is phonological, differentiating 'pal' (moment) from 'phal' (fruit).",
+   "followUp": null,
+   "sourceRef": "E410 Study Guide, pp. 4, 6",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E404_T02"
+   ]
+  },
+  {
+   "id": "E410_Q011",
+   "topicId": "E410_T02",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is a phoneme?",
+   "directAnswer": "A phoneme is the smallest abstract contrastive sound unit in a language that can distinguish one word from another.",
+   "vivaAnswer": "A phoneme is the smallest contrastive unit of sound in a language that is capable of distinguishing word meaning. It is an abstract, mental representation in the speaker's mind, written between slashes / /, and proven by minimal pairs like /p/ and /b/ in 'pat' and 'bat'.",
+   "keyPoints": [
+    "Smallest meaning-distinguishing sound unit",
+    "Abstract mental representation, not a physical sound",
+    "Enclosed in slashes / /",
+    "Established using minimal pairs"
+   ],
+   "explanation": "English has approximately 44 phonemes. A phoneme does not possess inherent semantic meaning of its own, but altering a single phoneme alters the word's meaning entirely (e.g. /kæt/ 'cat' vs /mæt/ 'mat').",
+   "followUp": "E410_Q012",
+   "sourceRef": "E410 Study Guide, p. 7",
+   "isEssential": true,
+   "crossCourseLinks": [
+    "E411_T01"
+   ]
+  },
+  {
+   "id": "E410_Q012",
+   "topicId": "E410_T02",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is a phone?",
+   "directAnswer": "A phone is any actual, physical speech sound produced by a human speaker, written in square brackets [ ].",
+   "vivaAnswer": "A phone is a concrete, physical sound event produced by the vocal tract and capable of being heard, recorded, and acoustically measured. Unlike phonemes, phones are not abstract and are transcribed within square brackets [ ].",
+   "keyPoints": [
+    "Concrete, measurable physical speech sound",
+    "Enclosed in square brackets [ ]",
+    "Unlimited in variation across speakers and contexts",
+    "The physical realization of an underlying phoneme"
+   ],
+   "explanation": "Phones are the objective phonetic events of speech. For instance, the aspirated sound [pʰ] in 'pin' and the unaspirated sound [p] in 'spin' are two physically distinct phones.",
+   "followUp": "E410_Q013",
+   "sourceRef": "E410 Study Guide, p. 7",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q013",
+   "topicId": "E410_T02",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is an allophone?",
+   "directAnswer": "An allophone is a predictable phonetic variant of a phoneme that does not change the meaning of a word.",
+   "vivaAnswer": "An allophone is a contextual phonetic variant of a single phoneme. When a phoneme is realized as different physical sounds in different phonetic environments without changing the word's meaning, those variant sounds are called allophones of that phoneme.",
+   "keyPoints": [
+    "Positional or contextual variant of a phoneme",
+    "Does not create a contrast in meaning",
+    "Usually occurs in complementary distribution or free variation",
+    "Transcribed in square brackets [ ]"
+   ],
+   "explanation": "In English, the phoneme /l/ has two major allophones: clear [l] before vowels ('light') and dark (velarized) [ɫ] after vowels or word-finally ('ball'). English speakers recognize them as the same functional sound.",
+   "followUp": "E410_Q014",
+   "sourceRef": "E410 Study Guide, p. 8",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E411_T01"
+   ]
+  },
+  {
+   "id": "E410_Q014",
+   "topicId": "E410_T02",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "How do you distinguish between a phone, a phoneme, and an allophone?",
+   "directAnswer": "A phone is any real sound [ ]; a phoneme is an abstract contrastive category / /; an allophone is a specific physical member belonging to a phoneme family.",
+   "vivaAnswer": "A phone is any concrete sound produced by the vocal organs, transcribed in [ ]. A phoneme is an abstract, meaning-distinguishing sound unit stored in the mind, transcribed in / /. An allophone is a specific phonetic variant of a phoneme occurring in predictable environments that does not alter meaning.",
+   "keyPoints": [
+    "Phone: concrete, universal physical sound [p]",
+    "Phoneme: abstract, language-specific mental category /p/",
+    "Allophone: sub-member variant of a phoneme ([pʰ], [p])",
+    "Every allophone is a phone, but phones only become allophones relative to a specific phoneme"
+   ],
+   "explanation": "An analogy is a family: the phoneme is the family surname (abstract concept /p/), while allophones are the individual family members ([pʰ], [p], [p̚]), and any human being is a phone.",
+   "followUp": "E410_Q015",
+   "sourceRef": "E410 Study Guide, pp. 7-8, 13",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q015",
+   "topicId": "E410_T02",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is a minimal pair and what is its role in phonology?",
+   "directAnswer": "A minimal pair is a pair of words that differ by only one sound in the same position, proving that the two sounds are distinct phonemes.",
+   "vivaAnswer": "A minimal pair consists of two words in a language that differ in meaning and are identical in pronunciation except for a single sound segment in the same phonetic position. Because the substitution of one sound for another changes word meaning, minimal pairs prove that the two sounds are separate phonemes.",
+   "keyPoints": [
+    "Two words differing by exactly one sound in identical position",
+    "Must result in a difference in word meaning",
+    "Primary methodological tool for establishing phonemic inventory",
+    "Examples: 'pat' /pæt/ vs 'bat' /bæt/, 'ship' /ʃɪp/ vs 'sheep' /ʃiːp/"
+   ],
+   "explanation": "In 'sip' /sɪp/ and 'zip' /zɪp/, the only phonetic difference is the initial consonant (/s/ vs /z/). Because 'sip' and 'zip' mean different things, /s/ and /z/ are established as distinct phonemes in English.",
+   "followUp": "E410_Q016",
+   "sourceRef": "E410 Study Guide, pp. 7, 8",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q016",
+   "topicId": "E410_T02",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "Distinguish between complementary distribution and free variation.",
+   "directAnswer": "Complementary distribution means sounds occur in mutually exclusive environments, while free variation means sounds can substitute for each other in the same environment without changing meaning.",
+   "vivaAnswer": "Complementary distribution occurs when two phonetic variants never appear in the same phonetic environment; where one occurs, the other cannot. Free variation occurs when two different phones can appear in the exact same position without altering the word's meaning and without being determined by phonetic environment.",
+   "keyPoints": [
+    "Complementary distribution: mutually exclusive environments (e.g., [pʰ] syllable-initially, [p] after /s/)",
+    "Complementary distribution is the hallmark of allophony",
+    "Free variation: interchangeable in the same environment (e.g., released [p] vs unreleased [p̚] in 'stop')",
+    "Neither phenomenon causes a change in lexical meaning"
+   ],
+   "explanation": "Like Superman and Clark Kent, allophones in complementary distribution are never seen in the same place at the same time. In contrast, free variation represents optional stylistic or dialectal freedom.",
+   "followUp": null,
+   "sourceRef": "E410 Study Guide, p. 8",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q017",
+   "topicId": "E410_T02",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "Who was Nikolai Trubetzkoy and what was his major contribution to phonology?",
+   "directAnswer": "Nikolai Trubetzkoy was a founder of the Prague School who established phonology as a separate discipline defined by distinctive sound oppositions.",
+   "vivaAnswer": "Nikolai Trubetzkoy (1890–1938) was a Russian linguist and central figure in the Prague Linguistic Circle. In his seminal 1939 work 'Grundzüge der Phonologie' (Principles of Phonology), he clearly separated phonology from phonetics, defining the phoneme by its distinctive, meaning-differentiating function within a system of phonological oppositions.",
+   "keyPoints": [
+    "Prague School founder; author of 'Grundzüge der Phonologie' (1939)",
+    "Separated phonetics (physical) from phonology (functional)",
+    "Defined phonemes through their distinctive function",
+    "Introduced theories of phonological oppositions, neutralization, and markedness"
+   ],
+   "explanation": "Trubetzkoy shifted linguistic inquiry from the physical description of sound substance to the functional relational network among sounds. His structural framework remains foundational to modern phonological theory.",
+   "followUp": "E410_Q018",
+   "sourceRef": "E410 Study Guide, pp. 9-10",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q018",
+   "topicId": "E410_T02",
+   "type": "explanation",
+   "difficulty": 3,
+   "question": "Explain Trubetzkoy's concepts of phonological oppositions and neutralization.",
+   "directAnswer": "Phonological oppositions are contrastive sound relationships (e.g. privative), while neutralization occurs when an opposition is cancelled in specific positions, yielding an archiphoneme.",
+   "vivaAnswer": "Trubetzkoy classified phonological contrasts into oppositions, such as privative oppositions where one member has a feature and the other lacks it (e.g. voiced /b/ vs voiceless /p/). Neutralization occurs when an opposition is cancelled in a specific environment; for instance, in German, the voicing contrast between /t/ and /d/ is neutralized word-finally to [t], represented as the archiphoneme /T/.",
+   "keyPoints": [
+    "Oppositions: bilateral/multilateral, proportional/isolated, privative/gradual/equipollent",
+    "Privative opposition: presence vs absence of a mark (e.g. [±voice])",
+    "Neutralization: loss of contrastive power in specific phonotactic positions",
+    "Archiphoneme: abstract unit representing the neutralized opposition"
+   ],
+   "explanation": "In German 'Rad' (wheel) and 'Rat' (advice), both end with [t] on the surface due to word-final devoicing neutralization. Trubetzkoy also developed the theory of markedness, where one member is unmarked (default) and the other is marked.",
+   "followUp": "E410_Q019",
+   "sourceRef": "E410 Study Guide, pp. 9-10",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q019",
+   "topicId": "E410_T02",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "What was Roman Jakobson's Distinctive Feature Theory?",
+   "directAnswer": "Jakobson proposed that phonemes are not indivisible units but bundles of universal, binary (+/-) acoustic features.",
+   "vivaAnswer": "Roman Jakobson (1896–1982), associated with the Prague School and later Harvard/MIT, introduced Distinctive Feature Theory. He demonstrated that the phoneme is not the ultimate minimal unit of language, but rather a bundle of smaller, simultaneous binary (+ or −) distinctive features based primarily on acoustic properties (such as [±voice], [±nasal], [±grave]).",
+   "keyPoints": [
+    "Phonemes decomposed into bundles of concurrent features",
+    "Binary values (+/-) represent presence or absence of a feature",
+    "Features are universal across all human languages",
+    "Initially based on acoustic/spectrographic criteria rather than articulatory ones"
+   ],
+   "explanation": "Under Jakobson's theory, /p/ and /b/ are identical in every feature except that /b/ is [+voiced] while /p/ is [−voiced]. This insight made phonology compositional and paved the way for modern generative phonology.",
+   "followUp": "E410_Q020",
+   "sourceRef": "E410 Study Guide, p. 10",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q020",
+   "topicId": "E410_T02",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "How did Daniel Jones define the phoneme as a 'family of sounds'?",
+   "directAnswer": "Daniel Jones defined the phoneme practically as a family of phonetically related sounds that never occur in the same context in a given language.",
+   "vivaAnswer": "Daniel Jones (1881–1967), the leading British phonetician, took a practical, physical approach to the phoneme. He famously defined it as 'a family of sounds in a given language which are related in character and are used in such a way that no one member ever occurs in a word in the same phonetic context as any other member.'",
+   "keyPoints": [
+    "Physical and concrete view of the phoneme (British phonetic tradition)",
+    "Defined phoneme as a 'family of sounds' (allophones)",
+    "Emphasized phonetic similarity and complementary distribution",
+    "Contrasted with the purely abstract functionalist Prague School view"
+   ],
+   "explanation": "Jones's definition grounded phonology in empirical articulatory realities. For Jones, the phoneme was an inventory of related physical phones grouped by strict distribution rather than an unobservable mental entity.",
+   "followUp": "E410_Q021",
+   "sourceRef": "E410 Study Guide, pp. 10-11",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q021",
+   "topicId": "E410_T02",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What is Daniel Jones's Cardinal Vowel system and why is it important?",
+   "directAnswer": "The Cardinal Vowel system is a set of 16 reference vowels (8 primary, 8 secondary) based on physiological tongue extremes to map any vowel sound.",
+   "vivaAnswer": "Daniel Jones developed the Cardinal Vowel system as a set of objective, standardized reference points for identifying and describing vowels in any language. Based on the physiological limits of tongue height (close vs open) and frontness (front vs back), it consists of 8 primary and 8 secondary cardinal vowels, providing the foundation for the IPA vowel quadrilateral.",
+   "keyPoints": [
+    "Invented by Daniel Jones at University College London",
+    "Set of 8 primary and 8 secondary fixed reference vowels",
+    "Based on extreme physiological positions of the tongue and lip postures",
+    "Serves as the universal mapping framework for the IPA vowel chart"
+   ],
+   "explanation": "Cardinal vowels are theoretical yardsticks rather than sounds of a specific language (though Cardinal 1 [i] is close to French 'si'). In viva, Jones is also celebrated for his English Pronouncing Dictionary (EPD) and the codification of RP.",
+   "followUp": "E410_Q022",
+   "sourceRef": "E410 Study Guide, p. 11",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q022",
+   "topicId": "E410_T02",
+   "type": "criticism",
+   "difficulty": 3,
+   "question": "What was Chomsky and Halle's critique of the classical autonomous phoneme in Generative Phonology?",
+   "directAnswer": "Chomsky and Halle criticized the classical phoneme as an unnecessary artificial level that obscures overarching morphological and phonological generalizations.",
+   "vivaAnswer": "In 'The Sound Pattern of English' (SPE, 1968), Noam Chomsky and Morris Halle argued against the classical structuralist phoneme (as used by Jones and Trubetzkoy). They criticized the autonomous phonemic level for imposing strict biuniqueness and surface invariance conditions, which prevented linguists from expressing unified phonological processes across morpheme boundaries; instead, they replaced it with underlying systematic phonemic representations mapped directly to surface phonetic forms via ordered rules.",
+   "keyPoints": [
+    "Rejection of classical autonomous phoneme and biuniqueness constraint",
+    "Structuralist phonemics misses significant phonological generalizations across word boundaries",
+    "Replaced with systematic phonemic level (Underlying Representation)",
+    "Chomsky & Halle SPE (1968) introduced Generative Phonology"
+   ],
+   "explanation": "For example, in Russian voicing assimilation, treating the phoneme as an autonomous invariant forces two completely different mechanisms for the same physical voicing process. Generative phonology eliminates this redundancy.",
+   "followUp": "E410_Q023",
+   "sourceRef": "E410 Study Guide, pp. 11-12",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E411_T01"
+   ]
+  },
+  {
+   "id": "E410_Q023",
+   "topicId": "E410_T02",
+   "type": "explanation",
+   "difficulty": 3,
+   "question": "Explain the generative phonological model: Underlying representation -> Phonological rules -> Surface representation.",
+   "directAnswer": "Underlying representation is the abstract mental form stored in memory; phonological rules modify it contextually to generate the surface spoken form.",
+   "vivaAnswer": "In generative phonology, the Underlying Representation (UR) is the abstract mental form stored in the speaker's lexicon, coded in distinctive features. Ordered phonological rules then apply to this form depending on morphological and phonetic environment. The final output is the Surface Representation (SR), which represents the actual physical pronunciation.",
+   "keyPoints": [
+    "Underlying Representation (UR): abstract, stored in mental lexicon (e.g. /kæt + z/)",
+    "Phonological Rules: formal rewrite statements (A → B / C __ D)",
+    "Surface Representation (SR): actual phonetic realization (e.g. [kæts] due to voicing assimilation)",
+    "Connects phonology with morphology and psychological grammar"
+   ],
+   "explanation": "For example, the underlying plural morpheme /-z/ is modified by a rule: 'Voiced fricative becomes voiceless after a voiceless consonant' (/z/ → [s] / [-voice] __), converting /kæt + z/ into surface [kæts].",
+   "followUp": "E410_Q024",
+   "sourceRef": "E410 Study Guide, p. 12",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E411_T01"
+   ]
+  },
+  {
+   "id": "E410_Q024",
+   "topicId": "E410_T02",
+   "type": "connection",
+   "difficulty": 2,
+   "question": "How does the phoneme-allophone relationship in phonology connect to morphemes and allomorphs in morphology (E411)?",
+   "directAnswer": "The phoneme-allophone relationship is structurally parallel to the morpheme-allomorph relationship: an abstract mental unit realized as predictable contextual variants.",
+   "vivaAnswer": "The relationship between a phoneme and its allophones directly parallels the morphological relationship between a morpheme and its allomorphs. Just as an abstract phoneme /p/ has contextual phonetic realizations ([pʰ] in 'pin', [p] in 'spin'), an abstract morpheme (like the English plural {-s}) has phonologically conditioned allomorphic realizations: [s] in 'cats', [z] in 'dogs', and [ɪz] in 'busses'.",
+   "keyPoints": [
+    "Structural isomorphism between phonology and morphology",
+    "Phoneme : Allophone = Morpheme : Allomorph",
+    "Abstract mental invariant vs. contextually conditioned realization",
+    "Governed by morphophonological rules"
+   ],
+   "explanation": "This connection represents the subfield of Morphophonology in E411. In both cases, the variants are in complementary distribution determined by surrounding phonetic environments.",
+   "followUp": null,
+   "sourceRef": "E410 Study Guide, pp. 8, 12",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E411_T01",
+    "E411_T02"
+   ]
+  },
+  {
+   "id": "E410_Q025",
+   "topicId": "E410_T03",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is a vowel sound from an articulatory and phonological perspective?",
+   "directAnswer": "A vowel is a voiced speech sound produced without any obstruction of airflow in the vocal tract, functioning as the nucleus of a syllable.",
+   "vivaAnswer": "Articulatively, a vowel is a speech sound produced when the airstream escapes continuously from the lungs through the pharynx and mouth without any obstruction, blockage, or audible friction. Phonologically, vowels are voiced sounds that occupy the central, most sonorous peak (the nucleus) of every syllable.",
+   "keyPoints": [
+    "No obstruction or friction in the vocal tract",
+    "Always voiced in English",
+    "Forms the indispensable nucleus (peak) of a syllable",
+    "Classified by tongue position and lip posture"
+   ],
+   "explanation": "If air is obstructed, the sound becomes a consonant. In English, you cannot have a well-formed syllable without a vowel (or a vowel substitute like a syllabic consonant).",
+   "followUp": "E410_Q026",
+   "sourceRef": "E410 Study Guide, p. 15",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q026",
+   "topicId": "E410_T03",
+   "type": "explanation",
+   "difficulty": 1,
+   "question": "What are the three main articulatory criteria used to describe and classify vowels?",
+   "directAnswer": "Vowels are classified by tongue height (vertical), tongue frontness (horizontal), and lip rounding (shape).",
+   "vivaAnswer": "Vowels are classified based on three primary articulatory dimensions: tongue height (close/high, mid, or open/low), tongue position or frontness (front, central, or back), and lip shape (rounded, spread, or neutral). A fourth secondary factor is length or muscular tension (long/tense vs short/lax).",
+   "keyPoints": [
+    "Tongue height: close (high), close-mid, open-mid, open (low)",
+    "Tongue frontness: front, central, back",
+    "Lip shape: rounded, spread, unrounded/neutral",
+    "Length/tension: long vs short (lax)"
+   ],
+   "explanation": "For example, /iː/ (as in 'see') is described as a close front spread long vowel, while /uː/ ('food') is a close back rounded long vowel.",
+   "followUp": "E410_Q027",
+   "sourceRef": "E410 Study Guide, p. 15",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q027",
+   "topicId": "E410_T03",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is a monophthong and how many monophthongs are there in RP English?",
+   "directAnswer": "A monophthong is a pure, single vowel sound where the vocal organs remain steady, with 12 monophthongs in RP English.",
+   "vivaAnswer": "A monophthong (also called a pure vowel) is a vowel produced with the tongue and lips remaining in a constant, fixed position throughout its articulation without any audible glide. Received Pronunciation (RP) English has exactly 12 monophthong phonemes, divided into 7 short vowels and 5 long vowels.",
+   "keyPoints": [
+    "Pure vowel: steady-state acoustic quality throughout production",
+    "No gliding movement of the tongue or lips",
+    "12 monophthongs in RP English: 7 short and 5 long",
+    "Examples: /iː, ɪ, e, æ, ɑː, ɒ, ɔː, ʊ, uː, ʌ, ɜː, ə/"
+   ],
+   "explanation": "Monophthongs contrast with diphthongs, which involve a smooth movement from one articulatory posture to another within the same syllable.",
+   "followUp": "E410_Q028",
+   "sourceRef": "E410 Study Guide, pp. 15-16",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q028",
+   "topicId": "E410_T03",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "Distinguish between short and long vowels in English with IPA examples.",
+   "directAnswer": "English has 5 long vowels (indicated with a length mark ː) and 7 short vowels, differing in duration, tension, and vowel quality.",
+   "vivaAnswer": "English has 5 long vowels (/iː, ɑː, ɔː, uː, ɜː/), written with a length mark ː, which are phonetically longer and tenser, and 7 short vowels (/ɪ, e, æ, ɒ, ʊ, ʌ, ə/), which are shorter, laxer, and produced with less muscular tension. They are contrastive phonemes that differentiate words like 'ship' /ʃɪp/ and 'sheep' /ʃiːp/.",
+   "keyPoints": [
+    "5 Long vowels: /iː/ (see), /ɑː/ (car), /ɔː/ (saw), /uː/ (food), /ɜː/ (bird)",
+    "7 Short vowels: /ɪ/ (sit), /e/ (bed), /æ/ (cat), /ɒ/ (hot), /ʊ/ (put), /ʌ/ (cup), /ə/ (about)",
+    "Phonetic differences: duration, vowel tract quality/position, and muscle tension (tense vs lax)",
+    "Phonemic contrast proven by minimal pairs (e.g. /fʊl/ 'full' vs /fuːl/ 'fool')"
+   ],
+   "explanation": "Long vowels are not merely longer versions of short vowels; their articulatory positions differ. For example, /iː/ is higher and fronter than /ɪ/.",
+   "followUp": "E410_Q029",
+   "sourceRef": "E410 Study Guide, pp. 15-16, 54",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q029",
+   "topicId": "E410_T03",
+   "type": "explanation",
+   "difficulty": 1,
+   "question": "What is the schwa /ə/ and why is it unique in English phonology?",
+   "directAnswer": "The schwa /ə/ is the most frequent English vowel: a central, mid, neutral vowel that occurs exclusively in unstressed syllables.",
+   "vivaAnswer": "The schwa /ə/ is the most common vowel sound in the English language. It is a mid-central neutral vowel produced with the vocal tract in a completely relaxed resting position. Its defining phonological property is that it occurs strictly in unstressed syllables, forming the foundation of weak forms and English stress-timed rhythm.",
+   "keyPoints": [
+    "Most frequent vowel in spoken English",
+    "Articulatory status: mid, central, neutral lip posture",
+    "Restricted distribution: occurs ONLY in unstressed syllables",
+    "Crucial for weak forms (e.g. 'to' /tə/, 'the' /ðə/) and connected speech rhythm"
+   ],
+   "explanation": "Examples include the initial syllable of 'about' /əˈbaʊt/ and the final syllable of 'teacher' /ˈtiːtʃə/. A stressed schwa does not exist in English phonology.",
+   "followUp": "E410_Q030",
+   "sourceRef": "E410 Study Guide, p. 16",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q030",
+   "topicId": "E410_T03",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is a diphthong and how many are there in RP English?",
+   "directAnswer": "A diphthong is a single syllable vowel sound that glides smoothly from one vowel quality to another, with 8 diphthongs in RP.",
+   "vivaAnswer": "A diphthong is a complex vowel sound where the vocal organs glide continuously from one vowel position to another within a single syllable. Received Pronunciation English contains 8 diphthong phonemes, subdivided into closing diphthongs (gliding toward /ɪ/ or /ʊ/) and centring diphthongs (gliding toward /ə/).",
+   "keyPoints": [
+    "Gliding vowel: moves from initial position to target position within one syllable",
+    "Functions as a single phonemic nucleus",
+    "8 diphthongs in RP English",
+    "Subdivided into closing (5) and centring (3)"
+   ],
+   "explanation": "The first element of an English diphthong is longer and stronger (prominent) than the second gliding element. For example, in /aɪ/ ('my'), most duration is spent on the open central starting quality.",
+   "followUp": "E410_Q031",
+   "sourceRef": "E410 Study Guide, pp. 16-17",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q031",
+   "topicId": "E410_T03",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "What is the difference between closing diphthongs and centring diphthongs?",
+   "directAnswer": "Closing diphthongs glide upward toward a close vowel (/ɪ/ or /ʊ/), whereas centring diphthongs glide inward toward the central schwa /ə/.",
+   "vivaAnswer": "Closing diphthongs involve an upward movement of the tongue toward a higher, closer vowel position (either front /ɪ/ or back /ʊ/), causing the jaw to close. In contrast, centring diphthongs glide from peripheral vowel positions inward toward the central, neutral vowel schwa /ə/.",
+   "keyPoints": [
+    "Closing diphthongs (5): glide toward /ɪ/ or /ʊ/ (jaw closes)",
+    "Centring diphthongs (3): glide toward central schwa /ə/",
+    "Closing subgroups: ending in /ɪ/ (/eɪ, aɪ, ɔɪ/) and ending in /ʊ/ (/əʊ, aʊ/)",
+    "Centring group: /ɪə, eə, ʊə/"
+   ],
+   "explanation": "Closing diphthongs end in high vowels with reduced mouth opening, while centring diphthongs relax the vocal tract toward the mid-central rest position.",
+   "followUp": "E410_Q032",
+   "sourceRef": "E410 Study Guide, pp. 16-17",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q032",
+   "topicId": "E410_T03",
+   "type": "identification",
+   "difficulty": 2,
+   "question": "Name the 5 closing diphthongs in RP English with example words.",
+   "directAnswer": "The 5 closing diphthongs are /eɪ/ (say), /aɪ/ (my), /ɔɪ/ (boy), /əʊ/ (go), and /aʊ/ (now).",
+   "vivaAnswer": "The 5 closing diphthongs in RP English are divided into two sets: three gliding toward /ɪ/—/eɪ/ (as in 'say', 'make'), /aɪ/ (as in 'my', 'time'), and /ɔɪ/ (as in 'boy', 'coin'); and two gliding toward /ʊ/—/əʊ/ (as in 'go', 'home') and /aʊ/ (as in 'how', 'now').",
+   "keyPoints": [
+    "Gliding to /ɪ/: /eɪ/ (face, day), /aɪ/ (price, fly), /ɔɪ/ (choice, toy)",
+    "Gliding to /ʊ/: /əʊ/ (goat, show), /aʊ/ (mouth, loud)",
+    "All involve jaw movement toward closer tongue height"
+   ],
+   "explanation": "In older British transcriptions, /əʊ/ was written as /oʊ/, but modern RP initiates the glide from a central schwa-like quality [ə], moving toward [ʊ].",
+   "followUp": "E410_Q033",
+   "sourceRef": "E410 Study Guide, pp. 16-17",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q033",
+   "topicId": "E410_T03",
+   "type": "identification",
+   "difficulty": 2,
+   "question": "Name the 3 centring diphthongs in RP English and explain the modern status of /ʊə/.",
+   "directAnswer": "The 3 centring diphthongs are /ɪə/ (near), /eə/ (hair), and /ʊə/ (tour), with /ʊə/ rapidly merging into /ɔː/ in modern RP.",
+   "vivaAnswer": "The 3 centring diphthongs in RP English are /ɪə/ (as in 'ear', 'here'), /eə/ (as in 'air', 'care'), and /ʊə/ (as in 'tour', 'pure'). In contemporary British English, /ʊə/ is increasingly rare and is undergoing a phonemic merger with the long monophthong /ɔː/, so words like 'sure' and 'tour' are frequently pronounced /ʃɔː/ and /tɔː/.",
+   "keyPoints": [
+    "/ɪə/: front close to central ('near', 'idea')",
+    "/eə/: front mid to central ('square', 'where')",
+    "/ʊə/: back close to central ('cure', 'tour')",
+    "Sociolinguistic trend: /ʊə/ merging into /ɔː/ (diphthong leveling)"
+   ],
+   "explanation": "This change is an active phonological shift in modern British English. Examiners often award high marks for mentioning this merger in viva.",
+   "followUp": "E410_Q034",
+   "sourceRef": "E410 Study Guide, p. 17",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E404_T02"
+   ]
+  },
+  {
+   "id": "E410_Q034",
+   "topicId": "E410_T03",
+   "type": "definition",
+   "difficulty": 2,
+   "question": "What is a triphthong and how is it formed in English?",
+   "directAnswer": "A triphthong is a glide across three vowel qualities within a single syllable, formed by adding schwa /ə/ to a closing diphthong.",
+   "vivaAnswer": "A triphthong is the most complex English vowel sound, consisting of a continuous glide through three distinct vowel qualities within a single syllable. In English, triphthongs are formed by attaching the central schwa /ə/ onto the end of the five closing diphthongs.",
+   "keyPoints": [
+    "Continuous glide through three vowel qualities in one syllable",
+    "Formed by closing diphthong + /ə/",
+    "5 triphthongs in English",
+    "Frequently undergo 'smoothing' (monophthongization) in rapid connected speech"
+   ],
+   "explanation": "When the suffix '-er' or '-a' is added to a closing diphthong, or within a single morpheme like 'fire' /faɪə/, a triphthong is articulated.",
+   "followUp": "E410_Q035",
+   "sourceRef": "E410 Study Guide, pp. 17-18",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q035",
+   "topicId": "E410_T03",
+   "type": "identification",
+   "difficulty": 2,
+   "question": "List the 5 English triphthongs with example words.",
+   "directAnswer": "The 5 English triphthongs are /eɪə/ (player), /aɪə/ (fire), /ɔɪə/ (loyal), /əʊə/ (lower), and /aʊə/ (power).",
+   "vivaAnswer": "The 5 triphthongs in English are: /eɪə/ (from /eɪ/ + /ə/, e.g., 'player', 'layer'), /aɪə/ (from /aɪ/ + /ə/, e.g., 'fire', 'tyre'), /ɔɪə/ (from /ɔɪ/ + /ə/, e.g., 'royal', 'employer'), /əʊə/ (from /əʊ/ + /ə/, e.g., 'lower', 'slower'), and /aʊə/ (from /aʊ/ + /ə/, e.g., 'power', 'hour').",
+   "keyPoints": [
+    "/eɪə/: player, prayer, layer",
+    "/aɪə/: fire, liar, higher",
+    "/ɔɪə/: loyal, royal, destroyer",
+    "/əʊə/: lower, mower, slower",
+    "/aʊə/: power, hour, flower"
+   ],
+   "explanation": "In fast conversational speech, English speakers often simplify /aɪə/ and /aʊə/ into long monophthongs like [aː], a process known as smoothing.",
+   "followUp": "E410_Q036",
+   "sourceRef": "E410 Study Guide, p. 17",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q036",
+   "topicId": "E410_T03",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "Compare monophthongs, diphthongs, and triphthongs in terms of tongue movement and vowel stability.",
+   "directAnswer": "Monophthongs stay in one fixed position (pure); diphthongs glide across two positions; triphthongs glide across three positions within one syllable.",
+   "vivaAnswer": "Monophthongs are acoustically stable vowels where the tongue and lips remain fixed in one position throughout production (12 in RP). Diphthongs involve an articulatory glide between two distinct vowel qualities within a single syllable (8 in RP). Triphthongs are the most complex, involving a continuous glide across three vowel qualities ending in schwa (5 in English).",
+   "keyPoints": [
+    "Monophthong: 1 static target, pure vowel, constant quality (12 in RP)",
+    "Diphthong: 2 targets, gliding vowel, dynamic quality (8 in RP)",
+    "Triphthong: 3 targets, complex glide (closing diphthong + schwa, 5 in RP)",
+    "All function as single syllabic nuclei"
+   ],
+   "explanation": "This comparison illustrates the spectrum of vocalic complexity. In all three categories, the entire sound constitutes just one syllable peak.",
+   "followUp": null,
+   "sourceRef": "E410 Study Guide, pp. 17-18",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q037",
+   "topicId": "E410_T04",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is a consonant and how does it differ fundamentally from a vowel?",
+   "directAnswer": "A consonant is a speech sound produced with partial or complete obstruction of the vocal tract, typically forming syllable margins.",
+   "vivaAnswer": "A consonant is a speech sound produced when the airstream is obstructed, constricted, or diverted by the vocal tract organs (such as the lips, teeth, tongue, or palate). It differs fundamentally from a vowel, which has completely unobstructed airflow, and phonologically, consonants typically occupy syllable onsets and codas rather than the syllable nucleus.",
+   "keyPoints": [
+    "Produced with complete or partial airflow obstruction",
+    "Can be voiced or voiceless (vowels are all voiced in English)",
+    "Occupies syllable margins (onset and coda)",
+    "English has 24 consonant phonemes"
+   ],
+   "explanation": "Obstruction can be total (as in plosives /p, t, k/), partial causing friction (fricatives /s, f/), or diverted through the nasal cavity (nasals /m, n, ŋ/).",
+   "followUp": "E410_Q038",
+   "sourceRef": "E410 Study Guide, p. 19",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q038",
+   "topicId": "E410_T04",
+   "type": "explanation",
+   "difficulty": 1,
+   "question": "What three parameters are used to classify and describe any English consonant sound?",
+   "directAnswer": "Consonants are described by: (1) Voicing, (2) Place of articulation, and (3) Manner of articulation.",
+   "vivaAnswer": "Every English consonant is classified according to a three-term articulatory label: state of the glottis (voicing: voiced or voiceless), place of articulation (where the obstruction occurs in the vocal tract), and manner of articulation (how the airstream is obstructed or released).",
+   "keyPoints": [
+    "Voicing: vocal cord vibration (voiced vs voiceless)",
+    "Place of articulation: anatomical point of constriction (8 places)",
+    "Manner of articulation: nature of airstream restriction (6 manners)",
+    "Standard viva formula: Voicing + Place + Manner (e.g. Voiced bilabial plosive = /b/)"
+   ],
+   "explanation": "Mastering the three-term description is the most essential skill in a phonetics viva. For example, /s/ is a voiceless alveolar fricative; /m/ is a voiced bilabial nasal.",
+   "followUp": "E410_Q039",
+   "sourceRef": "E410 Study Guide, pp. 19, 22",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q039",
+   "topicId": "E410_T04",
+   "type": "distinction",
+   "difficulty": 1,
+   "question": "Explain the distinction between voiced and voiceless consonants with English examples.",
+   "directAnswer": "Voiced sounds involve vocal cord vibration (15 consonants), while voiceless sounds do not (9 consonants).",
+   "vivaAnswer": "Voiced consonants are produced when the vocal cords (vocal folds) are held close together and vibrate as air passes through them, whereas voiceless consonants are produced when the vocal cords are drawn apart, allowing air to pass freely without vibration. English has 15 voiced consonants (like /b, d, ɡ, z, m/) and 9 voiceless consonants (like /p, t, k, s, f/).",
+   "keyPoints": [
+    "Voiced: vocal folds vibrate (15 phonemes: /b, d, ɡ, v, ð, z, ʒ, dʒ, m, n, ŋ, l, r, j, w/)",
+    "Voiceless: vocal folds open, no vibration (9 phonemes: /p, t, k, f, θ, s, ʃ, tʃ, h/)",
+    "Demonstrated by tactile check: feeling vibration on the larynx ('Adam's apple')",
+    "Forms 8 voiced/voiceless pairs (e.g., /p-b, t-d, k-ɡ, f-v, θ-ð, s-z, ʃ-ʒ, tʃ-dʒ/)"
+   ],
+   "explanation": "You can test voicing by putting fingers on your throat: /z/ produces continuous buzzing vibration, while /s/ produces only airflow friction.",
+   "followUp": "E410_Q040",
+   "sourceRef": "E410 Study Guide, pp. 19, 21-22",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q040",
+   "topicId": "E410_T04",
+   "type": "identification",
+   "difficulty": 2,
+   "question": "What are the 8 places of articulation for English consonants?",
+   "directAnswer": "The 8 places are: bilabial, labiodental, dental, alveolar, post-alveolar, palatal, velar, and glottal.",
+   "vivaAnswer": "English consonants are produced across 8 anatomical places of articulation: Bilabial (both lips: /p, b, m, w/), Labiodental (lower lip and upper teeth: /f, v/), Dental (tongue tip and upper teeth: /θ, ð/), Alveolar (tongue tip/blade and alveolar ridge: /t, d, s, z, n, l, r/), Post-alveolar (just behind alveolar ridge: /ʃ, ʒ, tʃ, dʒ/), Palatal (hard palate: /j/), Velar (soft palate: /k, ɡ, ŋ, w/), and Glottal (vocal cords: /h/).",
+   "keyPoints": [
+    "Bilabial: /p, b, m, w/",
+    "Labiodental: /f, v/",
+    "Dental: /θ, ð/",
+    "Alveolar: /t, d, n, s, z, l, r/",
+    "Post-alveolar: /ʃ, ʒ, tʃ, dʒ/",
+    "Palatal: /j/",
+    "Velar: /k, ɡ, ŋ, w/",
+    "Glottal: /h/"
+   ],
+   "explanation": "These places trace the vocal tract from the front (lips) to the very back (glottis in larynx). Note that /w/ has two places (bilabial and velar).",
+   "followUp": "E410_Q041",
+   "sourceRef": "E410 Study Guide, pp. 19-20",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q041",
+   "topicId": "E410_T04",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "How do dental, alveolar, and post-alveolar places of articulation differ?",
+   "directAnswer": "Dental sounds use the upper teeth; alveolar sounds use the bony alveolar ridge; post-alveolar sounds use the area just behind the ridge.",
+   "vivaAnswer": "In dental sounds (/θ, ð/), the tongue tip makes contact with or protrudes between the upper teeth. In alveolar sounds (/t, d, s, z, n, l/), the tongue tip or blade touches or nears the alveolar ridge directly behind the teeth. In post-alveolar sounds (/ʃ, ʒ, tʃ, dʒ/), the tongue blade approaches the region just behind the alveolar ridge heading toward the hard palate.",
+   "keyPoints": [
+    "Dental (/θ, ð/): upper teeth contact ('thin', 'this')",
+    "Alveolar (/t, d, s, z, n, l/): bony alveolar ridge contact ('ten', 'sun')",
+    "Post-alveolar (/ʃ, ʒ, tʃ, dʒ/): immediate rear of alveolar ridge ('ship', 'church')"
+   ],
+   "explanation": "The millimeter-level shifts along the roof of the mouth create distinct acoustic cavities, drastically altering resonance frequencies and frication noise.",
+   "followUp": "E410_Q042",
+   "sourceRef": "E410 Study Guide, pp. 19-20",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q042",
+   "topicId": "E410_T04",
+   "type": "identification",
+   "difficulty": 1,
+   "question": "What are the 6 manners of articulation for English consonants?",
+   "directAnswer": "The 6 manners of articulation are plosive, fricative, affricate, nasal, lateral, and approximant.",
+   "vivaAnswer": "Manner of articulation describes how the airstream is obstructed or controlled. English has 6 distinct manners: Plosives (complete closure followed by explosive burst: 6 sounds), Fricatives (narrow constriction producing continuous friction: 9 sounds), Affricates (stop releasing into fricative: 2 sounds), Nasals (complete oral closure with lowered velum: 3 sounds), Lateral (airflow around sides of tongue: 1 sound), and Approximants (frictionless narrowing: 3 sounds).",
+   "keyPoints": [
+    "Plosive (stop): /p, b, t, d, k, ɡ/ (6)",
+    "Fricative: /f, v, θ, ð, s, z, ʃ, ʒ, h/ (9)",
+    "Affricate: /tʃ, dʒ/ (2)",
+    "Nasal: /m, n, ŋ/ (3)",
+    "Lateral (approximant): /l/ (1)",
+    "Approximant (glide/liquid): /r, j, w/ (3)"
+   ],
+   "explanation": "6 plosives + 9 fricatives + 2 affricates + 3 nasals + 1 lateral + 3 approximants = 24 total English consonants.",
+   "followUp": "E410_Q043",
+   "sourceRef": "E410 Study Guide, pp. 20-21",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q043",
+   "topicId": "E410_T04",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "Distinguish between plosives, fricatives, and affricates.",
+   "directAnswer": "Plosives involve complete blockage and sudden release; fricatives involve narrow constriction and friction; affricates begin as plosives and release as fricatives.",
+   "vivaAnswer": "A plosive (stop) involves complete closure of the vocal tract, pressure buildup, and a sudden explosive burst of air (e.g. /p, b/). A fricative involves a narrow constriction through which air escapes continuously with audible friction noise (e.g. /s, z/). An affricate is a two-phase sound that begins with complete closure like a plosive and releases slowly with friction like a fricative (e.g. /tʃ, dʒ/).",
+   "keyPoints": [
+    "Plosive: Total closure → Pressure buildup → Explosive release (/p, t, k, b, d, ɡ/)",
+    "Fricative: Narrow gap → Continuous turbulent friction (/f, v, s, z, ʃ.../)",
+    "Affricate: Stop closure → Slow fricative release (/tʃ, dʒ/)",
+    "Affricates function as single phonemes, not sequences"
+   ],
+   "explanation": "In 'church' /tʃɜːtʃ/, the tongue touches the alveolar ridge for a /t/-closure but releases into /ʃ/-friction, forming the single affricate phoneme /tʃ/.",
+   "followUp": "E410_Q044",
+   "sourceRef": "E410 Study Guide, pp. 20-21",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q044",
+   "topicId": "E410_T04",
+   "type": "explanation",
+   "difficulty": 1,
+   "question": "What is a nasal consonant and which 3 nasal phonemes exist in English?",
+   "directAnswer": "A nasal consonant has complete oral blockage while the velum is lowered, allowing air to escape through the nose: /m, n, ŋ/.",
+   "vivaAnswer": "A nasal consonant is produced when there is complete closure somewhere in the mouth, but the velum (soft palate) is lowered, allowing the voiced airstream to escape freely and resonate through the nasal cavity. English has 3 nasal phonemes: bilabial /m/ ('man'), alveolar /n/ ('no'), and velar /ŋ/ ('sing'). All English nasals are voiced.",
+   "keyPoints": [
+    "Lowered velum opens nasal cavity passage",
+    "Complete blockage in oral cavity",
+    "3 English phonemes: /m/ (bilabial), /n/ (alveolar), /ŋ/ (velar)",
+    "All nasals are inherently voiced in English"
+   ],
+   "explanation": "If you pinch your nostrils while saying /m/, the sound stops immediately because the oral tract is closed at the lips and the nasal escape route is blocked.",
+   "followUp": "E410_Q045",
+   "sourceRef": "E410 Study Guide, pp. 20-21",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q045",
+   "topicId": "E410_T04",
+   "type": "definition",
+   "difficulty": 2,
+   "question": "What are approximants and liquids in English phonetics?",
+   "directAnswer": "Approximants are frictionless vowel-like consonants (/w, r, j/); liquids are the subset including /l/ and /r/.",
+   "vivaAnswer": "Approximants are consonants produced when articulators approach each other closely but do not narrow the vocal tract sufficiently to create turbulent friction noise; they are smooth and vowel-like (/r, j, w/). The term 'liquids' refers specifically to the frictionless alveolar sounds /l/ (lateral approximant) and /r/ (post-alveolar approximant).",
+   "keyPoints": [
+    "Approximants: articulators narrow without friction (/w, r, j, l/)",
+    "Liquids: traditional grouping of /l/ (lateral) and /r/ (rhotic)",
+    "Glides (semi-vowels): /j/ (palatal) and /w/ (labial-velar)",
+    "Acoustically vowel-like, but phonologically occupy consonantal syllable margins"
+   ],
+   "explanation": "Approximants are phonetically like vowels (continuous voiced laminar airflow) but phonologically function as consonants (standing in syllable onsets, as in 'red' /red/, 'yes' /jes/).",
+   "followUp": "E410_Q046",
+   "sourceRef": "E410 Study Guide, p. 21",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q046",
+   "topicId": "E410_T04",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "Why is the consonant /w/ described as a labial-velar approximant?",
+   "directAnswer": "Because /w/ is produced with two simultaneous articulations: rounding of the lips (labial) and raising the tongue back toward the velum (velar).",
+   "vivaAnswer": "The consonant /w/ (as in 'wet') is termed a labial-velar approximant because it possesses a double (co-ordinate) place of articulation. During its articulation, two distinct constrictions occur simultaneously: the lips become tightly rounded (bilabial), and the back of the tongue rises toward the soft palate (velar).",
+   "keyPoints": [
+    "Double place of articulation: Bilabial + Velar",
+    "Bilabial action: lip rounding and protrusion",
+    "Velar action: back of the tongue raised toward soft palate",
+    "Categorized under both bilabial and velar columns in consonant charts"
+   ],
+   "explanation": "Because neither constriction produces friction, /w/ is an approximant (semi-vowel) closely related to the close back vowel /uː/.",
+   "followUp": "E410_Q047",
+   "sourceRef": "E410 Study Guide, pp. 21-22",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q047",
+   "topicId": "E410_T04",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "Clarify three common consonant confusions: /θ/ vs /ð/, /ʃ/ vs /tʃ/, and the phonemic status of /ŋ/.",
+   "directAnswer": "/θ/ and /ð/ differ by voicing; /ʃ/ is a fricative while /tʃ/ is an affricate; /ŋ/ is a single phoneme, not /n/+/ɡ/.",
+   "vivaAnswer": "First, /θ/ and /ð/ are both dental fricatives, but /θ/ is voiceless ('thin') and /ð/ is voiced ('this'). Second, /ʃ/ is a post-alveolar fricative with continuous friction ('ship'), whereas /tʃ/ is an affricate beginning with a complete stop ('chip'). Third, /ŋ/ is a single velar nasal phoneme; words like 'sing' /sɪŋ/ end in /ŋ/ alone, not a cluster of /n/ + /ɡ/.",
+   "keyPoints": [
+    "/θ/ vs /ð/: voiceless vs voiced dental fricatives ('thigh' vs 'thy')",
+    "/ʃ/ vs /tʃ/: simple fricative vs complex affricate ('wash' vs 'watch')",
+    "/ŋ/: one single phoneme, never pronounced /nɡ/ in standard RP word-finally",
+    "/tʃ/ and /dʒ/ are single phonemes despite using two typographical symbols"
+   ],
+   "explanation": "Non-native speakers frequently fail to contrast /θ/ and /ð/ or pronounce a hard [ɡ] at the end of 'singing' /ˈsɪŋɪŋ/. Highlighting these distinctions in viva demonstrates solid phonetic mastery.",
+   "followUp": "E410_Q048",
+   "sourceRef": "E410 Study Guide, p. 22",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q048",
+   "topicId": "E410_T04",
+   "type": "connection",
+   "difficulty": 2,
+   "question": "How does consonant articulation correlate with child phonological acquisition in E412?",
+   "directAnswer": "Children acquire front stops and nasals first (/m, b, p/) and master complex fricatives and liquids (/θ, ð, r/) last due to articulatory difficulty.",
+   "vivaAnswer": "Consonant articulation directly correlates with stages of child phonological acquisition in E412. Children universally acquire bilabial and alveolar stops and nasals (/p, b, m, t, d, n/) earliest because their articulatory gestures are visible and motorically simple. In contrast, dental fricatives (/θ, ð/), post-alveolar affricates (/tʃ, dʒ/), and liquids (/r, l/) require fine motor coordination and are acquired much later, often undergoing phonological reduction processes like stopping or gliding.",
+   "keyPoints": [
+    "Early acquired consonants: bilabials and stops (/p, b, m, d/)",
+    "Late acquired consonants: dental fricatives (/θ, ð/) and liquids (/r, l/)",
+    "Child substitution processes: Stopping (e.g. 'this' → [dɪs]) and Gliding (e.g. 'red' → [wed])",
+    "Parallels Jakobson's universal phonological acquisition hierarchy"
+   ],
+   "explanation": "This links directly to Jakobson's theory that sounds involving simple binary contrasts (stop vs nasal) precede complex friction contrasts in child developmental linguistics.",
+   "followUp": null,
+   "sourceRef": "E410 Study Guide, pp. 10, 21-22",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E412_T02"
+   ]
+  },
+  {
+   "id": "E410_Q049",
+   "topicId": "E410_T05",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is a syllable?",
+   "directAnswer": "A syllable is a unit of pronunciation containing one peak of sonority (typically a vowel), functioning as a rhythmic beat.",
+   "vivaAnswer": "A syllable is a fundamental unit of spoken language consisting of a single continuous pulse of sonority or auditory prominence. In everyday terms, it is a rhythmic 'beat' in a word (e.g. 'wa-ter' has two syllables; 'strength' has one), centered around an obligatory vowel nucleus or syllabic consonant.",
+   "keyPoints": [
+    "Unit of pronunciation organized around one sonority peak",
+    "Forms the rhythmic pulse or 'beat' of speech",
+    "Must contain a vowel nucleus or a syllabic consonant",
+    "Spoken syllable count often differs from written letter count"
+   ],
+   "explanation": "A syllable is an auditory, phonological reality. For example, 'cake' /keɪk/ has 4 letters in spelling but represents only one syllable because it has a single vowel nucleus /eɪ/.",
+   "followUp": "E410_Q050",
+   "sourceRef": "E410 Study Guide, p. 23",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q050",
+   "topicId": "E410_T05",
+   "type": "definition",
+   "difficulty": 2,
+   "question": "What is the phonetic definition of a syllable and what is the Sonority Sequencing Principle?",
+   "directAnswer": "Phonetically, a syllable is a sonority peak; the Sonority Sequencing Principle states sonority must rise toward the nucleus and fall toward the margins.",
+   "vivaAnswer": "Phonetically, a syllable is defined by sonority—the intrinsic acoustic loudness and carrying power of speech sounds. According to the Sonority Sequencing Principle (SSP), sounds within a syllable must increase in sonority from the onset up to the central peak (vowel nucleus), and subsequently decrease in sonority through the coda.",
+   "keyPoints": [
+    "Phonetic definition based on acoustic sonority/loudness peaks",
+    "Sonority Hierarchy: Vowels > Glides > Liquids (/l, r/) > Nasals > Fricatives > Plosives",
+    "Sonority Sequencing Principle (SSP): sonority rises to peak and falls toward edges",
+    "Syllable boundaries correspond to minimum sonority troughs"
+   ],
+   "explanation": "In 'plant' /plɑːnt/, sonority starts low with plosive /p/, rises through liquid /l/, peaks at vowel /ɑː/, falls to nasal /n/, and drops to lowest at stop /t/.",
+   "followUp": "E410_Q051",
+   "sourceRef": "E410 Study Guide, p. 23",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q051",
+   "topicId": "E410_T05",
+   "type": "definition",
+   "difficulty": 2,
+   "question": "What is the phonological definition of a syllable?",
+   "directAnswer": "Phonologically, a syllable is an abstract structural unit that regulates phonotactic sound combinations and stress placement.",
+   "vivaAnswer": "Phonologically, a syllable is an abstract structural organizing unit within the sound system. It defines the hierarchical constraints governing how consonant and vowel phonemes can legitimately combine in a language (phonotactics), and serves as the domain for prosodic rules such as stress assignment and tone association.",
+   "keyPoints": [
+    "Abstract structural unit of phonological hierarchy",
+    "Defines permissible phonotactic combinations (C and V patterns)",
+    "Carrier domain for suprasegmental features (stress, pitch, tone)",
+    "Hierarchical constituent: Syllable (σ) divides into Onset and Rhyme"
+   ],
+   "explanation": "While phonetics treats the syllable as a physical breath pulse or acoustic peak, phonology views it as a structural template (e.g. CV, CVC) governed by grammar.",
+   "followUp": "E410_Q052",
+   "sourceRef": "E410 Study Guide, p. 23",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q052",
+   "topicId": "E410_T05",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "Describe the internal hierarchical structure of a syllable: onset, rhyme, nucleus, and coda.",
+   "directAnswer": "A syllable (σ) branches into an Onset (initial consonants) and a Rhyme, which branches into a Nucleus (vowel peak) and a Coda (final consonants).",
+   "vivaAnswer": "A syllable (σ) has a hierarchical structure. It splits into two immediate constituents: the Onset (optional initial consonants) and the Rhyme. The Rhyme then subdivides into the Nucleus (the obligatory vocalic core) and the Coda (optional terminating consonants). The nucleus is the only mandatory element in an English syllable.",
+   "keyPoints": [
+    "Onset: consonant(s) preceding the nucleus (e.g. /k/ in 'cat')",
+    "Rhyme: branching constituent containing Nucleus + Coda (/æt/ in 'cat')",
+    "Nucleus (Peak): central sonorous vowel or syllabic consonant (/æ/)",
+    "Coda: consonant(s) following the nucleus (/t/)"
+   ],
+   "explanation": "In 'cat' /kæt/, onset is /k/, nucleus is /æ/, and coda is /t/. In 'string' /strɪŋ/, onset is /str/, nucleus is /ɪ/, coda is /ŋ/. In 'go' /ɡəʊ/, onset is /ɡ/, nucleus is /əʊ/, and there is no coda.",
+   "followUp": "E410_Q053",
+   "sourceRef": "E410 Study Guide, pp. 24-25",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q053",
+   "topicId": "E410_T05",
+   "type": "distinction",
+   "difficulty": 1,
+   "question": "Distinguish between open syllables and closed syllables with examples.",
+   "directAnswer": "An open syllable ends in a vowel without a coda, while a closed syllable ends in one or more consonants (has a coda).",
+   "vivaAnswer": "An open syllable ends directly with a vowel nucleus and has no coda consonants (e.g. 'go' /ɡəʊ/, 'see' /siː/). A closed syllable terminates in one or more coda consonants following the nucleus (e.g. 'cat' /kæt/, 'milk' /mɪlk/).",
+   "keyPoints": [
+    "Open syllable: ends in vowel, coda is empty (e.g. CV, V: 'me' /miː/, 'to' /tuː/)",
+    "Closed syllable: ends in consonant, coda is filled (e.g. CVC, VC: 'cat' /kæt/, 'at' /æt/)",
+    "English short vowels /ɪ, e, æ, ɒ, ʊ, ʌ/ cannot end an open stressed monosyllable"
+   ],
+   "explanation": "In English phonotactics, stressed open syllables require long vowels or diphthongs ('see', 'go', 'now'); short lax vowels like /æ/ require a closing coda ('cat', 'trap').",
+   "followUp": "E410_Q054",
+   "sourceRef": "E410 Study Guide, p. 25",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q054",
+   "topicId": "E410_T05",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What is a syllabic consonant and when does it occur in English?",
+   "directAnswer": "A syllabic consonant is a liquid or nasal that forms the nucleus of an unstressed syllable without any vowel, marked with a subscript mark [ ̩ ].",
+   "vivaAnswer": "A syllabic consonant is a consonant that functions as the sonorous nucleus (peak) of a syllable in place of a vowel. In English, this occurs in unstressed syllables following an alveolar consonant, most frequently involving /l/ and /n/, and occasionally /m/. It is transcribed in IPA with a small subscript vertical stroke [ ̩ ].",
+   "keyPoints": [
+    "Consonant acting as syllable nucleus without a vowel",
+    "Occurs in unstressed syllables after elision of weak vowels like schwa",
+    "Most common English syllabic consonants: /n̩/ and /l̩/",
+    "Examples: 'button' /ˈbʌtn̩/, 'bottle' /ˈbɒtl̩/, 'rhythm' /ˈrɪðm̩/"
+   ],
+   "explanation": "In 'button' /ˈbʌtn̩/, the tongue does not release from the alveolar ridge between /t/ and /n/; instead, air escapes through the nose, making /n̩/ the entire syllable peak without an intervening schwa.",
+   "followUp": "E410_Q055",
+   "sourceRef": "E410 Study Guide, pp. 24, 25, 55",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q055",
+   "topicId": "E410_T05",
+   "type": "application",
+   "difficulty": 2,
+   "question": "What are the phonotactic rules for three-consonant onsets in English?",
+   "directAnswer": "In a 3-consonant onset (CCC-), C1 must be /s/, C2 must be a voiceless stop (/p, t, k/), and C3 must be an approximant (/l, r, w, j/).",
+   "vivaAnswer": "English phonotactics allows a maximum of three consonants in a syllable onset (CCC-), but under extremely rigid restrictions: the first consonant (C1) must be /s/; the second consonant (C2) must be a voiceless plosive (/p, t, k/); and the third consonant (C3) must be an approximant (/l, r, w, j/).",
+   "keyPoints": [
+    "Maximum onset = 3 consonants (CCC)",
+    "C1 = obligatory /s/",
+    "C2 = voiceless stop /p, t, k/",
+    "C3 = approximant /l, r, w, j/",
+    "Examples: 'string' /str-/, 'split' /spl-/, 'square' /skw-/, 'spew' /spj-/"
+   ],
+   "explanation": "No other combination is permitted. A word starting with *pst- or *mkr- violates English phonotactics and is impossible in standard English vocabulary.",
+   "followUp": "E410_Q056",
+   "sourceRef": "E410 Study Guide, p. 25",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q056",
+   "topicId": "E410_T05",
+   "type": "application",
+   "difficulty": 2,
+   "question": "What are the phonotactic possibilities and maximum consonants allowed in an English coda?",
+   "directAnswer": "English allows up to 4 consonants in a coda (-CCCC), usually created by adding grammatical inflectional suffixes.",
+   "vivaAnswer": "English permits up to 4 consonants in a syllable coda (-CCCC), which makes English codas remarkably complex compared to many other world languages. Four-consonant codas almost always arise when grammatical morphemes (such as the plural -s or third-person -s) are added to an already complex three-consonant stem coda.",
+   "keyPoints": [
+    "Maximum coda = 4 consonants (-CCCC)",
+    "Typically formed morphologically: stem cluster + inflectional suffixes",
+    "Examples: 'texts' /teksts/ (-ksts = 4 consonants), 'strengths' /streŋkθs/ (-ŋkθs = 4 consonants)",
+    "Contrast with languages like Japanese which allow zero coda or only /n/"
+   ],
+   "explanation": "The maximum theoretical English monosyllable is CCCVCCCC, found in words like 'strengths' /streŋkθs/ or 'twelfths' /twelfθs/.",
+   "followUp": "E410_Q057",
+   "sourceRef": "E410 Study Guide, p. 25",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E411_T02"
+   ]
+  },
+  {
+   "id": "E410_Q057",
+   "topicId": "E410_T05",
+   "type": "example",
+   "difficulty": 2,
+   "question": "Give examples of phonotactic restrictions in English (impossible sound combinations).",
+   "directAnswer": "English forbids initial /ŋ/, initial /tl/ or /dl/, final /h/, and non-initial /h/ or /w/ in codas.",
+   "vivaAnswer": "Phonotactic constraints are language-specific filters. In English, forbidden sound distributions include: the velar nasal /ŋ/ cannot occur in onsets (initial position); clusters /tl-/ and /dl-/ are prohibited word-initially; the glottal fricative /h/ cannot occur in syllable codas; and /v, z, ʒ, ð/ never participate in initial three-consonant clusters.",
+   "keyPoints": [
+    "No initial /ŋ/ (makes Vietnamese name 'Nguyen' difficult for English speakers)",
+    "No initial /tl-/ or /dl-/ clusters (unlike Nahuatl or Tlingit)",
+    "No coda /h/ (always onset-restricted in English)",
+    "Voiced plosives cannot follow initial /s/ in an onset (*sb-, *sd-, *sɡ-)"
+   ],
+   "explanation": "These restrictions demonstrate that speech production is governed by abstract cognitive phonological rules rather than physiological tongue limitations.",
+   "followUp": "E410_Q058",
+   "sourceRef": "E410 Study Guide, p. 25",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q058",
+   "topicId": "E410_T05",
+   "type": "identification",
+   "difficulty": 2,
+   "question": "List common syllable patterns in English from V to complex clusters with examples.",
+   "directAnswer": "Common patterns include V (a), CV (go), VC (at), CVC (cat), CCVC (stop), CCCVC (string), and CVCCCC (texts).",
+   "vivaAnswer": "English exhibits a wide range of syllable structures: V ('a' /ə/), CV ('go' /ɡəʊ/), VC ('at' /æt/), CVC ('cat' /kæt/), CCVC ('stop' /stɒp/), CCCVC ('string' /strɪŋ/), CVCC ('milk' /mɪlk/), CVCCC ('text' /tekst/), and CVCCCC ('texts' /teksts/).",
+   "keyPoints": [
+    "V: /ə/ ('a')",
+    "CV: /ɡəʊ/ ('go')",
+    "VC: /æt/ ('at')",
+    "CVC: /kæt/ ('cat')",
+    "CCVC: /stɒp/ ('stop')",
+    "CCCVC: /strɪŋ/ ('string')",
+    "CVCC: /mɪlk/ ('milk')",
+    "CVCCCC: /teksts/ ('texts')"
+   ],
+   "explanation": "This structural flexibility makes English syllables heavy and consonant-dense compared to CV-dominant languages like Spanish or Italian.",
+   "followUp": null,
+   "sourceRef": "E410 Study Guide, pp. 25-26",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q059",
+   "topicId": "E410_T06",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What are strong and weak forms in English?",
+   "directAnswer": "Strong forms are full pronunciations used under stress; weak forms are reduced, unstressed pronunciations of function words in connected speech.",
+   "vivaAnswer": "Strong forms are the full, citation pronunciations of words articulated with full vowel quality when stressed or in isolation. Weak forms are the reduced, unstressed variants of grammatical function words (prepositions, pronouns, auxiliaries, conjunctions) used in connected speech, typically featuring vowel reduction to schwa /ə/ or /ɪ/.",
+   "keyPoints": [
+    "Strong forms: full vowel quality, stressed, citation form",
+    "Weak forms: reduced vowel (/ə/, /ɪ/) or elided consonants, unstressed",
+    "Applies strictly to grammatical/function words (approx. 40-50 words)",
+    "Examples: 'to' strong /tuː/ vs weak /tə/; 'and' strong /ænd/ vs weak /ənd/ or /ən/"
+   ],
+   "explanation": "Weak forms are not lazy speech; they are the standard phonological mechanism that produces the natural stress-timed rhythm of spoken English.",
+   "followUp": "E410_Q060",
+   "sourceRef": "E410 Study Guide, p. 27",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q060",
+   "topicId": "E410_T06",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "Why do weak forms occur in English, and which categories of words have weak forms?",
+   "directAnswer": "Weak forms occur to maintain stress-timed rhythm; they apply to closed-class function words (pronouns, prepositions, auxiliaries, conjunctions).",
+   "vivaAnswer": "Weak forms exist to support English stress-timed rhythm: because English compresses unstressed syllables between rhythmic beats, grammatical words lose stress and reduce their vowels. They occur exclusively in grammatical function words (closed-class words), including auxiliary verbs ('can', 'was'), prepositions ('to', 'for'), pronouns ('you', 'them'), conjunctions ('and', 'but'), and articles ('a', 'the'). Content words never have weak forms.",
+   "keyPoints": [
+    "Supports stress-timing: keeps time between stresses roughly equal",
+    "Restricted to grammatical/function words (closed class)",
+    "Vowels reduce to schwa /ə/, /ɪ/, or /ʊ/",
+    "Content words (nouns, main verbs, adjectives) NEVER have weak forms"
+   ],
+   "explanation": "If a speaker uses all strong forms ('I /aɪ/ want /wɒnt/ to /tuː/ go /ɡəʊ/ to /tuː/ the /ðiː/ shop /ʃɒp/'), speech sounds robotic and unnatural.",
+   "followUp": "E410_Q061",
+   "sourceRef": "E410 Study Guide, pp. 27-28",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q061",
+   "topicId": "E410_T06",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "When MUST a function word be pronounced in its strong form?",
+   "directAnswer": "A function word must be strong when: (1) phrase-final, (2) contrastively stressed, (3) cited/quoted, or (4) stranded without a complement.",
+   "vivaAnswer": "A function word requires its strong form in four key environments: when it occurs at the end of a sentence or clause (e.g. 'What are you looking at?' /æt/); when it carries contrastive or emphatic stress ('The present is FOR you, not FROM you'); when it is quoted or cited in isolation; and when an auxiliary verb is stranded by ellipsis (e.g. 'Yes, I can' /kæn/).",
+   "keyPoints": [
+    "At the end of a sentence: 'Who is it from?' /frɒm/ (never /frəm/)",
+    "Contrastive emphasis: 'I said AND, not OR' /ænd/",
+    "Quoted or in isolation: 'The word of' /ɒv/",
+    "Stranded auxiliary in ellipsis: 'Yes, I have' /hæv/"
+   ],
+   "explanation": "Examiners love asking this in viva. Notice that 'at' is /ət/ in 'look at him' /lʊk ət ɪm/, but /æt/ in 'What are you looking at?' /wɒt ə jʊ lʊkɪŋ æt/.",
+   "followUp": "E410_Q062",
+   "sourceRef": "E410 Study Guide, p. 28",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q062",
+   "topicId": "E410_T06",
+   "type": "example",
+   "difficulty": 2,
+   "question": "Give citation strong and connected weak form transcriptions for 6 common function words.",
+   "directAnswer": "'to' (/tuː/ vs /tə/), 'the' (/ðiː/ vs /ðə/), 'can' (/kæn/ vs /kən/), 'have' (/hæv/ vs /həv, əv/), 'was' (/wɒz/ vs /wəz/), 'and' (/ænd/ vs /ənd, ən/).",
+   "vivaAnswer": "Common examples include: 'to' (strong /tuː/, weak /tə/); 'the' (strong /ðiː/, weak /ðə/ before consonants, /ði/ before vowels); 'can' (strong /kæn/, weak /kən/); 'have' (strong /hæv/, weak /həv/ or /əv/); 'was' (strong /wɒz/, weak /wəz/); and 'and' (strong /ænd/, weak /ənd/ or /ən/).",
+   "keyPoints": [
+    "'to': /tuː/ → /tə/",
+    "'the': /ðiː/ → /ðə/ (before consonant), /ði/ (before vowel)",
+    "'can': /kæn/ → /kən/",
+    "'have': /hæv/ → /həv/, /əv/",
+    "'was': /wɒz/ → /wəz/",
+    "'and': /ænd/ → /ənd/, /ən/"
+   ],
+   "explanation": "In connected speech, weak forms represent up to 80% of function word occurrences in spontaneous English discourse.",
+   "followUp": "E410_Q063",
+   "sourceRef": "E410 Study Guide, pp. 27-28",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q063",
+   "topicId": "E410_T06",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "What is a contraction and how does it differ from elision?",
+   "directAnswer": "Contraction is a conventionalized, orthographically represented shortening with an apostrophe (e.g. 'don't'), whereas elision is a general phonetic sound deletion in speech.",
+   "vivaAnswer": "A contraction is a conventional, grammatically codified combination and shortening of two words represented in standard spelling with an apostrophe (e.g. 'I am' → 'I'm', 'do not' → 'don't'). Elision, by contrast, is a natural phonetic and phonological process where sounds are dropped during fluid connected speech, regardless of whether it is written (e.g. 'last night' pronounced /lɑːs naɪt/).",
+   "keyPoints": [
+    "Contraction: conventionalized grammatical form, reflected in writing with apostrophe",
+    "Elision: spontaneous phonetic sound loss in speech stream",
+    "All contractions involve phonological reduction, but not all elisions are contractions",
+    "Examples of contractions: 'we've' /wiːv/, 'won't' /wəʊnt/, 'they'll' /ðeɪl/"
+   ],
+   "explanation": "Contractions are recognized as standard informal words in dictionaries; elisions like dropping /t/ in 'next day' /neks deɪ/ are dynamic phonetic adjustments in pronunciation.",
+   "followUp": "E410_Q064",
+   "sourceRef": "E410 Study Guide, pp. 28-29, 31",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q064",
+   "topicId": "E410_T06",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "Define elision in connected speech.",
+   "directAnswer": "Elision is the total deletion or omission of a speech sound in connected speech that would be present in citation form.",
+   "vivaAnswer": "Elision is the phonological process whereby a sound that would be present in the careful, citation form of an isolated word is omitted or dropped in natural connected speech. It is an economy of effort mechanism designed to make speech smoother, faster, and more efficient.",
+   "keyPoints": [
+    "Complete deletion of a consonant or vowel sound",
+    "Sound present in isolation is missing in connected speech",
+    "Motivated by economy of articulatory effort and speech speed",
+    "Common in alveolar stops and unstressed vowels"
+   ],
+   "explanation": "The speaker leaves out a sound segment entirely without substituting another. For example, in 'hand bag', the /d/ is dropped, yielding /hæn bæɡ/.",
+   "followUp": "E410_Q065",
+   "sourceRef": "E410 Study Guide, p. 29",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q065",
+   "topicId": "E410_T06",
+   "type": "example",
+   "difficulty": 2,
+   "question": "What sounds are most commonly elided in English? Give specific examples.",
+   "directAnswer": "The most commonly elided sounds are alveolar stops /t/ and /d/ in consonant clusters, unstressed vowels, /h/ in pronouns, and /v/ in 'of'.",
+   "vivaAnswer": "The most frequently elided sounds in English are: (1) alveolar stops /t/ and /d/ when flanked by other consonants (e.g. 'last night' → /lɑːs naɪt/, 'next day' → /neks deɪ/); (2) weak unstressed vowels in fast speech (e.g. 'family' /ˈfæməli/ → /ˈfæmli/, 'library' /ˈlaɪbri/); (3) initial /h/ in unstressed pronouns (e.g. 'tell him' → /tel ɪm/); and (4) /v/ in 'of' before consonants ('cup of tea' → /kʌpə tiː/).",
+   "keyPoints": [
+    "Loss of /t/ and /d/ in clusters: 'last night' /lɑːs naɪt/, 'handbag' /hænbæɡ/",
+    "Weak vowel syncope: 'family' /ˈfæmli/, 'police' /pliːs/",
+    "H-dropping in pronouns: 'give her' /ɡɪv ə/, 'ask him' /ɑːsk ɪm/",
+    "Loss of /v/ in 'of': 'cup of coffee' /kʌpə kɒfi/"
+   ],
+   "explanation": "Dropping /t/ or /d/ between two consonants is almost universal in rapid native speech. It prevents awkward three-consonant clusters across word boundaries.",
+   "followUp": "E410_Q066",
+   "sourceRef": "E410 Study Guide, p. 29",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q066",
+   "topicId": "E410_T06",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "Define assimilation in connected speech.",
+   "directAnswer": "Assimilation is the phonological process where a sound changes one or more phonetic features to become more similar to an adjacent sound.",
+   "vivaAnswer": "Assimilation is the process by which a speech sound changes its phonetic characteristics (such as place of articulation, manner, or voicing) to become more similar to a neighbouring sound. It occurs naturally across word or morpheme boundaries to allow a smoother, more economical transition between articulatory gestures.",
+   "keyPoints": [
+    "A sound modifies its features to match a neighbouring sound",
+    "Can affect place of articulation, voicing, or manner",
+    "Driven by coarticulation and articulatory efficiency",
+    "Subdivided into regressive, progressive, and coalescent assimilation"
+   ],
+   "explanation": "Unlike elision where a sound vanishes, in assimilation the sound remains present but transforms into a different phone (e.g. /n/ becomes /m/ in 'ten boys' /tem bɔɪz/).",
+   "followUp": "E410_Q067",
+   "sourceRef": "E410 Study Guide, p. 30",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q067",
+   "topicId": "E410_T06",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "Explain regressive (anticipatory) assimilation with English examples.",
+   "directAnswer": "Regressive assimilation occurs when a preceding sound changes to match the following sound (the sound anticipates what comes next).",
+   "vivaAnswer": "Regressive (or anticipatory) assimilation is the most common type of assimilation in English. It occurs when a preceding sound changes its articulation because the vocal organs are already preparing (anticipating) the following sound. For example, alveolar /n/ assimilates to bilabial [m] before bilabial /b/ in 'ten boys' /tem bɔɪz/, and to velar [ŋ] before velar /k/ in 'ten cups' /teŋ kʌps/.",
+   "keyPoints": [
+    "Direction: Sound 1 ← Sound 2 (anticipatory change)",
+    "Most widespread form of assimilation in English",
+    "Place assimilation is predominant: alveolar stops (/t, d, n/) adapt to following bilabials or velars",
+    "Examples: 'that boy' /ðæp bɔɪ/, 'that girl' /ðæk ɡɜːl/, 'good boy' /ɡʊb bɔɪ/"
+   ],
+   "explanation": "In 'that boy', the alveolar stop /t/ shifts its place of articulation to bilabial /p/ under the influence of the following bilabial /b/.",
+   "followUp": "E410_Q068",
+   "sourceRef": "E410 Study Guide, p. 30",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q068",
+   "topicId": "E410_T06",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "Explain progressive assimilation with English examples.",
+   "directAnswer": "Progressive assimilation occurs when a following sound changes to match the preceding sound.",
+   "vivaAnswer": "Progressive (or perseverative) assimilation occurs when a preceding sound influences and changes the following sound, so that an articulatory feature persists into the next segment. In English, this is seen primarily in grammatical inflections: the regular plural {-s} assimilates to the voicing of the preceding consonant, sounding voiceless [s] after voiceless stops ('cats' /kæts/) and voiced [z] after voiced stops ('dogs' /dɒɡz/).",
+   "keyPoints": [
+    "Direction: Sound 1 → Sound 2 (perseverative change)",
+    "Feature carries forward from first sound to second sound",
+    "Governs English inflectional morphology: Plural {-s}, Possessive {'s}, Past tense {-ed}",
+    "Examples: 'cats' /kæts/ vs 'dogs' /dɒɡz/; 'walked' /wɔːkt/ vs 'bagged' /bæɡd/"
+   ],
+   "explanation": "Progressive voicing assimilation in English inflections is an obligatory phonological rule taught in morphophonology.",
+   "followUp": "E410_Q069",
+   "sourceRef": "E410 Study Guide, p. 30",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E411_T01"
+   ]
+  },
+  {
+   "id": "E410_Q069",
+   "topicId": "E410_T06",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "Explain coalescent (reciprocal) assimilation with English examples.",
+   "directAnswer": "Coalescent assimilation occurs when two adjacent sounds fuse together to create a completely new third sound.",
+   "vivaAnswer": "Coalescent (or reciprocal) assimilation occurs when two adjacent sounds exert mutual influence on each other and merge into a single, completely new sound that shares characteristics of both. In English, this typically happens when an alveolar stop (/t/ or /d/) or fricative (/s/ or /z/) is followed by the palatal glide /j/: /t/ + /j/ coalesce into affricate /tʃ/ ('don't you' /dəʊntʃuː/), and /d/ + /j/ coalesce into /dʒ/ ('would you' /wʊdʒuː/).",
+   "keyPoints": [
+    "Two sounds fuse into one new composite sound (A + B → C)",
+    "Also called palatalization or reciprocal assimilation",
+    "/t/ + /j/ → /tʃ/ ('don't you' /dəʊntʃuː/, 'nature')",
+    "/d/ + /j/ → /dʒ/ ('would you' /wʊdʒuː/, 'education')",
+    "/s/ + /j/ → /ʃ/ ('issue'), /z/ + /j/ → /ʒ/ ('closure')"
+   ],
+   "explanation": "In historical sound change and modern connected speech, coalescent assimilation explains why 'picture' is pronounced with /tʃ/ instead of /tj/.",
+   "followUp": "E410_Q070",
+   "sourceRef": "E410 Study Guide, p. 30",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q070",
+   "topicId": "E410_T06",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "Distinguish between elision and assimilation in terms of phonetic outcome.",
+   "directAnswer": "In elision a sound is deleted entirely (one fewer segment), whereas in assimilation a sound is modified (same segment count, different quality).",
+   "vivaAnswer": "The essential distinction lies in what happens to the sound segment. In elision, a sound is eliminated entirely, resulting in one fewer phoneme in the utterance (e.g. 'last night' /lɑːs naɪt/ loses /t/). In assimilation, the sound is not deleted; rather, its articulatory features are modified to match its neighbour, keeping the total number of segments unchanged (e.g. 'ten boys' /tem bɔɪz/ transforms /n/ into /m/).",
+   "keyPoints": [
+    "Elision: deletion (0 segments remain for that target)",
+    "Assimilation: feature modification (1 segment remains, but altered)",
+    "Elision speeds up tempo by skipping gestures",
+    "Assimilation smooths gestures by harmonizing articulators"
+   ],
+   "explanation": "A student who says 'assimilation deletes sounds' will lose marks in viva. Assimilation alters; elision deletes.",
+   "followUp": null,
+   "sourceRef": "E410 Study Guide, p. 31",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q071",
+   "topicId": "E410_T07",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "Define stress in phonetics and phonology.",
+   "directAnswer": "Stress is the relative auditory prominence given to a syllable compared to surrounding syllables through greater muscular energy.",
+   "vivaAnswer": "Stress is the degree of force, loudness, or auditory prominence with which a syllable is pronounced relative to other syllables in a word or phrase. When a syllable is stressed, it is articulated with greater muscular effort from the respiratory and laryngeal muscles, making it sound louder, longer, higher in pitch, and clearer in vowel quality.",
+   "keyPoints": [
+    "Relative auditory prominence of a syllable",
+    "Produced by increased muscular effort and breath pressure",
+    "Perceived via pitch, loudness, duration, and vowel quality",
+    "Transcribed with primary stress mark ˈ and secondary stress mark ˌ"
+   ],
+   "explanation": "In 'banana' /bəˈnɑːnə/, the second syllable 'na' is stressed; it stands out prominently against the unstressed initial and final syllables.",
+   "followUp": "E410_Q072",
+   "sourceRef": "E410 Study Guide, p. 32",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q072",
+   "topicId": "E410_T07",
+   "type": "explanation",
+   "difficulty": 1,
+   "question": "What are the four acoustic and perceptual factors that contribute to stress prominence?",
+   "directAnswer": "The four factors are pitch change, loudness (intensity), length (duration), and vowel quality.",
+   "vivaAnswer": "The four physical factors producing stress prominence are: (1) Pitch change (a rise or fall in voice pitch, which is the most potent cue); (2) Loudness (greater acoustic amplitude and muscular energy); (3) Length (longer duration of the vowel); and (4) Vowel quality (full, clear vowel quality in stressed syllables versus reduced vowels like schwa in unstressed ones).",
+   "keyPoints": [
+    "Pitch: marked change or movement in fundamental frequency (F0)",
+    "Loudness: greater amplitude/muscular effort",
+    "Length: extended temporal duration",
+    "Vowel quality: full peripheral vowel vs. central reduced vowel (/ə/, /ɪ/)"
+   ],
+   "explanation": "These four factors work concurrently. A stressed syllable is rarely just louder; it is almost always higher in pitch, substantially longer, and contains an unreduced vowel.",
+   "followUp": "E410_Q073",
+   "sourceRef": "E410 Study Guide, p. 32",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q073",
+   "topicId": "E410_T07",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "Why is pitch movement considered the most important factor in English stress perception?",
+   "directAnswer": "Psychoacoustic research proves that human listeners perceive pitch changes much more readily than amplitude changes when identifying stressed syllables.",
+   "vivaAnswer": "Experimental phonetic research (notably by A.C. Gimson and D. Fry) demonstrates that pitch movement is the most powerful perceptual cue for stress in English. An increase in loudness alone is often ambiguous or overlooked by human listeners, whereas a noticeable change in pitch—whether an upward step or downward glide—immediately flags a syllable as prominent and stressed.",
+   "keyPoints": [
+    "Pitch variation is psychoacoustically the most salient cue to stress",
+    "Fry's experiments ranked: Pitch > Length > Loudness > Quality",
+    "Loudness alone is insufficient to signal stress to native English ears",
+    "Pitch movement directly connects word stress to intonational nucleus"
+   ],
+   "explanation": "If you pronounce a syllable very loudly with flat pitch, it often sounds strange rather than stressed; shifting the pitch naturally highlights it immediately.",
+   "followUp": "E410_Q074",
+   "sourceRef": "E410 Study Guide, p. 32",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q074",
+   "topicId": "E410_T07",
+   "type": "identification",
+   "difficulty": 1,
+   "question": "Explain the three levels of word stress in English: primary, secondary, and unstressed.",
+   "directAnswer": "The three levels are primary stress (ˈ, strongest prominence), secondary stress (ˌ, intermediate prominence), and unstressed (no mark, reduced prominence).",
+   "vivaAnswer": "In English polysyllabic words, three distinct stress levels are recognized: Primary stress (marked by a raised vertical stroke ˈ before the syllable), which is the most prominent syllable with pitch movement; Secondary stress (marked by a low vertical stroke ˌ), which has rhythmic prominence and full vowel quality but no major pitch jump; and Unstressed syllables (unmarked), which often contain reduced vowels like schwa /ə/.",
+   "keyPoints": [
+    "Primary stress (ˈ): strongest peak, carries pitch movement (e.g. /ˈwɔːtə/)",
+    "Secondary stress (ˌ): intermediate prominence, full vowel, no major pitch jump (e.g. /ˌiːvæljuˈeɪʃn̩/)",
+    "Unstressed (no mark): least prominence, frequently reduced to /ə/, /ɪ/, or syllabic consonants",
+    "Tertiary stress is sometimes posited in American structuralism"
+   ],
+   "explanation": "In 'photographic' /ˌfəʊtəˈɡræfɪk/, the third syllable 'gra' carries primary stress (ˈ), the first syllable 'pho' carries secondary stress (ˌ), and the second and fourth syllables are unstressed.",
+   "followUp": "E410_Q075",
+   "sourceRef": "E410 Study Guide, p. 33",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q075",
+   "topicId": "E410_T07",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "How does stress differentiate two-syllable noun-verb pairs in English? Give examples.",
+   "directAnswer": "Two-syllable noun-verb pairs place stress on the first syllable for the noun and on the second syllable for the verb.",
+   "vivaAnswer": "In English, many two-syllable words that function as both nouns and verbs are differentiated solely by stress placement: the noun is stressed on the first syllable, whereas the verb is stressed on the second syllable. This stress shift frequently induces vowel reduction in the unstressed syllable.",
+   "keyPoints": [
+    "Noun = Initial syllable stressed: ˈrecord, ˈpresent, ˈimport, ˈobject",
+    "Verb = Final syllable stressed: reˈcord, preˈsent, imˈport, obˈject",
+    "Stress shift often causes vowel reduction: noun 'present' /ˈpreznt/ vs verb 'present' /prɪˈzent/",
+    "Functions as a morphophonological word-class distinction"
+   ],
+   "explanation": "Examples: ˈrecord /ˈrekɔːd/ (noun) vs reˈcord /rɪˈkɔːd/ (verb); ˈconduct /ˈkɒndʌkt/ (noun) vs conˈduct /kənˈdʌkt/ (verb). This is an essential viva question.",
+   "followUp": "E410_Q076",
+   "sourceRef": "E410 Study Guide, p. 34",
+   "isEssential": true,
+   "crossCourseLinks": [
+    "E411_T02"
+   ]
+  },
+  {
+   "id": "E410_Q076",
+   "topicId": "E410_T07",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What general stress placement rules apply to two-syllable nouns, adjectives, and verbs?",
+   "directAnswer": "Two-syllable nouns and adjectives are usually stressed on the first syllable; two-syllable verbs are usually stressed on the second syllable.",
+   "vivaAnswer": "As a general guideline in English: (1) Two-syllable nouns are predominantly stressed on the first syllable (e.g. ˈwater, ˈtable, ˈfather); (2) Two-syllable adjectives are also typically stressed on the first syllable (e.g. ˈhappy, ˈclever, ˈuseful); (3) Two-syllable verbs are most frequently stressed on the second syllable, especially when containing a prefix (e.g. beˈgin, aˈllow, deˈcide, reˈport).",
+   "keyPoints": [
+    "Nouns: first syllable stressed (ˈtable, ˈbutter, ˈmoney)",
+    "Adjectives: first syllable stressed (ˈyellow, ˈsimple, ˈfamous)",
+    "Verbs: second syllable stressed (arˈrive, proˈtect, reˈceive)",
+    "Exceptions exist based on vowel weight (heavy final syllables attract stress in verbs)"
+   ],
+   "explanation": "If the final syllable of a two-syllable verb contains a short vowel and no more than one coda consonant, stress falls on the first syllable (e.g. 'enter' /ˈentə/, 'open' /ˈəʊpən/).",
+   "followUp": "E410_Q077",
+   "sourceRef": "E410 Study Guide, pp. 33-34",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q077",
+   "topicId": "E410_T07",
+   "type": "application",
+   "difficulty": 2,
+   "question": "Explain suffix rules for stress placement in longer English words (-tion, -ic, -ity vs -ate, -ize vs -ee, -eer).",
+   "directAnswer": "Suffixes -tion, -ic, -ity place stress on the penultimate syllable; -ate, -ize place stress on the antepenultimate; -ee, -eer take primary stress directly.",
+   "vivaAnswer": "In English derivational morphology, suffixes interact with stress in three distinct ways: (1) Penultimate-stress suffixes (-tion, -sion, -ic, -ity, -ial) attract primary stress to the syllable immediately preceding them (e.g. eduˈcation, eˈlectric, uˈniversity); (2) Antepenultimate-stress suffixes (-ate, -ize, -fy) place stress three syllables from the end (e.g. ˈeducate, ˈrecognize); (3) Stress-bearing suffixes (-ee, -eer, -ese, -ette) attract primary stress directly onto themselves (e.g. employˈee, volunˈteer, Chiˈnese).",
+   "keyPoints": [
+    "Preceding syllable (penultimate): -tion, -ic, -ity, -ial, -ious (e.g., photoˈgraphic)",
+    "Third syllable from end (antepenultimate): -ate, -ize, -fy (e.g., ˈqualify)",
+    "Suffix itself takes primary stress: -ee, -eer, -ese, -ette (e.g., refuˈgee)",
+    "Neutral suffixes (no stress change): -ness, -ful, -less, -ment, -ly"
+   ],
+   "explanation": "Neutral suffixes leave the base word's stress unaffected: 'happy' /ˈhæpi/ → 'happiness' /ˈhæpinəs/.",
+   "followUp": "E410_Q078",
+   "sourceRef": "E410 Study Guide, p. 34",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E411_T02"
+   ]
+  },
+  {
+   "id": "E410_Q078",
+   "topicId": "E410_T07",
+   "type": "application",
+   "difficulty": 2,
+   "question": "How is stress placed in compound words (compound nouns vs compound adjectives and verbs)?",
+   "directAnswer": "Compound nouns usually take primary stress on the first element; compound adjectives and verbs take primary stress on the second element.",
+   "vivaAnswer": "In English compounds, grammatical category determines the stress pattern: Compound nouns normally take primary stress on the first element (e.g. ˈblackbird, ˈgreenhouse, ˈfootball), which distinguishes a compound noun ('ˈblackbird' = a species of bird) from a noun phrase ('black ˈbird' = any bird that is black). In contrast, compound adjectives (e.g. bad-ˈtempered, old-ˈfashioned) and compound verbs (e.g. overˈlook, underˈstand) place primary stress on the second element.",
+   "keyPoints": [
+    "Compound nouns: initial stress (ˈteacup, ˈtypewriter, ˈblackboard)",
+    "Noun phrase contrast: ˈgreenhouse (glass building) vs green ˈhouse (house painted green)",
+    "Compound adjectives: second element stressed (first-ˈclass, cold-ˈblooded)",
+    "Compound verbs: second element stressed (outˈrun, underˈline)"
+   ],
+   "explanation": "This distinction is widely tested in oral examinations because it demonstrates how stress operates grammatically to disambiguate lexical items from syntactic phrases.",
+   "followUp": "E410_Q079",
+   "sourceRef": "E410 Study Guide, p. 34",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q079",
+   "topicId": "E410_T07",
+   "type": "explanation",
+   "difficulty": 1,
+   "question": "What is sentence stress and how do content words differ from function words in connected speech?",
+   "directAnswer": "Sentence stress assigns prominence to lexical content words carrying information, while grammatical function words remain unstressed.",
+   "vivaAnswer": "Sentence stress is the rhythmic pattern of prominence assigned across an entire utterance. English maintains a fundamental division: Content words (nouns, main verbs, adjectives, adverbs) carry semantic information and normally receive sentence stress; Function words (articles, prepositions, pronouns, conjunctions, auxiliary verbs) supply grammatical structure and remain unstressed, usually adopting weak forms.",
+   "keyPoints": [
+    "Content words (lexical): stressed (nouns, main verbs, adjectives, adverbs)",
+    "Function words (grammatical): unstressed (articles, prepositions, auxiliaries)",
+    "Creates English rhythmic alternation between strong beats and weak syllables",
+    "Example: 'The ˈteacher ˈasked a ˈquestion' (stressed words: teacher, asked, question)"
+   ],
+   "explanation": "Sentence stress establishes the skeleton of English utterance rhythm. The unaccented function words are squeezed rhythmically into the time gaps between stressed content syllables.",
+   "followUp": "E410_Q080",
+   "sourceRef": "E410 Study Guide, p. 35",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q080",
+   "topicId": "E410_T07",
+   "type": "definition",
+   "difficulty": 2,
+   "question": "What is contrastive or emphatic stress?",
+   "directAnswer": "Contrastive stress overrides default sentence stress to highlight a specific word or contrast opposing ideas.",
+   "vivaAnswer": "Contrastive (or emphatic) stress is a dynamic prosodic focus that overrides normal grammatical stress rules to draw special attention to a particular word, correct a misunderstanding, or establish an explicit contrast. Under contrastive stress, even normally unstressed function words receive primary stress.",
+   "keyPoints": [
+    "Special prosodic prominence overriding default rules",
+    "Used to highlight contrast, correct misinformation, or emphasize intent",
+    "Can stress grammatical words: 'The book is ˈFOR you, not ˈFROM you'",
+    "Shifting stress shifts meaning: 'ˈI didn't steal the money' vs 'I didn't steal the ˈMONEY'"
+   ],
+   "explanation": "In viva, contrastive stress illustrates how suprasegmental phonology directly controls semantics and pragmatics in discourse.",
+   "followUp": "E410_Q081",
+   "sourceRef": "E410 Study Guide, p. 36",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E405_T01"
+   ]
+  },
+  {
+   "id": "E410_Q081",
+   "topicId": "E410_T07",
+   "type": "criticism",
+   "difficulty": 2,
+   "question": "What is the primary empirical criticism of the theory that English is a strictly 'stress-timed' language?",
+   "directAnswer": "Acoustic measurements prove that inter-stress intervals are not strictly equal in physical time, showing stress-timing is a perceptual tendency rather than absolute isochrony.",
+   "vivaAnswer": "The traditional claim that English is strictly 'stress-timed' (isochronous) has been heavily criticized by experimental acoustic phoneticians (such as Roach and Crystal). Instrumental laboratory measurements demonstrate that intervals between stresses are not physically equal in milliseconds; instead, intervals expand significantly as more unstressed syllables are added. Isochrony is therefore understood today as a perceptual psychological illusion and phonological tendency rather than an objective physical reality.",
+   "keyPoints": [
+    "Empirical phonetic criticism of strict physical isochrony",
+    "Acoustic measurements show intervals between stresses vary with syllable count",
+    "Stress-timing represents a perceptual bias and phonological compression tendency",
+    "Distinction remains useful pedagogically to explain weak forms and vowel reduction"
+   ],
+   "explanation": "While English is not physically isochronous, English speakers perceive it as rhythmic because unstressed syllables compress heavily, keeping rhythm perceptually distinct from syllable-timed languages.",
+   "followUp": null,
+   "sourceRef": "E410 Study Guide, pp. 35, 55",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E404_T02"
+   ]
+  },
+  {
+   "id": "E410_Q082",
+   "topicId": "E410_T08",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is chunking in spoken English?",
+   "directAnswer": "Chunking is the division of continuous spoken discourse into manageable, meaningful groups of words separated by brief pauses.",
+   "vivaAnswer": "Chunking (also called phrasing or tonality) is the process of breaking continuous speech into smaller, grammatically and semantically coherent units called 'thought groups' or 'tone units'. Separated by brief pauses, chunking helps the speaker organize ideas and ensures the listener can easily process and comprehend spoken discourse.",
+   "keyPoints": [
+    "Dividing continuous speech into coherent thought groups",
+    "Separated by pauses or pitch resets",
+    "Facilitates speaker planning and listener comprehension",
+    "Transcribed using vertical bar boundaries: | (minor pause), || (major pause)"
+   ],
+   "explanation": "Speaking without chunking sounds unnatural and exhausting. For example: | When I arrived at the station | the train had already left ||.",
+   "followUp": "E410_Q083",
+   "sourceRef": "E410 Study Guide, p. 37",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q083",
+   "topicId": "E410_T08",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What rules or principles govern how speech is chunked into thought groups?",
+   "directAnswer": "Speech is chunked along syntactic clause boundaries, semantic sense groups, breathing necessity, and communicative focus.",
+   "vivaAnswer": "Chunking is governed by four primary factors: (1) Syntactic boundaries (clauses, long noun phrases, prepositional phrases); (2) Semantic completeness (each chunk must express a coherent piece of information); (3) Physiological breathing pauses; and (4) Communicative emphasis and speaking tempo (faster speech produces fewer, longer chunks; formal or deliberate speech produces more, shorter chunks).",
+   "keyPoints": [
+    "Syntactic boundaries: between clauses and major phrases",
+    "Semantic sense groups: each chunk conveys a unified idea",
+    "Tempo dependency: slow speech = shorter chunks; fast speech = larger chunks",
+    "Chunking prevents ambiguity (e.g. 'I fed her | cat food' vs 'I fed | her cat | food')"
+   ],
+   "explanation": "Incorrect chunking creates bizarre semantic misunderstandings or sounds disfluent. Intonation phrases align heavily with syntactic constituents.",
+   "followUp": "E410_Q084",
+   "sourceRef": "E410 Study Guide, pp. 37-38",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q084",
+   "topicId": "E410_T08",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "Define tone in phonology.",
+   "directAnswer": "Tone is the distinctive movement or pitch pattern occurring on the most prominent syllable (tonic syllable) of an utterance.",
+   "vivaAnswer": "In intonational phonology, tone refers to the specific pitch movement—such as falling, rising, fall-rise, or rise-fall—that occurs on the most prominent syllable of a tone unit, known as the tonic syllable or nucleus. Tone communicates grammatical sentence type, speaker attitude, and discourse status.",
+   "keyPoints": [
+    "Pitch movement or contour on the most prominent syllable",
+    "Occurs specifically on the tonic syllable (nucleus)",
+    "English inventory: Fall (↘), Rise (↗), Fall-Rise (↘↗), Rise-Fall (↗↘), Level (→)",
+    "Signals pragmatic meaning rather than lexical dictionary meaning"
+   ],
+   "explanation": "The same word 'yes' can convey complete agreement with a falling tone (↘yes), questioning with a rising tone (↗yes), or doubt with a fall-rise tone (↘↗yes).",
+   "followUp": "E410_Q085",
+   "sourceRef": "E410 Study Guide, p. 38",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E405_T01"
+   ]
+  },
+  {
+   "id": "E410_Q085",
+   "topicId": "E410_T08",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "How does tone in intonation languages like English differ from tone in tonal languages like Mandarin?",
+   "directAnswer": "In tonal languages, pitch changes word meaning in the dictionary; in intonation languages, pitch changes phrase attitude or discourse meaning.",
+   "vivaAnswer": "In true tonal languages (such as Mandarin Chinese, Thai, or Yoruba), tone is lexical: changing the pitch pattern on a syllable changes the actual dictionary word and lexical meaning (e.g. Mandarin 'ma' can mean 'mother', 'hemp', 'horse', or 'scold' depending on tone). In intonation languages like English, tone operates at the sentence or discourse level: changing pitch does not change the word itself, but signals pragmatic attitude, question status, or focus.",
+   "keyPoints": [
+    "Tonal languages (e.g. Mandarin): lexical tone (changes dictionary word)",
+    "Intonation languages (e.g. English): post-lexical tone (changes pragmatic/attitudinal meaning)",
+    "In English, /kæt/ is always 'cat' regardless of whether pitch rises or falls",
+    "Tone operates over syllables in tone languages, but over intonation phrases in English"
+   ],
+   "explanation": "This is a classic linguistics viva question that tests whether the candidate understands the difference between lexical phonology and prosody.",
+   "followUp": "E410_Q086",
+   "sourceRef": "E410 Study Guide, p. 38",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q086",
+   "topicId": "E410_T08",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is a tone unit (also called a tone group or intonation phrase)?",
+   "directAnswer": "A tone unit is the minimal autonomous unit of intonation containing one major pitch movement on an obligatory tonic syllable.",
+   "vivaAnswer": "A tone unit (also known as a tone group or intonation phrase) is the basic structural unit of intonation in speech. It consists of a sequence of speech sounds that contains exactly one principal pitch movement (one tone), centered on an obligatory tonic syllable. Every spoken utterance consists of one or more tone units.",
+   "keyPoints": [
+    "Basic structural building block of intonation",
+    "Contains exactly ONE primary pitch movement (nuclear tone)",
+    "Has one obligatory component: the tonic syllable (nucleus)",
+    "Bounded by internal pause or pitch step changes"
+   ],
+   "explanation": "A tone unit can be as short as a single monosyllabic word ('↘Yes.') or as long as a complex clause ('| When the ˈbell ↘RANG |').",
+   "followUp": "E410_Q087",
+   "sourceRef": "E410 Study Guide, p. 39",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q087",
+   "topicId": "E410_T08",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "Explain the internal structure of a tone unit: tonic syllable, head, pre-head, and tail.",
+   "directAnswer": "A tone unit consists of an obligatory Tonic Syllable (carrying the tone), preceded optionally by Pre-head and Head, and followed optionally by Tail.",
+   "vivaAnswer": "A tone unit possesses a four-part hierarchical structure: (1) Tonic Syllable (Nucleus): the only obligatory element, carrying the main pitch movement; (2) Pre-head: any unstressed syllables occurring before the first stressed syllable; (3) Head: the stretch beginning from the first stressed syllable up to (but excluding) the tonic syllable; (4) Tail: any syllables following the tonic syllable up to the tone unit boundary.",
+   "keyPoints": [
+    "Formula: (Pre-head) + (Head) + TONIC SYLLABLE + (Tail)",
+    "Tonic syllable is the ONLY mandatory constituent",
+    "Pre-head: unstressed syllables before the head (e.g. 'In a' in | In a ˈlittle ↘WHILE |)",
+    "Head: from first stress to tonic syllable ('ˈlittle')",
+    "Tail: follows the tonic syllable, continuing the pitch glide ('for us')"
+   ],
+   "explanation": "Example: | In a (pre-head) ˈlittle (head) ↘WHILE (tonic) for us (tail) |. In the tail, the pitch movement initiated on the tonic syllable is continued.",
+   "followUp": "E410_Q088",
+   "sourceRef": "E410 Study Guide, pp. 39-40",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q088",
+   "topicId": "E410_T08",
+   "type": "identification",
+   "difficulty": 2,
+   "question": "What is the tonic syllable (nucleus) and how is it identified in an utterance?",
+   "directAnswer": "The tonic syllable is the most prominent syllable in a tone unit where the nuclear pitch movement begins, normally on the last content word.",
+   "vivaAnswer": "The tonic syllable (or nucleus) is the focal center of the tone unit. It is the syllable that carries the primary pitch movement (tone), produced with maximum perceptual prominence. In neutral English utterances, the tonic syllable defaults to the stressed syllable of the last lexical content word (the End-Weight / Information Focus Principle).",
+   "keyPoints": [
+    "Focal syllable carrying nuclear pitch glide",
+    "Most prominent syllable acoustically and perceptually",
+    "Neutral default position: stressed syllable of the final content word",
+    "Shifts to earlier words to express contrastive or emphatic focus"
+   ],
+   "explanation": "In 'She ˈbought a ˈnew ↘CAR', 'car' is the tonic syllable. In 'She ˈbought a ↘RED car (not a blue one)', 'red' becomes the tonic syllable.",
+   "followUp": "E410_Q089",
+   "sourceRef": "E410 Study Guide, pp. 38, 39",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q089",
+   "topicId": "E410_T08",
+   "type": "identification",
+   "difficulty": 2,
+   "question": "Name and describe the five primary tones used in English tone units.",
+   "directAnswer": "The five tones are: Falling (↘), Rising (↗), Fall-Rise (↘↗), Rise-Fall (↗↘), and Level (→).",
+   "vivaAnswer": "English utilizes five primary nuclear tones: (1) Falling tone (↘): pitch descends, signalling completeness, certainty, and finality; (2) Rising tone (↗): pitch ascends, indicating non-finality, inquiry, or politeness; (3) Fall-Rise tone (↘↗): pitch falls and rises, conveying reservation, partial agreement, or doubt; (4) Rise-Fall tone (↗↘): pitch rises and falls, expressing strong surprise or enthusiasm; and (5) Level tone (→): flat pitch, conveying routine, boredom, or hesitation.",
+   "keyPoints": [
+    "Falling (↘): statements, certainty, completion ('Yes.')",
+    "Rising (↗): questions, incompleteness, politeness ('Yes?')",
+    "Fall-Rise (↘↗): reservation, 'yes, but...', uncertainty ('Yes...')",
+    "Rise-Fall (↗↘): surprise, impression, sarcasm ('Yes!')",
+    "Level (→): routine, list recitation, bored indifference ('Yes-')"
+   ],
+   "explanation": "Halliday and O'Connor & Arnold codified these five basic pitch contours as the foundational system of English intonational phonology.",
+   "followUp": "E410_Q090",
+   "sourceRef": "E410 Study Guide, pp. 38-39",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q090",
+   "topicId": "E410_T08",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "Does a tone unit always correspond to a grammatical sentence?",
+   "directAnswer": "No, a single sentence may contain several tone units, and a tone unit can be shorter than a sentence.",
+   "vivaAnswer": "No, a tone unit does not necessarily equal a syntactic sentence. While a very short simple sentence can coincide with a single tone unit (e.g. | He ↘LEFT ||), a sentence often consists of multiple tone units corresponding to clauses, phrases, or parentheticals (e.g. | When he ↗CAME | I was ˈeating ↘LUNCH ||). Conversely, a single minor word can constitute a complete tone unit (e.g. | ↘YES ||).",
+   "keyPoints": [
+    "Tone unit is a phonological unit; sentence is a syntactic unit",
+    "One sentence can have one, two, or multiple tone units",
+    "Tone unit boundaries align with communicative chunks, not just full stops",
+    "A single word can be an entire tone unit"
+   ],
+   "explanation": "Equating phonological units directly with syntactic units is a common error. Phonology and syntax are distinct grammatical modules that interface closely.",
+   "followUp": null,
+   "sourceRef": "E410 Study Guide, p. 40",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q091",
+   "topicId": "E410_T09",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "Define intonation in phonology.",
+   "directAnswer": "Intonation is the systematic pattern of pitch variation across whole utterances, often called the 'melody' of speech.",
+   "vivaAnswer": "Intonation is the meaningful pattern of pitch changes and musical variation across a continuous stretch of spoken discourse or entire utterance. Often described as the 'melody of speech', intonation does not change lexical dictionary words, but conveys syntactic structure, speaker attitudes, information focus, and discourse flow.",
+   "keyPoints": [
+    "Pattern of pitch changes across an entire utterance",
+    "Known as the 'melody of speech'",
+    "Post-lexical suprasegmental system",
+    "Functions at grammatical, attitudinal, discourse, and accentual levels"
+   ],
+   "explanation": "Even if two utterances have identical syntax and words, varying the intonation contour produces completely different communicative acts (e.g. statement vs question vs sarcasm).",
+   "followUp": "E410_Q092",
+   "sourceRef": "E410 Study Guide, p. 41",
+   "isEssential": true,
+   "crossCourseLinks": [
+    "E405_T01"
+   ]
+  },
+  {
+   "id": "E410_Q092",
+   "topicId": "E410_T09",
+   "type": "identification",
+   "difficulty": 1,
+   "question": "What are the four major functions of intonation in English?",
+   "directAnswer": "The four major functions are: (1) Grammatical, (2) Attitudinal, (3) Discourse, and (4) Accentual.",
+   "vivaAnswer": "Intonation fulfills four primary communicative functions in English: (1) Grammatical function (distinguishing sentence types like statements vs questions, or separating clauses); (2) Attitudinal function (expressing emotions, politeness, sarcasm, and personal feelings); (3) Discourse function (managing conversation, signaling turn-taking, and marking given vs new information); and (4) Accentual function (placing the tonic syllable to highlight information focus).",
+   "keyPoints": [
+    "Grammatical: marks clause boundaries and distinguishes syntactic mood",
+    "Attitudinal: conveys speaker emotions and stance (polite, bored, enthusiastic)",
+    "Discourse: manages conversational turn-taking and shared knowledge",
+    "Accentual: marks the most important semantic focus with tonic stress"
+   ],
+   "explanation": "These four functions operate simultaneously in spontaneous speech. In viva, candidates should name all four immediately.",
+   "followUp": "E410_Q093",
+   "sourceRef": "E410 Study Guide, pp. 41-42",
+   "isEssential": true,
+   "crossCourseLinks": [
+    "E405_T01"
+   ]
+  },
+  {
+   "id": "E410_Q093",
+   "topicId": "E410_T09",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "Explain the grammatical function of intonation with examples.",
+   "directAnswer": "The grammatical function identifies sentence types (e.g. declarative vs interrogative) and marks clause boundaries.",
+   "vivaAnswer": "The grammatical function uses pitch contours to identify grammatical structure and sentence types. For example, a syntactically declarative sentence like 'You're coming' functions as a factual statement when spoken with a falling tone (↘), but functions as a question when spoken with a rising tone (↗). It also disambiguates non-restrictive from restrictive relative clauses.",
+   "keyPoints": [
+    "Differentiates sentence types without syntactic reordering",
+    "Statement (fall ↘) vs Yes/No Question (rise ↗): 'You're ready ↘' vs 'You're ready? ↗'",
+    "Demarcates grammatical clauses and tone unit boundaries",
+    "Resolves structural syntactic ambiguities in speech"
+   ],
+   "explanation": "In writing, punctuation indicates sentence type; in speech, intonation performs that exact grammatical role.",
+   "followUp": "E410_Q094",
+   "sourceRef": "E410 Study Guide, p. 41",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q094",
+   "topicId": "E410_T09",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "Explain the attitudinal function of intonation with examples.",
+   "directAnswer": "The attitudinal function expresses the speaker's emotional state and personal attitude toward the listener or topic.",
+   "vivaAnswer": "The attitudinal function conveys how the speaker feels—such as enthusiastic, bored, sarcastic, doubtful, warm, or hostile. The exact same words can carry radically opposed meanings depending on pitch movement: for example, 'Thank you' with a warm low fall (↘) conveys genuine gratitude, with a flat level tone (→) sounds routine or bored, and with an exaggerated rise-fall (↗↘) sounds sarcastic.",
+   "keyPoints": [
+    "Conveys emotion, stance, and interpersonal attitude",
+    "Fall (↘) = businesslike, firm, definite",
+    "Rise (↗) = polite, tentative, inquiring",
+    "Fall-rise (↘↗) = doubtful, reserved, mitigating",
+    "Rise-fall (↗↘) = impressed, highly emotional, or sarcastic"
+   ],
+   "explanation": "This function connects directly with pragmatics in E405, where intonation indicates the speaker's illocutionary intent beyond literal semantics.",
+   "followUp": "E410_Q095",
+   "sourceRef": "E410 Study Guide, pp. 41-42",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E405_T01"
+   ]
+  },
+  {
+   "id": "E410_Q095",
+   "topicId": "E410_T09",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "Explain the discourse function of intonation regarding turn-taking and given vs new information.",
+   "directAnswer": "In discourse, intonation regulates conversational turn-taking and distinguishes known (given) information from new information.",
+   "vivaAnswer": "The discourse function manages conversational interaction. First, it regulates turn-taking: a low fall signals that a speaker has completed their turn, while a rise or level tone indicates they hold the floor or invite a response. Second, it packages information: new information receives a prominent tonic pitch accent, whereas given (already established) information receives lower pitch prominence.",
+   "keyPoints": [
+    "Turn-taking: falling pitch = floor surrender; rising/level = floor holding",
+    "Information packaging: New information = high pitch prominence / nuclear accent",
+    "Given/old information = low pitch / de-accented",
+    "Topic initiation vs topic termination markers"
+   ],
+   "explanation": "David Brazil's discourse intonation framework describes falling tones as 'proclaiming' (new information) and rising/fall-rising tones as 'referring' (shared or given ground).",
+   "followUp": "E410_Q096",
+   "sourceRef": "E410 Study Guide, p. 42",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E405_T03"
+   ]
+  },
+  {
+   "id": "E410_Q096",
+   "topicId": "E410_T09",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "Explain the accentual function of intonation.",
+   "directAnswer": "The accentual function places the tonic syllable to mark the most important information focus of the utterance.",
+   "vivaAnswer": "The accentual function of intonation works by positioning the tonic syllable (the nucleus) on the most significant word in the tone unit, thereby marking the informational focus. By shifting the tonic syllable, a speaker alters the entire focus of the sentence without changing a single word.",
+   "keyPoints": [
+    "Marks informational focus via tonic syllable placement",
+    "Neutral focus: placed on the final content word ('I bought a ↘CAR')",
+    "Marked focus: shifted to earlier elements ('↘I bought a car' [not John])",
+    "Guides the listener's interpretation of sentence prominence"
+   ],
+   "explanation": "Consider 'I never said she stole my money'. Moving the tonic accent to each of the seven words produces seven distinct interpretations.",
+   "followUp": "E410_Q097",
+   "sourceRef": "E410 Study Guide, p. 42",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E405_T01"
+   ]
+  },
+  {
+   "id": "E410_Q097",
+   "topicId": "E410_T09",
+   "type": "application",
+   "difficulty": 1,
+   "question": "In what sentence types is falling intonation (↘) normally used in English?",
+   "directAnswer": "Falling intonation is standard for declarative statements, wh-questions, commands, exclamations, and final items in lists.",
+   "vivaAnswer": "Falling intonation (↘) is the default contour in English for expressing completeness, finality, and certainty. It is normally used in: (1) Ordinary declarative statements ('It's a beautiful ↘day'); (2) Wh-questions ('Where do you ↘live?'); (3) Imperative commands ('Sit ↘down'); (4) Exclamations ('What a lovely ↘house!'); and (5) The final item in an enumerated list ('...and ↘bananas').",
+   "keyPoints": [
+    "Declarative statements: 'He came home ↘'",
+    "Wh-questions: 'What's your ↘name?' (NOT rising!)",
+    "Commands/imperatives: 'Close the ↘door'",
+    "Exclamations: 'How ↘wonderful!'",
+    "Finality in lists: 'apples, oranges, and ↘grapes'"
+   ],
+   "explanation": "A common student error in viva is assuming all questions take rising intonation. Wh-questions in English normally take falling intonation.",
+   "followUp": "E410_Q098",
+   "sourceRef": "E410 Study Guide, p. 42",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q098",
+   "topicId": "E410_T09",
+   "type": "application",
+   "difficulty": 1,
+   "question": "In what contexts is rising intonation (↗) typically used in English?",
+   "directAnswer": "Rising intonation is used for yes/no questions, polite requests, encouraging inquiries, and non-final items in lists.",
+   "vivaAnswer": "Rising intonation (↗) signals non-finality, incompleteness, social openness, or inquiry. It is standardly used for: (1) Polar (Yes/No) questions ('Do you like ↗coffee?'); (2) Polite requests or invitations ('Could you help ↗me?'); (3) Expressing genuine surprise or encouragement ('↗Really?'); and (4) Non-final listed items to show there is more to come ('I bought ↗apples, ↗oranges...').",
+   "keyPoints": [
+    "Yes/No questions: 'Is it ↗raining?'",
+    "Polite requests: 'Would you mind opening the ↗window?'",
+    "Non-final list items: 'one ↗, two ↗, three ↗...'",
+    "Checking/confirming: 'You're ready, ↗aren't you?'"
+   ],
+   "explanation": "Rising intonation leaves the communicative door open, indicating that the speaker invites the interlocutor's contribution or that more information will follow.",
+   "followUp": "E410_Q099",
+   "sourceRef": "E410 Study Guide, pp. 42-43",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q099",
+   "topicId": "E410_T09",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What communicative meanings are conveyed by a fall-rise tone (↘↗)?",
+   "directAnswer": "A fall-rise tone conveys reservation, partial agreement ('yes, but...'), polite disagreement, and contrast.",
+   "vivaAnswer": "The fall-rise tone (↘↗) is one of the most distinctive and subtle pitch contours in English. It primarily signals reservation, doubt, or partial agreement—often implying an unspoken 'but...'. It is also used for polite contradiction, softening criticism, or establishing explicit contrast between two concepts.",
+   "keyPoints": [
+    "Signals reservation or limitation ('It's ↘↗nice...' [but too expensive])",
+    "Partial agreement: agreeing in principle but withholding complete endorsement",
+    "Polite dissent: softens disagreement ('I'm not ↘↗sure about that')",
+    "Contrastive topic: 'I like the ↘↗colour, but hate the design'"
+   ],
+   "explanation": "Saying 'He's ↘clever' is a straightforward compliment. Saying 'He's ↘↗clever' implies 'he's clever, but I don't trust him'. This illustrates prosodic implicature in pragmatics.",
+   "followUp": "E410_Q100",
+   "sourceRef": "E410 Study Guide, p. 43",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E405_T01"
+   ]
+  },
+  {
+   "id": "E410_Q100",
+   "topicId": "E410_T09",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What communicative meanings are conveyed by a rise-fall tone (↗↘)?",
+   "directAnswer": "A rise-fall tone expresses intense emotion, strong surprise, being highly impressed, or sharp irony/sarcasm.",
+   "vivaAnswer": "The rise-fall tone (↗↘) is an emotionally charged contour that conveys heightened involvement, intense surprise, enthusiasm, or strong approval or disapproval. It is also frequently utilized by native speakers to express sharp irony or sarcasm.",
+   "keyPoints": [
+    "Strong surprise or shock: 'You passed? That's ↗↘amazing!'",
+    "Intense approval or admiration: 'She was ↗↘marvellous!'",
+    "Sarcasm or ironic skepticism: 'Oh ↗↘really?'",
+    "Infrequent in neutral, objective discourse"
+   ],
+   "explanation": "Because it demands substantial vocal energy, the rise-fall tone immediately signals strong emotional commitment or dramatic theatricality.",
+   "followUp": "E410_Q101",
+   "sourceRef": "E410 Study Guide, p. 43",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q101",
+   "topicId": "E410_T09",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "How does intonation alter the communicative meaning of tag questions?",
+   "directAnswer": "A falling tag expects agreement (statement of certainty); a rising tag seeks genuine confirmation (real question).",
+   "vivaAnswer": "Intonation completely changes the pragmatic function of tag questions. When spoken with a falling tone (↘), the speaker is confident of the truth and expects the listener to agree ('It's cold, ↘isn't it?'). When spoken with a rising tone (↗), the tag functions as a genuine question where the speaker is genuinely unsure and requests factual confirmation ('It's cold, ↗isn't it?').",
+   "keyPoints": [
+    "Falling tag (↘): expecting agreement / seeking confirmation of obvious fact",
+    "Rising tag (↗): genuine question / speaker is uncertain",
+    "Identical words and syntax yield opposite pragmatic forces",
+    "Classic viva illustration of the intonation-pragmatics interface"
+   ],
+   "explanation": "This distinction proves that sentence mood and illocutionary force in English are mediated by intonation contours rather than syntactic structure alone.",
+   "followUp": null,
+   "sourceRef": "E410 Study Guide, pp. 43-44",
+   "isEssential": true,
+   "crossCourseLinks": [
+    "E405_T01"
+   ]
+  },
+  {
+   "id": "E410_Q102",
+   "topicId": "E410_T10",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is connected speech and how does it contrast with citation form?",
+   "directAnswer": "Connected speech is continuous natural speech with phonetic modifications; citation form is the isolated, careful dictionary pronunciation.",
+   "vivaAnswer": "Connected speech is the continuous, fluid stream of spoken language used in natural conversation, where words flow into one another and undergo systematic phonological modifications (elision, assimilation, weak forms, linking). In contrast, citation form is the artificial, careful pronunciation of a word spoken in complete isolation as recorded in a dictionary.",
+   "keyPoints": [
+    "Connected speech: fluent continuous stream, rule-governed modifications",
+    "Citation form: isolated, careful dictionary pronunciation",
+    "Modifications include weak forms, elision, assimilation, linking",
+    "Connected speech is natural native phonology, not 'careless' speech"
+   ],
+   "explanation": "Words rarely sound like their citation forms in continuous speech. For example, citation 'and' is /ænd/, but in connected speech 'bread and butter' it is pronounced /ən/.",
+   "followUp": "E410_Q103",
+   "sourceRef": "E410 Study Guide, p. 45",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q103",
+   "topicId": "E410_T10",
+   "type": "distinction",
+   "difficulty": 1,
+   "question": "Distinguish between broad (phonemic) and narrow (phonetic) transcription.",
+   "directAnswer": "Broad transcription / / shows only contrastive phonemes; narrow transcription [ ] uses diacritics to record precise phonetic detail.",
+   "vivaAnswer": "Broad (phonemic) transcription is written between slashes / / and represents only the contrastive phoneme units of a language, ignoring non-contrastive phonetic details. Narrow (phonetic) transcription is written in square brackets [ ] and uses extensive diacritics to represent exact physical pronunciation, including aspiration [pʰ], dark [ɫ], nasalization, and dentalization.",
+   "keyPoints": [
+    "Broad (/ /): phonemic, contrastive categories, simple and practical",
+    "Narrow ([ ]): phonetic, records allophonic variation and exact physical realities",
+    "Broad example: /pɪn/ ('pin')",
+    "Narrow example: [pʰɪ̃n] (showing initial aspiration and vowel nasalization before /n/)"
+   ],
+   "explanation": "For viva exams, broad transcription annotated with connected speech phenomena (weak forms, assimilation, stress) is standard.",
+   "followUp": "E410_Q104",
+   "sourceRef": "E410 Study Guide, pp. 45-46",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q104",
+   "topicId": "E410_T10",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is linking in English connected speech?",
+   "directAnswer": "Linking is the smooth phonological connection of the final sound of one word to the initial sound of the next word.",
+   "vivaAnswer": "Linking (or liaison) is the phonological process of connecting words smoothly across word boundaries in continuous speech to prevent awkward vocal tract pauses or glottal stops. In English, linking occurs between consonant-to-vowel transitions, vowel-to-vowel transitions (via /r/, /j/, or /w/), and identical consonant transitions.",
+   "keyPoints": [
+    "Smooth transition across word boundaries",
+    "Eliminates hiatus (awkward vowel-vowel gaps)",
+    "Types: Linking /r/, Intrusive /r/, Linking /j/, Linking /w/",
+    "Creates continuous acoustic stream characteristic of native speech"
+   ],
+   "explanation": "Without linking, English sentences sound broken and staccato. For example, 'turn off' is pronounced naturally as /tɜːn ɒf/ with smooth resyllabification /tɜː.nɒf/.",
+   "followUp": "E410_Q105",
+   "sourceRef": "E410 Study Guide, pp. 46-47",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q105",
+   "topicId": "E410_T10",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What is linking /r/ in non-rhotic accents like RP? Give examples.",
+   "directAnswer": "Linking /r/ is the pronunciation of an orthographic 'r' at the end of a word when immediately followed by a word starting with a vowel.",
+   "vivaAnswer": "In non-rhotic accents such as Received Pronunciation (RP), the phoneme /r/ is not pronounced word-finally or before consonants (e.g. 'car' /kɑː/, 'far' /fɑː/). However, when a word ending with orthographic 'r' is followed immediately by a word beginning with a vowel sound, the /r/ is pronounced to bridge the words smoothly. This is linking /r/.",
+   "keyPoints": [
+    "Applies in non-rhotic accents (RP, Australian English)",
+    "Word ends in letter 'r'/'re' but is silent in isolation",
+    "/r/ is articulated when the next word begins with a vowel",
+    "Examples: 'far away' /fɑːrəweɪ/, 'her eyes' /hɜːraɪz/, 'four oranges' /fɔːrɒrɪndʒɪz/"
+   ],
+   "explanation": "Orthographic justification is the key: linking /r/ only occurs where the historical spelling has an 'r'. Where no 'r' exists in spelling, the phenomenon is called intrusive /r/.",
+   "followUp": "E410_Q106",
+   "sourceRef": "E410 Study Guide, p. 47",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E404_T02"
+   ]
+  },
+  {
+   "id": "E410_Q106",
+   "topicId": "E410_T10",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What is intrusive /r/ and why does it occur? Give examples.",
+   "directAnswer": "Intrusive /r/ is the insertion of an /r/ sound between two vowels where no 'r' exists in the spelling, following /ɔː, ɑː, ə/.",
+   "vivaAnswer": "Intrusive /r/ occurs in non-rhotic accents when speakers insert an /r/ sound between a word ending in an open or central vowel (/ɔː, ɑː, ə/) and a following word beginning with a vowel, even though there is no letter 'r' in the spelling. It arises by structural analogy with linking /r/ to prevent vowel hiatus.",
+   "keyPoints": [
+    "No 'r' in the written spelling",
+    "Occurs after vowels /ɔː, ɑː, ə/ before another vowel",
+    "Product of phonological generalization from linking /r/",
+    "Examples: 'law and order' /lɔːrənd ɔːdə/, 'idea of' /aɪdɪərəv/, 'media event' /miːdiərəvent/"
+   ],
+   "explanation": "Because native speakers perceive pairs like 'sofa' and 'driver' as ending in the exact same vowel /ə/, they generalize the /r/-insertion rule across both words when followed by vowels.",
+   "followUp": "E410_Q107",
+   "sourceRef": "E410 Study Guide, p. 47",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E404_T02"
+   ]
+  },
+  {
+   "id": "E410_Q107",
+   "topicId": "E410_T10",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What are linking /j/ and linking /w/ (glide insertion) in connected speech?",
+   "directAnswer": "Linking /j/ and /w/ are transient semi-vowel glides inserted between two adjacent vowels to ensure smooth transition.",
+   "vivaAnswer": "Linking /j/ and /w/ are phonetic glide insertions that bridge vowel-vowel transitions. When a word ends with a close front vowel or diphthong (/iː, ɪ, eɪ, aɪ, ɔɪ/), the tongue naturally introduces a subtle /j/ glide before a following vowel (e.g. 'he asked' /hiːjɑːskt/, 'my arm' /maɪjɑːm/). When a word ends with a back rounded vowel (/uː, ʊ, əʊ, aʊ/), the rounded lips introduce a /w/ glide (e.g. 'do it' /duːwɪt/, 'go away' /ɡəʊwəweɪ/).",
+   "keyPoints": [
+    "Linking /j/ follows front vowels: /iː, ɪ, eɪ, aɪ, ɔɪ/ ('see it' /siːjɪt/)",
+    "Linking /w/ follows back rounded vowels: /uː, əʊ, aʊ/ ('two others' /tuːwʌðəz/)",
+    "Arises naturally from coarticulatory glide movement between vowel positions",
+    "Prevents glottal stopping between adjacent vowels"
+   ],
+   "explanation": "These glides are automatic consequences of vocal tract transition from high front or high back postures to subsequent vowels.",
+   "followUp": "E410_Q108",
+   "sourceRef": "E410 Study Guide, p. 47",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q108",
+   "topicId": "E410_T10",
+   "type": "application",
+   "difficulty": 2,
+   "question": "Analyze the connected speech transcription of: 'I want to go to the shop.'",
+   "directAnswer": "Citation /aɪ wɒnt tuː ɡəʊ tuː ðiː ʃɒp/ becomes connected /aɪ wɒnə ɡəʊ tə ðə ʃɒp/ via elision and weak forms.",
+   "vivaAnswer": "In citation form, the sentence is /aɪ wɒnt tuː ɡəʊ tuː ðiː ʃɒp/. In natural connected speech, it becomes /aɪ wɒnə ɡəʊ tə ðə ʃɒp/. Three changes occur: (1) 'want to' undergoes /t/-elision and vowel reduction, fusing into /wɒnə/; (2) the preposition 'to' reduces to its weak form /tə/; and (3) the article 'the' reduces to its pre-consonantal weak form /ðə/.",
+   "keyPoints": [
+    "Citation form: /aɪ wɒnt tuː ɡəʊ tuː ðiː ʃɒp/",
+    "Connected form: /aɪ wɒnə ɡəʊ tə ðə ʃɒp/",
+    "'want to' → /wɒnə/ (/t/ elided, /uː/ reduced to schwa)",
+    "'the' → /ðə/ (weak form before consonant /ʃ/)",
+    "Content words ('want', 'go', 'shop') retain full vowels"
+   ],
+   "explanation": "This sentence illustrates how unstressed syllables compress around the stressed verbs and nouns in stress-timed English.",
+   "followUp": "E410_Q109",
+   "sourceRef": "E410 Study Guide, pp. 47-48",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q109",
+   "topicId": "E410_T10",
+   "type": "application",
+   "difficulty": 2,
+   "question": "Analyze the connected speech transcription of: 'Can you give me a cup of tea?'",
+   "directAnswer": "Citation /kæn juː ɡɪv miː eɪ kʌp ɒv tiː/ becomes connected /kən jə ɡɪv mi ə kʌpə tiː/.",
+   "vivaAnswer": "The citation form /kæn juː ɡɪv miː eɪ kʌp ɒv tiː/ simplifies in connected speech to /kən jə ɡɪv mi ə kʌpə tiː/. The modifications are: auxiliary 'can' reduces to weak /kən/; pronoun 'you' reduces to weak /jə/; pronoun 'me' shortens to /mi/; indefinite article 'a' becomes /ə/; and preposition 'of' loses /v/ through elision before consonant /t/, merging into /kʌpə/.",
+   "keyPoints": [
+    "Citation form: /kæn juː ɡɪv miː eɪ kʌp ɒv tiː/",
+    "Connected form: /kən jə ɡɪv mi ə kʌpə tiː/",
+    "'can' → /kən/ (weak form with schwa)",
+    "'you' → /jə/ (weak form with schwa)",
+    "'cup of' → /kʌpə/ (/v/ elision in 'of' before consonant /t/)"
+   ],
+   "explanation": "Notice how all five function words reduce, leaving only the content words 'give', 'cup', and 'tea' with primary lexical prominence.",
+   "followUp": "E410_Q110",
+   "sourceRef": "E410 Study Guide, p. 48",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q110",
+   "topicId": "E410_T10",
+   "type": "application",
+   "difficulty": 2,
+   "question": "Analyze the connected speech transcription of: 'He must have been working all day.'",
+   "directAnswer": "Citation /hiː mʌst hæv biːn wɜːkɪŋ ɔːl deɪ/ becomes connected /hi məs əv bɪn wɜːkɪŋ ɔːl deɪ/.",
+   "vivaAnswer": "In citation form, the sentence is /hiː mʌst hæv biːn wɜːkɪŋ ɔːl deɪ/. In connected speech, it is pronounced /hi məs əv bɪn wɜːkɪŋ ɔːl deɪ/. The changes include: 'he' shortens to /hi/; modal 'must' reduces vowel to schwa and elides final /t/ (/məs/); auxiliary 'have' drops initial /h/ and reduces to /əv/; auxiliary 'been' reduces to weak form /bɪn/; while 'working', 'all', and 'day' retain primary stress.",
+   "keyPoints": [
+    "Citation: /hiː mʌst hæv biːn wɜːkɪŋ ɔːl deɪ/",
+    "Connected: /hi məs əv bɪn wɜːkɪŋ ɔːl deɪ/",
+    "'must' → /məs/ (/t/ elided in cluster)",
+    "'have' → /əv/ (h-dropping + vowel reduction to schwa)",
+    "'been' → /bɪn/ (weak form with short /ɪ/ instead of /iː/)"
+   ],
+   "explanation": "In rapid speech, multiple auxiliary sequences undergo heavy phonological reduction, clustering around the lexical main verb.",
+   "followUp": "E410_Q111",
+   "sourceRef": "E410 Study Guide, pp. 48-49",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q111",
+   "topicId": "E410_T10",
+   "type": "application",
+   "difficulty": 2,
+   "question": "Analyze the connected speech transcription of: 'What do you want for breakfast?'",
+   "directAnswer": "Citation /wɒt duː juː wɒnt fɔː brekfəst/ becomes connected /wɒt dʒə wɒnt fə brekfəst/ via coalescent assimilation.",
+   "vivaAnswer": "In citation form, the sentence is /wɒt duː juː wɒnt fɔː brekfəst/. In natural connected speech, it becomes /wɒt dʒə wɒnt fə brekfəst/. The standout change is coalescent assimilation: auxiliary 'do' /d/ and pronoun 'you' /j/ merge into the affricate /dʒ/ with vowel reduction to schwa (/dʒə/). Additionally, preposition 'for' reduces to its weak form /fə/.",
+   "keyPoints": [
+    "Citation: /wɒt duː juː wɒnt fɔː brekfəst/",
+    "Connected: /wɒt dʒə wɒnt fə brekfəst/",
+    "Coalescent assimilation: /d/ + /j/ → /dʒ/ ('do you' → /dʒə/)",
+    "Preposition reduction: 'for' /fɔː/ → /fə/",
+    "Demonstrates interaction of assimilation and weak forms"
+   ],
+   "explanation": "This example frequently appears in practical viva tests to verify whether the candidate can identify coalescent palatalization in action.",
+   "followUp": "E410_Q112",
+   "sourceRef": "E410 Study Guide, p. 49",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E410_Q112",
+   "topicId": "E410_T10",
+   "type": "connection",
+   "difficulty": 2,
+   "question": "How do connected speech phenomena link to sociolinguistic variation and accents in E404?",
+   "directAnswer": "Connected speech features vary across social classes, regional dialects, and degrees of formality, forming major sociolinguistic variables.",
+   "vivaAnswer": "Connected speech phenomena directly interface with sociolinguistic variation in E404. Features such as rhoticity versus non-rhoticity govern whether linking /r/ exists, while glottal stopping [ʔ] substituting for /t/ (glottaling) and /h/-dropping vary along social class, age, and formality spectra. More casual styles exhibit extensive assimilation and elision, while prestigious or formal styles retain closer approximations to citation forms.",
+   "keyPoints": [
+    "Rhoticity distinction: rhotic accents (General American, Scottish) lack linking /r/ and intrusive /r/",
+    "T-glottaling: substitution of [ʔ] for /t/ in clusters is a prominent British sociolinguistic marker",
+    "H-dropping: elision of /h/ in lexical words is a working-class dialect marker in British English",
+    "Stylistic continuum: casual/vernacular registers maximize elision; formal registers minimize it"
+   ],
+   "explanation": "This connects phonology to Labovian sociolinguistics in E404, proving that phonological processes are socially stratified and stylistically conditioned.",
+   "followUp": null,
+   "sourceRef": "E410 Study Guide, pp. 47, 50",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E404_T02"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Viva Studio — Prepare for your English linguistics viva with study materials and practice questions for E403–E413.">
+  <title>Viva Studio — English Viva Preparation</title>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/style.css">
+
+  <!-- Favicon -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>">
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="nav" id="nav"></nav>
+
+  <!-- Main Content -->
+  <main class="main" id="main">
+    <div style="text-align: center; padding: 80px 20px;">
+      <div class="loading-spinner"></div>
+      <p style="margin-top: 16px; color: var(--text-muted);">Loading…</p>
+    </div>
+  </main>
+
+  <!-- Search Overlay -->
+  <div class="search-overlay" id="searchOverlay">
+    <div class="search-box">
+      <div class="search-input-wrap">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color: var(--text-muted); flex-shrink: 0;">
+          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+        </svg>
+        <input type="text" class="search-input" placeholder="Search concepts, questions, theorists…" oninput="App.handleSearch(this.value)" autocomplete="off">
+        <kbd class="kbd">Esc</kbd>
+      </div>
+      <div class="search-results"></div>
+    </div>
+  </div>
+
+  <!-- Ask Guide Panel (AI - not connected yet) -->
+  <div class="guide-panel" id="guidePanel">
+    <div class="guide-header">
+      <h3>Ask Guide</h3>
+      <button class="btn btn-outline btn-small" onclick="App.toggleGuide()">✕ Close</button>
+    </div>
+    <div class="guide-messages">
+      <div class="guide-not-connected">
+        <div style="font-size: 2rem; margin-bottom: 12px;">🤖</div>
+        <h3>AI guide is not connected yet.</h3>
+        <p style="margin-top: 8px; font-size: 0.9rem;">
+          Use the <strong>Search</strong> (Ctrl+K) to find concepts and questions.
+          The AI guide will be available in a future update.
+        </p>
+      </div>
+    </div>
+    <div class="guide-input-wrap">
+      <input type="text" class="guide-input" placeholder="Ask a question…" disabled>
+      <button class="btn btn-primary btn-small" disabled>Send</button>
+    </div>
+  </div>
+
+  <!-- Toast Container -->
+  <div class="toast-container" id="toasts"></div>
+
+  <!-- Scripts -->
+  <script src="js/storage.js"></script>
+  <script src="js/content.js"></script>
+  <script src="js/practice.js"></script>
+  <script src="js/app.js"></script>
+
+</body>
+</html>

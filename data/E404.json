@@ -1,0 +1,2662 @@
+{
+ "courseId": "E404",
+ "courseTitle": "Sociolinguistics",
+ "overview": "Sociolinguistics is the branch of linguistics that investigates the dynamic, bidirectional relationship between language and society. Rather than viewing language as an isolated, abstract grammatical system, sociolinguistics demonstrates that language is inherently social, structured, and variable. The course explores how social factors—such as socioeconomic class, gender, ethnicity, age, and geography—shape linguistic choices and drive language change over time, encapsulated in William Labov's concept of 'orderly heterogeneity'. It investigates speech varieties ranging from regional dialects, sociolects, and registers to contact vernaculars like pidgins and creoles, tracing their evolution along the post-creole continuum. Key geographical and spatial models, including Augustus Schleicher's Tree Model and Johannes Schmidt's Wave Model, contrast linguistic splitting with diffusion through contact. In multilingual settings, the course examines diglossia, societal bilingualism, code-switching, code-mixing, and borrowing, alongside Carol Myers-Scotton's Matrix Language Frame model. Macro-level processes are addressed through language planning and policy (status, corpus, and acquisition planning), extending to James Tollefson's Critical Language Policy. The cultural dimensions of language are analyzed through the Sapir-Whorf hypothesis and Stuart Hall's representation theory. Furthermore, the course critically interrogates power relations, gendered discourse, Dale Spender's feminist critiques, Robert Phillipson's linguistic imperialism, linguicism, and the politics of World Englishes. Finally, it addresses language fossilization in second language acquisition as formulated by Larry Selinker, exploring why learner interlanguages stabilize. Overall, E404 equips students to analyze how power, identity, ideology, and community norms are mediated through linguistic structures.",
+ "topics": [
+  {
+   "id": "E404_T01",
+   "title": "Definition and Scope of Sociolinguistics",
+   "coreIdea": "Sociolinguistics is the study of the bidirectional relationship between language and society. It investigates how social structures such as social class, gender, ethnicity, and geography influence linguistic variation and change, and how linguistic choices construct social identity and power relations. It proves that linguistic variation is systematic and rule-governed rather than sloppy or deficient.",
+   "vivaAnswer": "Sociolinguistics is the branch of linguistics that studies the mutual relationship between language and society. It examines how social structures influence language use and how language patterns shape social and cultural behavior in a speech community.",
+   "example": "A working-class speaker in New York dropping post-vocalic /r/ while an upper-middle-class speaker pronounces it demonstrates how social class systematically patterns phonetic variation.",
+   "understandMore": "Sociolinguistics encompasses a wide interdisciplinary scope, linking dialectology, discourse analysis, language planning, educational policy, language attitudes, gender studies, and language revitalization. It connects core linguistics with sociology, anthropology, psychology, and education.",
+   "commonConfusion": "Sociolinguistics is often confused with theoretical linguistics. While theoretical (formal) linguistics focuses on internal grammar rules in an idealized, homogeneous speaker-hearer, sociolinguistics focuses on language as it is actually used across diverse social contexts.",
+   "relatedConcepts": [
+    "E404_T02",
+    "E404_T03",
+    "E404_T09"
+   ],
+   "sourceRef": "E404 Guide, Topic 1, pp. 5-7"
+  },
+  {
+   "id": "E404_T02",
+   "title": "Sociolinguistics and Sociology of Language",
+   "coreIdea": "Sociolinguistics and Sociology of Language examine the same empirical territory—language and society—but approach it from inverted analytical perspectives. Sociolinguistics uses social factors to understand linguistic systems, whereas Sociology of Language uses linguistic patterns to understand social organization and institutions.",
+   "vivaAnswer": "Sociolinguistics focuses primarily on language, studying it within its social context (society affecting language). Sociology of language focuses primarily on society, using language as a lens to understand social structures, institutions, and power dynamics (language affecting society).",
+   "example": "Studying how vowel shifts occur across working-class neighborhoods is sociolinguistics; studying how language policies in Quebec reflect ethnic conflict and preserve French political power is sociology of language.",
+   "understandMore": "Sociology of language draws heavily on classical sociological paradigms, including Structural-Functionalism (language maintaining social equilibrium), Symbolic Interactionism (micro-level negotiation of meaning), Conflict Theory (language as an instrument of hegemony and class control), Ethnomethodology, and Critical Discourse Analysis (CDA).",
+   "commonConfusion": "Students frequently assume these are identical disciplines. Remember: the primary object of inquiry differs—sociolinguistics starts from language features (bottom-up), while sociology of language starts from societal organization and institutions (top-down).",
+   "relatedConcepts": [
+    "E404_T01",
+    "E404_T08",
+    "E404_T12"
+   ],
+   "sourceRef": "E404 Guide, Topic 2, pp. 8-9"
+  },
+  {
+   "id": "E404_T03",
+   "title": "Language and Dialect: Standard Language, Dialect, and Language Standardization",
+   "coreIdea": "Linguistically, there is no structural difference between a language and a dialect; all varieties are complete, rule-governed linguistic systems. The distinction is socio-political: a language is typically a dialect backed by political power, institutional codification, and prestige. Standardization is the historical and political process through which one dialect is institutionalized as the normative variety.",
+   "vivaAnswer": "Linguistically, all dialects are fully formed, rule-governed varieties. A language is distinguished from a dialect by socio-historical and political factors, status, and codification—often summarized by Max Weinreich's adage: 'A language is a dialect with an army and navy.'",
+   "example": "Hindi and Urdu are mutually intelligible varieties spoken in South Asia, yet politically and culturally classified as separate languages due to different writing systems, religious affiliations, and state borders.",
+   "understandMore": "Standardization follows Einar Haugen's four-step model: Selection (choosing a variety based on prestige or power), Codification (fixing orthography and grammar in dictionaries and grammars), Elaboration of Function (expanding vocabulary for technical, academic, and administrative domains), and Acceptance (adoption by the speech community and institutions). Varieties also include regional dialects, sociolects (class/caste/ethnicity), idiolects (individual speech), and registers (varieties according to use/situation).",
+   "commonConfusion": "Many believe a 'dialect' is an ungrammatical or corrupt version of a standard language. In sociolinguistics, standard language is itself merely one dialect that achieved social and political prestige through standardization.",
+   "relatedConcepts": [
+    "E404_T05",
+    "E404_T08",
+    "E410_T02"
+   ],
+   "sourceRef": "E404 Guide, Topic 3, pp. 10-14"
+  },
+  {
+   "id": "E404_T04",
+   "title": "Pidgin and Pidginization, Creole, and Post-Creole Continuum",
+   "coreIdea": "A pidgin is a contact language with simplified grammar and limited vocabulary, developed for practical needs (trade or plantation labor) among groups sharing no common tongue, having no native speakers. When a pidgin is acquired as a mother tongue by children, it undergoes creolization—expanding morphosyntactically and lexically into a creole. In ongoing contact with the standard lexifier language, a creole may undergo decreolization, creating a post-creole continuum.",
+   "vivaAnswer": "A pidgin is a simplified contact language with no native speakers, created for basic communication like trade. A creole develops when a pidgin becomes the native first language of a community, acquiring grammatical complexity, expanded vocabulary, and full communicative functions.",
+   "example": "Tok Pisin in Papua New Guinea evolved from an English-based pidgin into a creole and official national language; Jamaican Patois represents an English-lexified creole spanning a post-creole continuum.",
+   "understandMore": "The post-creole continuum consists of three main lects: the Basilect (the deepest creole variety, most divergent from the lexifier), the Mesolect (an intermediate continuum of blended varieties), and the Acrolect (the prestige variety closest to the standard lexifier language). Decreolization occurs when speakers assimilate toward the acrolect due to education and social mobility.",
+   "commonConfusion": "Students often assume pidgins are 'broken languages' and creoles are just slang. In fact, pidgins are systematic contact systems, and creoles are fully formed natural human languages capable of expressing any human thought.",
+   "relatedConcepts": [
+    "E404_T03",
+    "E404_T07",
+    "E404_T12"
+   ],
+   "sourceRef": "E404 Guide, Topic 4, pp. 15-17"
+  },
+  {
+   "id": "E404_T05",
+   "title": "Language and Geography: Wave Theory and Isogloss",
+   "coreIdea": "Language geography examines how speech varieties are distributed across physical space. While Augustus Schleicher's Tree Model (1853) depicted language diversification through branching, splitting, and genetic isolation, Johannes Schmidt's Wave Model (1870s) demonstrated that linguistic innovations spread outward like waves from a focal center through contact and diffusion across dialect continua.",
+   "vivaAnswer": "The Tree Model views language change through genetic splitting and geographic isolation, whereas the Wave Model explains change through contact and mutual influence, showing how innovations diffuse outward from centers across speech communities like ripples in water.",
+   "example": "The Rhenish Fan in Germany illustrates dialect features spreading across the Rhine valley, mapped using isoglosses that diverge into distinct regional patterns.",
+   "understandMore": "An isogloss is a geographical line mapping the boundary of a specific linguistic feature (phonological, lexical, or syntactic). A bundle of isoglosses indicates a significant dialect boundary where multiple features coincide. The Wave Model tracks five stages of innovation: Initiation, Diffusion, Adoption, Integration/Stability, and Ongoing Change.",
+   "commonConfusion": "An isogloss does not represent a physical wall or political border; it is a linguistic line marking where a specific linguistic variant is predominantly used, and dialect boundaries are typically gradual continua rather than sharp cut-offs.",
+   "relatedConcepts": [
+    "E404_T03",
+    "E404_T09",
+    "E410_T06"
+   ],
+   "sourceRef": "E404 Guide, Topic 5, pp. 18-21"
+  },
+  {
+   "id": "E404_T06",
+   "title": "Diglossia and Bilingualism, Multilingualism",
+   "coreIdea": "Diglossia describes a stable sociolinguistic situation where two distinct varieties of the same language coexist in a speech community, each assigned strictly demarcated functional domains. The High (H) variety is used in formal, written, religious, and official settings, while the Low (L) variety is used in everyday conversation, family life, and informal domains. Bilingualism and multilingualism involve proficiency in two or more distinct languages.",
+   "vivaAnswer": "Diglossia is a community-wide linguistic situation where two varieties of the same language—a High prestige variety and a Low colloquial variety—are strictly allocated to different social domains. Bilingualism refers to the ability of an individual or society to use two distinct languages.",
+   "example": "In the Arab world, Modern Standard Arabic serves as the High (H) variety for education and formal speeches, while regional colloquial Arabic dialects (such as Egyptian or Levantine) serve as the Low (L) varieties for domestic conversation.",
+   "understandMore": "Charles Ferguson (1959) formulated the classic definition of diglossia involving two varieties of the same language (e.g., Classical vs. Colloquial Arabic, Katharevousa vs. Dimotiki Greek, Standard German vs. Swiss German, Standard Bangla vs. regional dialects). Joshua Fishman later extended diglossia to unrelated languages. Bilingualism can be individual or societal, simultaneous (from infancy) or sequential (subsequent acquisition).",
+   "commonConfusion": "Do not confuse diglossia with bilingualism. Diglossia involves two varieties of the same language distributed across non-overlapping functional domains at the community level, whereas bilingualism involves two separate languages and can exist at both individual and societal levels.",
+   "relatedConcepts": [
+    "E404_T03",
+    "E404_T07",
+    "E404_T08"
+   ],
+   "sourceRef": "E404 Guide, Topic 6, pp. 22-24"
+  },
+  {
+   "id": "E404_T07",
+   "title": "Code-Switching, Code-Mixing, and Borrowing",
+   "coreIdea": "In multilingual interactions, speakers employ sophisticated verbal strategies to navigate identity, solidarity, and conversational dynamics. Code-switching involves alternating between two or more language varieties across utterances or turn boundaries. Code-mixing entails intrasentential hybridization where elements of multiple languages blend within a single clause. Borrowing permanently integrates a donor word into the host language's grammatical and phonological lexicon.",
+   "vivaAnswer": "Code-switching is the deliberate alternation between two or more languages across sentences or conversational turns. Code-mixing is the blending of elements from two languages within the same sentence. Borrowing is the permanent lexical incorporation and phonological assimilation of a foreign word into a language.",
+   "example": "'I am leaving now. Tumi pore call koro' is inter-sentential code-switching; 'Yeh photo bohot achi hai' is code-mixing; using 'restaurant' in English or 'chair' in Bangla is lexical borrowing.",
+   "understandMore": "John Gumperz distinguished between situational code-switching (conditioned by external social contexts) and metaphorical code-switching (driven by conversational intent, tone, or solidarity). Carol Myers-Scotton's Matrix Language Frame (MLF) model explains code-mixing by identifying the Matrix Language (which provides the grammatical frame) and the Embedded Language (which supplies content morphemes). Borrowing is classified by Bloomfield (dialect, cultural, intimate) and Haugen (loanwords, loan-blends, calques/loan-shifts).",
+   "commonConfusion": "Code-switching and code-mixing are temporary, dynamic conversational acts by bilingual speakers, whereas borrowing is permanent and historical—borrowed words are used even by monolingual speakers who do not know the source language.",
+   "relatedConcepts": [
+    "E404_T04",
+    "E404_T06",
+    "E405_T03"
+   ],
+   "sourceRef": "E404 Guide, Topic 7, pp. 25-29"
+  },
+  {
+   "id": "E404_T08",
+   "title": "Language Planning and Policy: Theories, Ideologies, and Case Studies",
+   "coreIdea": "Language planning refers to deliberate, organized societal efforts to influence the function, structure, or acquisition of languages. Traditionally divided into status planning (allocating social roles) and corpus planning (modifying orthography, grammar, and vocabulary), Robert Cooper added acquisition planning (pedagogical distribution). Contemporary Critical Language Policy (CLP) analyzes how state policies entrench hegemony and socioeconomic inequality.",
+   "vivaAnswer": "Language planning is the deliberate effort by governments or institutions to direct the structure, social role, and teaching of languages. It consists of status planning (functional roles), corpus planning (internal linguistic forms), and acquisition planning (teaching and learning).",
+   "example": "The Bengali Language Movement of 1952 was a grassroots resistance against oppressive status planning that sought to impose Urdu as the sole national language of Pakistan.",
+   "understandMore": "Einar Haugen formulated the four-step framework: Selection and Implementation (status planning) alongside Codification and Elaboration (corpus planning). Critical scholars like James Tollefson, Nancy Hornberger, and Alastair Pennycook emphasize that language planning is never ideologically neutral; it reflects dominant class interests and institutional power dynamics.",
+   "commonConfusion": "Status planning changes how society uses a language (external), whereas corpus planning changes the words, spelling, or grammar of the language itself (internal). Joshua Fishman famously noted that neither can succeed without the other.",
+   "relatedConcepts": [
+    "E404_T02",
+    "E404_T03",
+    "E404_T12"
+   ],
+   "sourceRef": "E404 Guide, Topic 8, pp. 30-32"
+  },
+  {
+   "id": "E404_T09",
+   "title": "Language Variation and Change",
+   "coreIdea": "Variationist sociolinguistics, pioneered by William Labov in the 1960s, proves that linguistic variation is not random noise but 'orderly heterogeneity'—systematic variation structured by social class, age, gender, ethnicity, and stylistic context. Languages change across all linguistic levels (phonological, morphological, syntactic, lexical, semantic) through both internal structural pressures and external social prestige forces.",
+   "vivaAnswer": "Language variation and change studies how language systematically varies across social groups and contexts, and how those variations drive linguistic evolution over time. As William Labov demonstrated, language variation is not chaotic but governed by 'orderly heterogeneity'.",
+   "example": "William Labov's 1966 New York City department store study demonstrated that post-vocalic /r/ pronunciation correlated directly with the socioeconomic prestige of the stores (Saks Fifth Avenue > Macy's > S. Klein).",
+   "understandMore": "Linguistic changes involve phonological shifts (e.g., the Great Vowel Shift), assimilation, morphological regularization, grammaticalization, syntactic reordering, and semantic broadening or narrowing. Uriel Weinreich, William Labov, and Marvin Herzog formulated the Five Fundamental Problems of language change: Constraints, Embedding, Transition, Evaluation, and Actuation.",
+   "commonConfusion": "Many people assume that language change represents linguistic decay or degeneration. In sociolinguistics, change is a natural, universal, and healthy property of all living languages, reflecting adaptive social and cognitive systems.",
+   "relatedConcepts": [
+    "E404_T01",
+    "E404_T03",
+    "E404_T05",
+    "E410_T02"
+   ],
+   "sourceRef": "E404 Guide, Topic 9, pp. 33-36"
+  },
+  {
+   "id": "E404_T10",
+   "title": "Language and Culture, Sapir-Whorf Hypothesis, Representation Theory",
+   "coreIdea": "Language and culture are inextricably linked: language expresses, embodies, and symbolizes cultural reality. The Sapir-Whorf Hypothesis posits that language shapes thought through linguistic determinism (strong version: language determines thought) and linguistic relativity (weak version: language influences perception). Stuart Hall's Representation Theory demonstrates that language is a representational system producing cultural meaning rather than merely reflecting pre-existing reality.",
+   "vivaAnswer": "Language expresses and symbolizes cultural reality. The Sapir-Whorf Hypothesis posits that linguistic structures influence how speakers perceive the world. Stuart Hall's Representation Theory shows that meaning is actively constructed through language as a shared representational system of concepts and signs.",
+   "example": "Benjamin Lee Whorf's observation of workers smoking near empty gasoline drums because the word 'empty' subconsciously conveyed safety illustrates how lexical framing influences behavioral perception.",
+   "understandMore": "Claire Kramsch emphasizes that discourse communities share both factual conventions and cultural imaginations (e.g., the Lincoln Memorial and Martin Luther King Jr.'s speech). Modern linguistics rejects strong determinism (because translation across languages is possible and universal cognitive capacities exist) but widely accepts weak relativity. Stuart Hall identifies two systems of representation: mental representations (concepts in the mind) and language (shared sign systems).",
+   "commonConfusion": "Do not claim that the Sapir-Whorf hypothesis proves people cannot think about things their language lacks words for. The strong determinist view is discredited; the supported weak version holds that language influences cognitive salience and perceptual ease.",
+   "relatedConcepts": [
+    "E403_T01",
+    "E404_T11",
+    "E405_T01"
+   ],
+   "sourceRef": "E404 Guide, Topic 10, pp. 37-40"
+  },
+  {
+   "id": "E404_T11",
+   "title": "Language and Gender, and Language Identity",
+   "coreIdea": "Gender is a socially constructed performance distinct from biological sex. Sociolinguists examine gendered differences in phonetics, intonation, lexical selection, tag questions, hedging, and conversational dominance. Rather than reflecting innate biological instincts, these differences are explained by societal power structures (Dominance Model) and differentiated socialization (Difference Model), while language functions as a primary vehicle for performing identity.",
+   "vivaAnswer": "Sex is biological, while gender is a socially constructed role. Gender differences in speech—such as women's use of polite forms, hedging, and cooperative overlaps versus men's conversational interruptions and topic control—reflect socialization and unequal social power dynamics.",
+   "example": "Robin Lakoff highlighted that women frequently use tag questions (e.g., 'It's nice out, isn't it?') and hedges ('kind of', 'maybe') to express politeness or mitigate conversational confrontation in patriarchal contexts.",
+   "understandMore": "Feminist linguistics, including works by Robin Lakoff (1975), Dale Spender (Man Made Language, 1980), and Julia Penelope, criticizes patriarchal bias in language systems (e.g., asymmetrical pairs like master/mistress) and advocates non-sexist language reform (e.g., chairperson, humanity). Language choices also dynamically construct ethnic, gender, class, and national identities.",
+   "commonConfusion": "Language itself is not biologically sexist; rather, language conventions reflect and perpetuate patriarchal social structures. Lexical and stylistic changes readily demonstrate that languages can be reformed toward gender inclusivity.",
+   "relatedConcepts": [
+    "E403_T05",
+    "E404_T01",
+    "E404_T09"
+   ],
+   "sourceRef": "E404 Guide, Topic 11, pp. 41-44"
+  },
+  {
+   "id": "E404_T12",
+   "title": "Linguistic Imperialism",
+   "coreIdea": "Linguistic imperialism, theorized by Robert Phillipson (1992), describes the systemic dominance of a language (particularly global English) maintained through structural resource allocation and ideological hegemony, marginalizing indigenous and local languages. Conceptualized within Johan Galtung's Centre-Periphery framework and Skutnabb-Kangas's theory of 'linguicism', it interrogates English Language Teaching (ELT) as both an instrument of geopolitical power and a contested site of resistance.",
+   "vivaAnswer": "Linguistic imperialism is the structural and ideological dominance of a powerful language (especially English) over other languages, resulting in linguistic hierarchies, resource inequalities, and the marginalization of indigenous mother tongues.",
+   "example": "Allocating state funding, prestige, and university entrance criteria exclusively to English proficiency in former British colonies while devaluing indigenous languages exemplifies linguistic imperialism.",
+   "understandMore": "Linguistic imperialism operates alongside cultural, educational, and media imperialism. Tove Skutnabb-Kangas defined 'linguicism' as discrimination based on language, analogous to racism. Adrian Holliday identified 'native-speakerism' as the ideology framing Western native teachers as superior. Ruanni Tupas and Rani Rubdy introduced 'Unequal Englishes' to highlight internal stratification among varieties of World Englishes. Suresh Canagarajah emphasizes that periphery communities actively negotiate and resist English hegemony.",
+   "commonConfusion": "Linguistic imperialism does not mean learning English is inherently harmful; rather, it critiques subtractive bilingualism, where English replaces local languages and entrenches socioeconomic inequality, rather than additive bilingualism.",
+   "relatedConcepts": [
+    "E403_T02",
+    "E404_T08",
+    "E404_T11"
+   ],
+   "sourceRef": "E404 Guide, Topic 12, pp. 45-48"
+  },
+  {
+   "id": "E404_T13",
+   "title": "Language Fossilization",
+   "coreIdea": "Language fossilization, introduced by Larry Selinker (1972) in his Interlanguage hypothesis, refers to the permanent stabilization or cessation of second language acquisition, where non-target linguistic forms become permanently entrenched despite abundant exposure, motivation, or pedagogical instruction. It affects phonology, morphology, syntax, lexis, and pragmatics.",
+   "vivaAnswer": "Language fossilization is the permanent cessation of learning progress in a second language, where incorrect grammatical, phonological, or lexical features become permanently fixed in a learner's interlanguage despite further exposure or instruction.",
+   "example": "An advanced adult English learner who has lived in an English-speaking country for decades but permanently omits the third-person singular '-s' ('he go') or pronounces /θ/ as /t/ ('tink') exhibits morphological and phonological fossilization.",
+   "understandMore": "Fossilization is caused by first language (L1) transfer, lack of corrective feedback, communicative satisfaction (where errors do not impede basic communication), age-related cognitive constraints (post-critical period), and affective factors. It demonstrates that interlanguage is an autonomous linguistic system. Selinker stresses that fossilization is a natural psycholinguistic phenomenon, not learner failure.",
+   "commonConfusion": "Fossilization is not a simple temporary error or mistake. Mistakes can be self-corrected; fossilized errors are permanently established cognitive habits resistant to remediation.",
+   "relatedConcepts": [
+    "E404_T07",
+    "E412_T04",
+    "E412_T09"
+   ],
+   "sourceRef": "E404 Guide, Topic 13, pp. 49-51"
+  }
+ ],
+ "questions": [
+  {
+   "id": "E404_Q001",
+   "topicId": "E404_T01",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is sociolinguistics?",
+   "directAnswer": "Sociolinguistics is the study of the bidirectional relationship between language and society.",
+   "vivaAnswer": "Sociolinguistics is a major branch of linguistics that studies the mutual relationship between language and society. It investigates both how social factors such as class, gender, ethnicity, and geography shape language use and change, and how language patterns influence human social behavior and culture.",
+   "keyPoints": [
+    "Branch of linguistics studying language and society",
+    "Examines how social structures influence language",
+    "Examines how language patterns influence social behavior",
+    "Two-way study: language shapes society, and society shapes language"
+   ],
+   "explanation": "Unlike theoretical linguistics, which studies language as an abstract formal system in isolation, sociolinguistics treats language as a living social institution embedded in real human communities.",
+   "followUp": "E404_Q002",
+   "sourceRef": "E404 Guide, Topic 1, p. 5",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q002",
+   "topicId": "E404_T01",
+   "type": "explanation",
+   "difficulty": 1,
+   "question": "What are the two primary focus areas of sociolinguistics?",
+   "directAnswer": "How society affects language, and how language affects society.",
+   "vivaAnswer": "Sociolinguistics focuses on two interrelated areas: first, how social structures like class, age, gender, and region influence language formation, usage, and change; and second, how linguistic choices and discourse patterns influence the social and cultural behavior of a community.",
+   "keyPoints": [
+    "Influence of social structures on language forms and variation",
+    "Influence of language usage on cultural and social behavior",
+    "Bidirectional interaction between linguistic and social systems"
+   ],
+   "explanation": "This two-way focus ensures that linguists do not merely view language as a passive mirror of society, but also as an active tool that shapes social hierarchies and interpersonal relationships.",
+   "followUp": "E404_Q003",
+   "sourceRef": "E404 Guide, Topic 1, p. 5",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q003",
+   "topicId": "E404_T01",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What is the scope of sociolinguistics as an interdisciplinary field?",
+   "directAnswer": "Its scope includes dialectology, language planning, language variation and change, discourse analysis, gender studies, language attitudes, and educational policy.",
+   "vivaAnswer": "The scope of sociolinguistics spans a broad spectrum of social and linguistic phenomena. Key domains include dialectology, language variation and change, language planning and policy, language attitudes, discourse analysis, gender studies, educational language policy, and language revitalization.",
+   "keyPoints": [
+    "Dialectology and language variation across groups",
+    "Language planning and educational policy",
+    "Discourse analysis and everyday conversation",
+    "Language attitudes and linguistic prejudices",
+    "Gender studies and cultural dynamics"
+   ],
+   "explanation": "Because language touches every aspect of social life, sociolinguistics naturally overlaps with sociology, anthropology, psychology, political science, and pedagogy.",
+   "followUp": "E404_Q004",
+   "sourceRef": "E404 Guide, Topic 1, pp. 5-6",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q004",
+   "topicId": "E404_T01",
+   "type": "identification",
+   "difficulty": 1,
+   "question": "Which social variables systematically influence language use?",
+   "directAnswer": "Socioeconomic class, gender, age, ethnicity, education, and geographic region.",
+   "vivaAnswer": "The primary social variables that systematically pattern language use are socioeconomic class, gender, age, ethnicity, education level, and geographic location. These variables correlate with differences in phonology, vocabulary, grammar, and conversational style.",
+   "keyPoints": [
+    "Social class and socioeconomic status",
+    "Gender and sexual identity",
+    "Age and generation cohorts",
+    "Ethnicity and race",
+    "Geographic region"
+   ],
+   "explanation": "In sociolinguistic research, these social categories serve as independent variables to explain dependent linguistic variables such as phonetic variation or grammatical choices.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 1, p. 6",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q005",
+   "topicId": "E404_T01",
+   "type": "criticism",
+   "difficulty": 2,
+   "question": "How does sociolinguistics challenge linguistic prejudice?",
+   "directAnswer": "By proving that all dialects and varieties are rule-governed, systematic, and linguistically equal.",
+   "vivaAnswer": "Sociolinguistics challenges language prejudice by demonstrating that non-standard dialects, accents, and vernaculars are not sloppy, corrupt, or ungrammatical. It reveals that negative judgments about speech varieties stem from social prejudices against their speakers rather than linguistic inferiority.",
+   "keyPoints": [
+    "All language varieties are systematic and rule-governed",
+    "No language or dialect is linguistically superior or deficient",
+    "Judgments about accents reflect social prejudice against social groups",
+    "Promotes linguistic equality and validation of vernaculars"
+   ],
+   "explanation": "William Labov's research on African American Vernacular English (AAVE) provided groundbreaking empirical proof that non-standard varieties possess consistent, intricate grammatical rules.",
+   "followUp": "E404_Q006",
+   "sourceRef": "E404 Guide, Topic 1, p. 6",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q006",
+   "topicId": "E404_T01",
+   "type": "application",
+   "difficulty": 2,
+   "question": "What role does sociolinguistics play in language policy and language revitalization?",
+   "directAnswer": "It provides empirical data and frameworks to guide national language selection, protect minority language rights, and revive endangered languages.",
+   "vivaAnswer": "Sociolinguistics provides vital empirical frameworks for governments and educational bodies in formulating language policies, selecting national languages, and designing bilingual curricula. Furthermore, it aids language revitalization by documenting endangered mother tongues and designing community-based preservation programs.",
+   "keyPoints": [
+    "Guides national and official language selection",
+    "Informs mother-tongue and bilingual education policies",
+    "Assists in documenting endangered and indigenous languages",
+    "Designs frameworks for language maintenance and revitalization"
+   ],
+   "explanation": "Without sociolinguistic insights, state language planning often results in linguistic marginalization and language death for minority communities.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 1, pp. 6-7",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q007",
+   "topicId": "E404_T01",
+   "type": "connection",
+   "difficulty": 2,
+   "question": "Which academic disciplines does sociolinguistics bridge?",
+   "directAnswer": "It bridges linguistics with sociology, anthropology, psychology, education, and cultural studies.",
+   "vivaAnswer": "Sociolinguistics bridges formal linguistics with several social sciences. It connects with sociology to study institutional power and social stratification, with anthropology to examine cultural worldviews, with psychology to explore attitudes and cognition, and with education to optimize literacy and pedagogy.",
+   "keyPoints": [
+    "Sociology: social stratification and power structures",
+    "Anthropology: cultural practices and ethnography of speaking",
+    "Education: classroom discourse and language teaching",
+    "Psychology: language attitudes and social perception"
+   ],
+   "explanation": "This interdisciplinary character allows researchers to understand language not merely as grammar on paper, but as living communicative action.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 1, p. 7",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E403_T01"
+   ]
+  },
+  {
+   "id": "E404_Q008",
+   "topicId": "E404_T01",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "Why is language considered a social phenomenon rather than purely grammatical?",
+   "directAnswer": "Because language only exists, evolves, and acquires meaning through human social interaction within a community.",
+   "vivaAnswer": "Language is fundamentally a social phenomenon because it is acquired through social interaction, functions as a tool for communication, and constantly adapts to social needs. Grammar provides the formal code, but social context determines meaning, register, appropriateness, and linguistic evolution.",
+   "keyPoints": [
+    "Language is learned through socialization, not in isolation",
+    "Linguistic choices signal identity, group membership, and social status",
+    "Grammar alone cannot account for context-dependent meaning"
+   ],
+   "explanation": "An utterance like 'It's cold in here' is grammatically a declarative sentence, but socially functions as an indirect request to close the window.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 1, p. 6",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q009",
+   "topicId": "E404_T02",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "How does sociolinguistics differ from the sociology of language?",
+   "directAnswer": "Sociolinguistics focuses primarily on language in social context, while sociology of language focuses on society through the lens of language.",
+   "vivaAnswer": "Sociolinguistics and the sociology of language differ in their primary object of inquiry. Sociolinguistics starts with linguistic structures and asks how society affects language, whereas the sociology of language starts with social institutions and asks how language affects society and social organization.",
+   "keyPoints": [
+    "Sociolinguistics: primary focus is language (linguistic variation and structures)",
+    "Sociology of language: primary focus is society (social institutions and norms)",
+    "Direction: society -> language (sociolinguistics) vs language -> society (sociology of language)",
+    "Methods: linguistic fieldwork vs sociological surveys and institutional analysis"
+   ],
+   "explanation": "Joshua Fishman famously championed the sociology of language, emphasizing macro-level societal phenomena like language shift, multilingualism, and language planning.",
+   "followUp": "E404_Q010",
+   "sourceRef": "E404 Guide, Topic 2, pp. 8-9",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q010",
+   "topicId": "E404_T02",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is the sociology of language?",
+   "directAnswer": "The study of society from a sociological perspective using language as an analytical tool.",
+   "vivaAnswer": "The sociology of language considers language as a key social institution. It uses language use, language policies, and language attitudes as tools to understand societal organization, power structures, social conflicts, and group identity.",
+   "keyPoints": [
+    "Sociological study of language as a social institution",
+    "Uses language to analyze broader societal structures",
+    "Focuses on language planning, bilingualism, and social cohesion"
+   ],
+   "explanation": "Key research areas include how language maintenance or shift reflects political stability, ethnic conflict, and institutional power.",
+   "followUp": "E404_Q011",
+   "sourceRef": "E404 Guide, Topic 2, p. 8",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q011",
+   "topicId": "E404_T02",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "What is the Structural-Functional approach in the sociology of language?",
+   "directAnswer": "It examines how language functions to maintain social order and institutional harmony in society.",
+   "vivaAnswer": "The Structural-Functional approach examines how linguistic norms and institutions contribute to maintaining stability and social cohesion within a society. It investigates how standardized language varieties and shared communicative norms help integrate individuals into social roles and prevent societal disorder.",
+   "keyPoints": [
+    "Views society as a complex system whose parts work together for solidarity",
+    "Analyzes language as a mechanism for social integration and harmony",
+    "Investigates how linguistic standards promote institutional functioning"
+   ],
+   "explanation": "From this perspective, a common national language is seen as essential for unifying disparate ethnic groups and maintaining state administrative efficiency.",
+   "followUp": "E404_Q012",
+   "sourceRef": "E404 Guide, Topic 2, p. 8",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q012",
+   "topicId": "E404_T02",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "How does Symbolic Interactionism approach language in society?",
+   "directAnswer": "It focuses on micro-level everyday interactions and how people construct social realities through linguistic symbols.",
+   "vivaAnswer": "Symbolic Interactionism investigates how individuals create, negotiate, and interpret shared meanings in face-to-face conversations. It views language not as a fixed static code, but as a dynamic system of symbols through which social identities and relationships are continuously constructed.",
+   "keyPoints": [
+    "Micro-level analysis of everyday conversation",
+    "Meaning is negotiated through interactive symbols",
+    "Language constructs and reflects dynamic social realities"
+   ],
+   "explanation": "For example, how two speakers negotiate formality or friendship through their choice of pronouns (like 'tumi' vs 'apni' in Bangla) is central to symbolic interactionism.",
+   "followUp": "E404_Q013",
+   "sourceRef": "E404 Guide, Topic 2, p. 8",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q013",
+   "topicId": "E404_T02",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "How does Conflict Theory view the relationship between language and society?",
+   "directAnswer": "It views language as a tool used by dominant classes to exercise power, control resources, and perpetuate social inequality.",
+   "vivaAnswer": "Conflict Theory, rooted in Marxist sociology, argues that society is marked by power struggles between competing social groups. In this view, language is an instrument of domination: dominant classes establish their own dialect as 'standard' and 'correct', thereby marginalizing and disempowering working-class and minority language speakers.",
+   "keyPoints": [
+    "Society is characterized by perpetual power struggles",
+    "Language is an instrument of class domination and social control",
+    "Standard language reinforces elite hegemony and economic inequality"
+   ],
+   "explanation": "Linguistic discrimination in job interviews or courtrooms is analyzed by conflict theorists as a mechanism to preserve ruling-class privilege.",
+   "followUp": "E404_Q014",
+   "sourceRef": "E404 Guide, Topic 2, p. 8",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q014",
+   "topicId": "E404_T02",
+   "type": "definition",
+   "difficulty": 2,
+   "question": "What is Ethnomethodology's perspective on conversational language?",
+   "directAnswer": "It studies the everyday methods and common-sense reasoning people use to make sense of conversational interactions.",
+   "vivaAnswer": "Ethnomethodology examines how social actors produce and interpret intelligible conversation in mundane settings. Pioneered by Harold Garfinkel, it investigates the unspoken shared background assumptions and linguistic devices people rely on to maintain coherent social interaction.",
+   "keyPoints": [
+    "Studies common-sense reasoning in mundane talk",
+    "Examines unspoken interpretive procedures in conversation",
+    "Analyzes how social order is enacted moment-by-moment in discourse"
+   ],
+   "explanation": "Ethnomethodology gave rise to Conversation Analysis (CA), which meticulously examines turn-taking, pauses, and repairs in dialogue.",
+   "followUp": "E404_Q015",
+   "sourceRef": "E404 Guide, Topic 2, p. 9",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q015",
+   "topicId": "E404_T02",
+   "type": "explanation",
+   "difficulty": 3,
+   "question": "What is the role of Critical Discourse Analysis (CDA) in the sociology of language?",
+   "directAnswer": "To analyze texts and discourses to uncover hidden power relations, ideologies, and social inequalities.",
+   "vivaAnswer": "Critical Discourse Analysis (CDA), associated with Norman Fairclough and Teun van Dijk, investigates how social power, dominance, and inequality are enacted, reproduced, and resisted through spoken and written discourse. It reveals how political, media, and institutional texts present ideological assumptions as natural common sense.",
+   "keyPoints": [
+    "Uncovers hidden ideological bias and power relations in discourse",
+    "Examines institutional and media texts critically",
+    "Exposes how language perpetuates discrimination and social injustice"
+   ],
+   "explanation": "For example, analyzing how news media refer to protesters as 'rioters' or 'rebels' reveals ideological framing that delegitimizes social dissent.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 2, p. 9",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E403_T02"
+   ]
+  },
+  {
+   "id": "E404_Q016",
+   "topicId": "E404_T02",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "How do research methodologies differ between sociolinguistics and the sociology of language?",
+   "directAnswer": "Sociolinguistics relies on linguistic fieldwork and phonetic/grammatical analysis, whereas sociology of language uses large-scale surveys, census data, and institutional analysis.",
+   "vivaAnswer": "Sociolinguistics typically uses micro-level methods such as sociolinguistic interviews, phonetic acoustic analysis, and recordings of natural conversation to analyze specific linguistic variables. In contrast, the sociology of language employs macro-level sociological methods, such as census data analysis, large-scale questionnaire surveys, and institutional policy evaluations.",
+   "keyPoints": [
+    "Sociolinguistics: recordings, phonetic/syntactic analysis, sociolinguistic interviews",
+    "Sociology of language: census data, sociological surveys, policy document analysis",
+    "Micro-linguistic data vs macro-societal trends"
+   ],
+   "explanation": "A sociolinguist measures vowel formant frequencies in a neighborhood, while a sociologist of language assesses language shift rates across an entire immigrant population.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 2, p. 9",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q017",
+   "topicId": "E404_T03",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is a language variety in sociolinguistics?",
+   "directAnswer": "A neutral term for any distinct form of a language used by a particular group or in a specific social context.",
+   "vivaAnswer": "A language variety is a broad, neutral sociolinguistic term referring to any distinctive form of a language characterized by specific phonological, lexical, and grammatical features. It serves as an umbrella term covering languages, dialects, sociolects, and registers without assigning social prestige or political status.",
+   "keyPoints": [
+    "Neutral term avoiding political or prestige bias",
+    "Encompasses languages, dialects, sociolects, and registers",
+    "Defined by distinctive pronunciation, vocabulary, and grammar"
+   ],
+   "explanation": "Linguists prefer 'variety' because everyday labels like 'language' or 'dialect' carry loaded value judgments that distort objective scientific analysis.",
+   "followUp": "E404_Q018",
+   "sourceRef": "E404 Guide, Topic 3, p. 10",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q018",
+   "topicId": "E404_T03",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "How did M.A.K. Halliday distinguish between dialect and register?",
+   "directAnswer": "Dialects are varieties according to user, while registers are varieties according to use.",
+   "vivaAnswer": "M.A.K. Halliday famously distinguished between dialect and register by defining dialects as varieties according to the user (reflecting who you are, your region, or your social background) and registers as varieties according to use (reflecting what you are doing, the topic, and the communicative situation).",
+   "keyPoints": [
+    "Dialects reflect the user (who the speaker is: region, class, background)",
+    "Registers reflect the use (what the speaker is doing: situation, domain, purpose)",
+    "Proposed by systemic functional linguist M.A.K. Halliday"
+   ],
+   "explanation": "A doctor speaking a Yorkshire regional dialect at home with family is using a dialect; the same doctor speaking medical jargon in a hospital is using a medical register.",
+   "followUp": "E404_Q019",
+   "sourceRef": "E404 Guide, Topic 3, p. 10",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q019",
+   "topicId": "E404_T03",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "How did William Labov demonstrate that non-standard varieties are rule-governed?",
+   "directAnswer": "Through empirical fieldwork showing that vernaculars like AAVE follow rigorous, consistent structural and grammatical rules.",
+   "vivaAnswer": "William Labov demonstrated that non-standard speech varieties are not chaotic or deficient corruptions of standard language, but systematic, highly structured linguistic systems. In his studies of African American Vernacular English (AAVE), he showed that features like copula deletion ('he working') follow precise, rule-governed linguistic environments.",
+   "keyPoints": [
+    "Non-standard varieties are structured and rule-governed",
+    "Disproved the deficit theory in education and sociolinguistics",
+    "Showed systematic patterns in African American Vernacular English (AAVE)"
+   ],
+   "explanation": "Labov's concept of 'orderly heterogeneity' established that social variation is organized by predictable social and linguistic constraints rather than random errors.",
+   "followUp": "E404_Q020",
+   "sourceRef": "E404 Guide, Topic 3, p. 10",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q020",
+   "topicId": "E404_T03",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "What is the fundamental difference between a language and a dialect?",
+   "directAnswer": "Linguistically there is no difference; the distinction is social, historical, and political, based on prestige, state recognition, and codification.",
+   "vivaAnswer": "Linguistically, every dialect is a complete, rule-governed language system. A language is distinguished from a dialect primarily by socio-political power, codification, and official recognition. As Max Weinreich famously remarked: 'A language is a dialect with an army and navy.'",
+   "keyPoints": [
+    "No purely structural or linguistic basis separates language from dialect",
+    "Languages possess political power, institutional codification, and official status",
+    "Dialects are often regional or subordinate varieties excluded from official domains",
+    "Einar Haugen noted: 'A dialect is a language that is excluded from polite society'"
+   ],
+   "explanation": "For instance, Norwegian, Swedish, and Danish are mutually intelligible dialects historically classified as distinct languages for political reasons.",
+   "followUp": "E404_Q021",
+   "sourceRef": "E404 Guide, Topic 3, pp. 10-11",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q021",
+   "topicId": "E404_T03",
+   "type": "criticism",
+   "difficulty": 2,
+   "question": "What is mutual intelligibility, and why is it problematic as a sole criterion?",
+   "directAnswer": "Mutual intelligibility is the ability of speakers of two varieties to understand each other; it is problematic because politics often overrides linguistic comprehension.",
+   "vivaAnswer": "Mutual intelligibility suggests that if two speakers can understand each other without prior study, they speak dialects of the same language; if not, they speak separate languages. However, it fails because languages like Swedish and Norwegian are mutually intelligible yet considered separate languages, while spoken varieties of 'Chinese' (Mandarin, Cantonese) are mutually unintelligible yet politically called dialects.",
+   "keyPoints": [
+    "Linguistic criterion: mutual comprehension implies dialects of one language",
+    "Political and religious factors often override mutual intelligibility (Hindi vs Urdu)",
+    "Dialect continua produce asymmetric or partial intelligibility across borders"
+   ],
+   "explanation": "Mutual intelligibility is also often asymmetric: speakers of variety A may understand variety B far better than speakers of B understand A due to media exposure.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 3, p. 11",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q022",
+   "topicId": "E404_T03",
+   "type": "distinction",
+   "difficulty": 1,
+   "question": "What is a regional dialect, and how does it differ from a patois?",
+   "directAnswer": "A regional dialect is a geographical variety with or without writing; a patois specifically refers to an unwritten, low-prestige rural dialect.",
+   "vivaAnswer": "A regional dialect is a speech variety associated with a specific geographic territory, exhibiting distinctive pronunciation, vocabulary, and grammar. The French term 'patois' specifically refers to a rural, unwritten, and socially stigmatized regional variety that lacks institutional literature or official status.",
+   "keyPoints": [
+    "Regional dialect: variation across geographic space",
+    "Patois: rural, informal speech variety lacking a written tradition",
+    "'Patois' carries connotations of lower social prestige"
+   ],
+   "explanation": "In Jamaica, the local English-lexified creole is colloquially termed 'Jamaican Patois', reflecting its historical contrast with Standard English.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 3, p. 11",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E410_T02"
+   ]
+  },
+  {
+   "id": "E404_Q023",
+   "topicId": "E404_T03",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is a social dialect or sociolect, and what social factors determine it?",
+   "directAnswer": "A sociolect is a language variety spoken by a specific social group, determined by class, caste, religion, or ethnicity.",
+   "vivaAnswer": "A social dialect (or sociolect) is a speech variety characteristic of a particular social group or stratum within a community, rather than a geographic region. It is patterned by social factors such as socioeconomic class, educational background, caste (as in India), religion, and ethnicity (such as AAVE).",
+   "keyPoints": [
+    "Variety associated with a social group rather than geography",
+    "Conditioned by class, education, caste, ethnicity, and religion",
+    "Demonstrates that social stratification creates distinct linguistic patterns"
+   ],
+   "explanation": "In England, Received Pronunciation (RP) functions as an upper-class sociolect that historically indicated elite private school education.",
+   "followUp": "E404_Q024",
+   "sourceRef": "E404 Guide, Topic 3, pp. 11-12",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q024",
+   "topicId": "E404_T03",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is an idiolect?",
+   "directAnswer": "An individual's unique, personal language system.",
+   "vivaAnswer": "An idiolect is the unique, distinctive language variety of an individual speaker. It encompasses a person's individual vocabulary choices, pitch, speech rhythms, idiosyncratic pronunciations, and recurring grammatical habits developed through personal life history and social encounters.",
+   "keyPoints": [
+    "The unique linguistic fingerprint of an individual person",
+    "Combines personal phonetic, lexical, and grammatical idiosyncrasies",
+    "Reflects an individual's personal life trajectory and social networks"
+   ],
+   "explanation": "Forensic linguists analyze idiolectal patterns—such as specific spelling mistakes or unusual syntactic turns—to identify the authorship of anonymous letters or ransom notes.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 3, p. 12",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q025",
+   "topicId": "E404_T03",
+   "type": "example",
+   "difficulty": 1,
+   "question": "What is a register, and can you give examples of professional registers?",
+   "directAnswer": "A register is a language variety used in a specific situational context or profession; examples include legal, medical, and technical registers.",
+   "vivaAnswer": "A register is a variety of language determined by the communicative situation, purpose, and domain of use. It is marked by specialized jargon and formal sentence structures. Familiar examples include the legal register ('legalese'), medical discourse, scientific academic writing, and sports broadcasting.",
+   "keyPoints": [
+    "Variety according to situational use and domain",
+    "Marked by specialized terminology (jargon) and grammatical structures",
+    "Examples: legal register ('heretofore'), medical register ('hypertension')"
+   ],
+   "explanation": "In a medical register, a doctor says 'bilateral periorbital hematoma', whereas in a casual register, a patient calls it a 'black eye'.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 3, p. 12",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q026",
+   "topicId": "E404_T03",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What are the defining characteristics of a standard language?",
+   "directAnswer": "It is codified in grammars and dictionaries, carries social prestige, is used in official institutions, and has a supralocal character.",
+   "vivaAnswer": "A standard language is the socially prestigious, codified variety of a language widely accepted in formal administration, education, law, media, and literature. Its key features include institutional codification in dictionaries, high uniformity, written dominance, a normative standard for 'correctness', and a supralocal reach understood across regional dialects.",
+   "keyPoints": [
+    "Codified in dictionaries, grammars, and educational textbooks",
+    "Endowed with high social prestige and institutional state support",
+    "Functions supralocally across diverse dialect regions",
+    "Dominates formal written and broadcast communication"
+   ],
+   "explanation": "Standard British English and Standard Bangla are examples of codified varieties elevated above local regional speech forms.",
+   "followUp": "E404_Q027",
+   "sourceRef": "E404 Guide, Topic 3, pp. 12-13",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q027",
+   "topicId": "E404_T03",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "What are the four stages of language standardization proposed by Einar Haugen?",
+   "directAnswer": "Selection, Codification, Elaboration of Function, and Acceptance.",
+   "vivaAnswer": "Einar Haugen formulated a classic four-stage model of language standardization: Selection (choosing a specific variety to become the standard), Codification (fixing its grammatical rules and orthography in dictionaries and grammars), Elaboration of Function (expanding its vocabulary for technical, educational, and legal domains), and Acceptance (adoption and endorsement by society and institutions).",
+   "keyPoints": [
+    "Selection: choosing a variety based on prestige or political utility",
+    "Codification: fixing grammar, orthography, and lexicon in official reference works",
+    "Elaboration of Function: modernizing vocabulary for science, law, and government",
+    "Acceptance: widespread social consensus and institutional adoption"
+   ],
+   "explanation": "Bahasa Malaysia was selected as a standard national language to unify ethnic groups and subsequently codified and elaborated for governance and higher education.",
+   "followUp": "E404_Q028",
+   "sourceRef": "E404 Guide, Topic 3, pp. 12-13",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q028",
+   "topicId": "E404_T03",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What takes place during the 'Codification' stage of language standardization?",
+   "directAnswer": "Linguists and institutions explicitly record and standardize spelling, grammar, and vocabulary in official books to eliminate ambiguity.",
+   "vivaAnswer": "In the Codification stage, language planners and linguistic experts develop explicit, uniform rules for the chosen variety. This entails designing or regularizing an orthography (spelling system), writing authoritative grammars, and publishing standard dictionaries to establish clear norms of correctness and eliminate dialectal ambiguity.",
+   "keyPoints": [
+    "Establishes explicit rules of grammar and orthography",
+    "Publishes authoritative dictionaries and grammar books",
+    "Removes linguistic ambiguity to ensure uniform nationwide usage"
+   ],
+   "explanation": "Samuel Johnson's 1755 dictionary and the Académie Française's publications represent monumental historical codification projects.",
+   "followUp": "E404_Q029",
+   "sourceRef": "E404 Guide, Topic 3, p. 13",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q029",
+   "topicId": "E404_T03",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What is 'Elaboration of Function' in language standardization?",
+   "directAnswer": "Expanding the language's vocabulary and registers so it can function in modern science, law, government, and academia.",
+   "vivaAnswer": "Elaboration of Function refers to expanding the lexical, stylistic, and conceptual capacities of the standardized variety so that it can be effectively deployed across all specialized modern domains. This involves coining technical terms, borrowing international scientific vocabulary, and cultivating academic and bureaucratic registers.",
+   "keyPoints": [
+    "Expands vocabulary to meet contemporary scientific and administrative demands",
+    "Creates specialized terminology for law, technology, medicine, and governance",
+    "Ensures the variety can serve as a medium of tertiary education"
+   ],
+   "explanation": "When Bangla was designated an official language in Bangladesh, Bangla Academy created technical glossaries for administrative and legal domains.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 3, p. 13",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q030",
+   "topicId": "E404_T04",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is a pidgin language?",
+   "directAnswer": "A simplified, makeshift contact language with no native speakers, created for practical communication like trade.",
+   "vivaAnswer": "A pidgin is a simplified contact language that develops when two or more linguistic groups with no common language come into contact and must communicate for practical purposes, such as trade, plantation labor, or colonial administration. Crucially, a pidgin has no native speakers.",
+   "keyPoints": [
+    "Makeshift contact language born out of urgent communicative need",
+    "No native speakers; learned as an auxiliary second language",
+    "Characterized by simplified syntax and a limited vocabulary",
+    "Typically arises in trade, colonial encounters, or labor migration"
+   ],
+   "explanation": "Chinese Pidgin English developed in 18th-century ports between English-speaking merchants and Chinese traders.",
+   "followUp": "E404_Q031",
+   "sourceRef": "E404 Guide, Topic 4, p. 15",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q031",
+   "topicId": "E404_T04",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What are the primary linguistic characteristics of a pidgin?",
+   "directAnswer": "Simplified grammar, absence of complex inflections, reduced vocabulary, and functional limitation to trade or labor.",
+   "vivaAnswer": "A pidgin exhibits marked linguistic reduction: its morphology lacks complex inflections or irregular verbs, noun declensions are absent, the vocabulary is limited to essential utilitarian terms, and sentence structure relies on strict word order. It is restricted to specific functional domains and has no native speakers.",
+   "keyPoints": [
+    "Drastic reduction in grammatical inflections and affixes",
+    "Limited lexicon relying heavily on polysemy and compounding",
+    "Strict, simplified word order with minimal subordination",
+    "Restricted to specific utilitarian domains like trade"
+   ],
+   "explanation": "For example, in many English-based pidgins, grammatical tense markers are replaced by simple temporal adverbs like 'baimbai' (by and by) for the future.",
+   "followUp": "E404_Q032",
+   "sourceRef": "E404 Guide, Topic 4, p. 15",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q032",
+   "topicId": "E404_T04",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is a creole language, and how does it originate?",
+   "directAnswer": "A creole is a full-fledged language that develops when a pidgin becomes the native first language of a new generation of children.",
+   "vivaAnswer": "A creole is a stable, complex natural language that emerges when a pidgin is adopted as the mother tongue (first language) by children growing up in a contact speech community. Through this nativization process—called creolization—the language undergoes dramatic grammatical and lexical expansion.",
+   "keyPoints": [
+    "A nativized language with native first-language speakers",
+    "Originates through the creolization of a pre-existing pidgin",
+    "Develops a fully complex grammar, rich vocabulary, and broad social domains"
+   ],
+   "explanation": "Haitian Creole developed from contact between French and West African languages in plantation settings and became the native language of Haiti.",
+   "followUp": "E404_Q033",
+   "sourceRef": "E404 Guide, Topic 4, pp. 15-16",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q033",
+   "topicId": "E404_T04",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "What are the key differences between a pidgin and a creole?",
+   "directAnswer": "Pidgins have no native speakers, simplified grammar, and limited use; creoles have native speakers, complex grammar, and serve all communicative functions.",
+   "vivaAnswer": "The fundamental differences between a pidgin and a creole center on native speakers, grammatical complexity, and functional scope. A pidgin is a simplified auxiliary language with zero native speakers, used solely for limited contact. In contrast, a creole has native speakers, possesses a fully developed grammar and expanded vocabulary, and serves all societal, emotional, and literary functions.",
+   "keyPoints": [
+    "Native speakers: Pidgins have none; creoles have native first-language speakers",
+    "Grammar: Pidgins are highly simplified; creoles have fully developed syntax and morphology",
+    "Vocabulary: Pidgins have a small lexicon; creoles have an expansive, versatile vocabulary",
+    "Domain: Pidgins are limited to trade/work; creoles serve all human communication needs"
+   ],
+   "explanation": "In short, a creole is a pidgin that has acquired native speakers and full linguistic maturity.",
+   "followUp": "E404_Q034",
+   "sourceRef": "E404 Guide, Topic 4, p. 17",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q034",
+   "topicId": "E404_T04",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What are the four key stages in the creolization process?",
+   "directAnswer": "Cultural encounter, contact and interaction, borrowing of linguistic elements, and hybridization.",
+   "vivaAnswer": "Creolization proceeds through four primary stages: first, Cultural Encounter (disparate linguistic groups meet through migration or colonization); second, Contact and Interaction (groups establish trade or domestic ties); third, Borrowing of Linguistic Elements (phonological, lexical, and structural borrowing); and fourth, Hybridization (borrowed elements fuse into a new, autonomous, nativized language system).",
+   "keyPoints": [
+    "1. Cultural Encounter: initial meeting of disparate linguistic groups",
+    "2. Contact and Interaction: sustained communicative exchanges",
+    "3. Borrowing: bidirectional transfer of lexical and syntactic elements",
+    "4. Hybridization: fusion into a distinct, nativized grammatical system"
+   ],
+   "explanation": "In the Caribbean, enslaved West Africans and European overseers created contact pidgins that children synthesized into vibrant creoles.",
+   "followUp": "E404_Q035",
+   "sourceRef": "E404 Guide, Topic 4, p. 16",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q035",
+   "topicId": "E404_T04",
+   "type": "definition",
+   "difficulty": 2,
+   "question": "What is the post-creole continuum?",
+   "directAnswer": "A continuous spectrum of language varieties between the deepest creole and the standard lexifier language.",
+   "vivaAnswer": "The post-creole continuum refers to a linguistic continuum that arises in a speech community when a creole coexists with its prestigious standard lexifier language. As speakers gain access to formal education and social mobility, the boundaries between the creole and standard language blur, producing a gradient spectrum of intermediate varieties.",
+   "keyPoints": [
+    "Continuous spectrum of varieties ranging from creole to standard language",
+    "Arises in communities where a creole coexists with its standard lexifier",
+    "Driven by decreolization through education and media exposure"
+   ],
+   "explanation": "The concept was extensively studied by David DeCamp and Derek Bickerton in Jamaica and Guyana.",
+   "followUp": "E404_Q036",
+   "sourceRef": "E404 Guide, Topic 4, pp. 16-17",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q036",
+   "topicId": "E404_T04",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "Distinguish between Basilect, Mesolect, and Acrolect in the post-creole continuum.",
+   "directAnswer": "Basilect is the deepest creole variety, Mesolect is the middle blended variety, and Acrolect is the variety closest to the standard language.",
+   "vivaAnswer": "The post-creole continuum comprises three primary lects: the Basilect, which is the most conservative creole variety and furthest from the standard language; the Mesolect, which encompasses a broad range of intermediate varieties blending creole and standard features; and the Acrolect, which represents the prestigious variety closest to the standard lexifier language used in formal education and government.",
+   "keyPoints": [
+    "Basilect: bottom/deepest creole, least intelligible to standard speakers",
+    "Mesolect: intermediate hybrid varieties spoken by the majority of urban classes",
+    "Acrolect: top prestige variety virtually identical to standard lexifier"
+   ],
+   "explanation": "In Jamaica, a basilect speaker might say 'mi a nyam', a mesolect speaker 'mi eatin', and an acrolect speaker 'I am eating'.",
+   "followUp": "E404_Q037",
+   "sourceRef": "E404 Guide, Topic 4, pp. 16-17",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q037",
+   "topicId": "E404_T04",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What is decreolization and why does it occur?",
+   "directAnswer": "Decreolization is the process where a creole gradually loses its distinctive features and converges toward the standard language due to education and social prestige.",
+   "vivaAnswer": "Decreolization is the sociolinguistic process whereby speakers of a creole language assimilate their speech toward the standard lexifier language over time. It occurs because the standard language holds social prestige, legal power, and educational capital, motivating creole speakers to shed basilectal traits to attain economic advancement.",
+   "keyPoints": [
+    "Gradual erosion of distinctive creole grammar and vocabulary",
+    "Linguistic convergence toward the prestigious standard lexifier language",
+    "Driven by formal education, urbanization, mass media, and upward mobility"
+   ],
+   "explanation": "Decreolization explains why many urban Jamaicans today speak mesolectal varieties that incorporate standard English inflections.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 4, pp. 16-17",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q038",
+   "topicId": "E404_T04",
+   "type": "example",
+   "difficulty": 1,
+   "question": "Can you provide examples of French-based and English-based creoles?",
+   "directAnswer": "Haitian Creole is French-based; Jamaican Creole and Krio (Sierra Leone) are English-based.",
+   "vivaAnswer": "Prominent French-based creoles include Haitian Creole in the Caribbean and Mauritian Creole in the Indian Ocean. Prominent English-based creoles include Jamaican Patois, Guyanese Creole, and Krio in Sierra Leone. In each case, the European tongue served as the dominant lexifier language.",
+   "keyPoints": [
+    "French-lexified: Haitian Creole (Haiti), Seychellois Creole (Seychelles)",
+    "English-lexified: Jamaican Creole (Jamaica), Krio (Sierra Leone), Tok Pisin (Papua New Guinea)"
+   ],
+   "explanation": "The lexifier language contributes the bulk of the vocabulary, but the grammatical structures often reflect substrate languages (such as West African Niger-Congo languages).",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 4, p. 16",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q039",
+   "topicId": "E404_T05",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "What is Augustus Schleicher's Tree Model (Stammbaum Model) of language relationships?",
+   "directAnswer": "A model proposed in 1853 showing how languages develop through splitting and genetic isolation from a common ancestor language.",
+   "vivaAnswer": "Proposed by Augustus Schleicher in 1853, the Tree Model (Stammbaum Model) depicts genealogical relationships among languages using a family tree. It posits that languages diversify through historical splitting and geographical isolation: when an ancestral speech community fractures, each isolated branch develops into an autonomous daughter language.",
+   "keyPoints": [
+    "Proposed by Augustus Schleicher in 1853",
+    "Languages develop through social splitting and geographic isolation",
+    "Upper nodes represent ancestral proto-languages; terminal nodes represent modern living languages",
+    "Visualized as a genealogical family tree"
+   ],
+   "explanation": "Schleicher applied evolutionary biological metaphors to language, assuming that Proto-Indo-European branched cleanly into Germanic, Romance, Slavic, and Indo-Iranian families.",
+   "followUp": "E404_Q040",
+   "sourceRef": "E404 Guide, Topic 5, p. 18",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q040",
+   "topicId": "E404_T05",
+   "type": "criticism",
+   "difficulty": 2,
+   "question": "What are the major limitations of the Tree Model?",
+   "directAnswer": "It assumes clean splits, ignores ongoing contact and borrowing between languages, and does not represent geographic reality.",
+   "vivaAnswer": "The primary flaw of the Tree Model is its oversimplification: it treats language divergence as sudden, permanent splits and completely ignores the massive role of ongoing language contact, borrowing, and dialect convergence. Furthermore, it contains no geographic coordinates, placing closely related languages adjacent even if separated by continents.",
+   "keyPoints": [
+    "Ignores dialect continua and language contact",
+    "Cannot account for borrowing, convergence, or hybridization",
+    "Fails to show geographic proximity and spatial distribution",
+    "Assumes completely homogeneous ancestral speech communities"
+   ],
+   "explanation": "Because languages constantly interact and influence one another across borders, a rigid branch structure fails to capture real linguistic history.",
+   "followUp": "E404_Q041",
+   "sourceRef": "E404 Guide, Topic 5, pp. 18-20",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q041",
+   "topicId": "E404_T05",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "What is Johannes Schmidt's Wave Model (Wellentheorie)?",
+   "directAnswer": "A model proposed in the 1870s showing that language changes spread outward from an innovatory center like ripples in water across space.",
+   "vivaAnswer": "Proposed by German scholar Johannes Schmidt in 1872 as a direct reaction against the Tree Model, the Wave Model (Wellentheorie) explains language change through contact and coexistence. It demonstrates that linguistic innovations originate at a specific geographic center and diffuse outward across contiguous speech communities like concentric waves.",
+   "keyPoints": [
+    "Proposed by Johannes Schmidt in the 1870s",
+    "Innovations spread outward from an innovatory center like ripples in water",
+    "Explains language change through contact, diffusion, and geographic proximity",
+    "Visualized as overlapping concentric circles on a map"
+   ],
+   "explanation": "The Wave Model effectively accounts for dialect continua, where neighboring villages easily understand each other while distant extremes diverge.",
+   "followUp": "E404_Q042",
+   "sourceRef": "E404 Guide, Topic 5, pp. 18-19",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q042",
+   "topicId": "E404_T05",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "How does the Wave Model represent language innovation and diffusion across space and time?",
+   "directAnswer": "Concentric circles represent innovations spreading across geographic space, with circle diameter representing elapsed time.",
+   "vivaAnswer": "In the Wave Model, each circle represents a specific linguistic innovation originating at a focal point (innovatory center). The diameter of the circle indirectly reflects time—expanding outward as the innovation diffuses. Where multiple circles overlap, those dialect varieties are the most innovative, while isolated peripheral regions remain conservative.",
+   "keyPoints": [
+    "Center of circle = innovatory origin point",
+    "Expanding diameter = diffusion of innovation over time",
+    "Overlapping circles = highly innovative varieties",
+    "Peripheral unreached zones = conservative varieties",
+    "Mutual intelligibility facilitates continuous wave diffusion"
+   ],
+   "explanation": "Innovations spread along trade routes, river valleys, and modern highways, illustrating how human communication channels determine linguistic diffusion.",
+   "followUp": "E404_Q043",
+   "sourceRef": "E404 Guide, Topic 5, pp. 18-20",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q043",
+   "topicId": "E404_T05",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "What are the fundamental differences between the Tree Model and the Wave Model?",
+   "directAnswer": "The Tree Model focuses on genetic splitting and isolation; the Wave Model focuses on geographical contact, diffusion, and dialect continua.",
+   "vivaAnswer": "The Tree Model assumes language change happens through sudden splitting and complete isolation, representing languages as discrete branches from a single ancestor without geographic details. In contrast, the Wave Model emphasizes language contact and spatial diffusion, mapping overlapping linguistic innovations across real geographic terrain.",
+   "keyPoints": [
+    "Tree Model: Schleicher (1853), branching family tree, isolation mechanism",
+    "Wave Model: Schmidt (1870s), concentric circles on maps, contact mechanism",
+    "Tree Model emphasizes ancestral origin; Wave Model emphasizes spatial diffusion and dialect complexity"
+   ],
+   "explanation": "Both models are complementary: the Tree Model offers an accessible genealogical overview, while the Wave Model captures the messy reality of dialectology.",
+   "followUp": "E404_Q044",
+   "sourceRef": "E404 Guide, Topic 5, pp. 19-20",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q044",
+   "topicId": "E404_T05",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is an isogloss?",
+   "directAnswer": "A line drawn on a dialect map marking the geographic boundary of a specific linguistic feature.",
+   "vivaAnswer": "An isogloss is a boundary line drawn on a geographical dialect map that demarcates the spatial limit of a specific linguistic feature, such as a phonological pronunciation, a lexical item, or a syntactic construction. On one side of the line, speakers use one variant, while on the other side, they use another.",
+   "keyPoints": [
+    "Geographical line mapping the boundary of a specific linguistic feature",
+    "Can map phonological, lexical, morphological, or syntactic variants",
+    "Fundamental tool in dialect geography and dialectology"
+   ],
+   "explanation": "For example, in England, an isogloss separates northern speakers who pronounce 'bus' with /ʊ/ from southern speakers who pronounce it with /ʌ/.",
+   "followUp": "E404_Q045",
+   "sourceRef": "E404 Guide, Topic 5, p. 19",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q045",
+   "topicId": "E404_T05",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What is an isogloss bundle, and what is its linguistic significance?",
+   "directAnswer": "A cluster of multiple overlapping isoglosses that marks a major dialect boundary between speech regions.",
+   "vivaAnswer": "An isogloss bundle occurs when several individual isoglosses coincide along roughly the same geographic path. In dialectology, an isogloss bundle is of major linguistic significance because it signifies a substantial dialect boundary, indicating that speech varieties on either side differ across numerous phonological, grammatical, and lexical dimensions.",
+   "keyPoints": [
+    "Cluster of multiple coinciding isoglosses",
+    "Identifies a definitive dialect boundary between two speech regions",
+    "Often aligns with historical, political, or natural geographic barriers (rivers, mountain ranges)"
+   ],
+   "explanation": "The Benrath Line in Germany is a famous isogloss bundle separating Low German dialects from High German dialects based on the Second Germanic Consonant Shift.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 5, p. 19",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E410_T06"
+   ]
+  },
+  {
+   "id": "E404_Q046",
+   "topicId": "E404_T05",
+   "type": "explanation",
+   "difficulty": 3,
+   "question": "What are the five stages of linguistic innovation in the Wave Model?",
+   "directAnswer": "Initiation, Diffusion, Adoption, Integration and Stability, and Ongoing Change.",
+   "vivaAnswer": "According to the Wave Model, linguistic innovation progresses through five consecutive stages: 1. Initiation (a linguistic change starts with an individual or small group motivated by prestige or identity); 2. Diffusion (the feature spreads locally via social networks and geographically via mobility); 3. Adoption (younger generations and broader community adopt the form); 4. Integration and Stability (the change becomes a regularized grammatical or phonological rule); and 5. Ongoing Change (the feature continues evolving and interacting with future shifts).",
+   "keyPoints": [
+    "1. Initiation: birth of the innovation in a core group",
+    "2. Diffusion: spatial and social propagation",
+    "3. Adoption: widespread community acceptance",
+    "4. Integration: institutionalization in the linguistic system",
+    "5. Ongoing Change: continued evolution"
+   ],
+   "explanation": "This five-stage progression closely mirrors William Labov's principles of historical linguistic change.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 5, p. 20",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q047",
+   "topicId": "E404_T05",
+   "type": "identification",
+   "difficulty": 2,
+   "question": "What are conservative varieties in the Wave Model?",
+   "directAnswer": "Varieties located on the geographical or social periphery that remain untouched by expanding waves of linguistic innovation.",
+   "vivaAnswer": "In the Wave Model, conservative varieties are speech forms located in geographically isolated, peripheral, or mountainous areas that the expanding ripples of linguistic innovation fail to reach. Consequently, these varieties preserve archaic phonological, grammatical, or lexical features that have disappeared from urban innovatory centers.",
+   "keyPoints": [
+    "Located in peripheral or isolated geographic pockets",
+    "Retain archaic linguistic features lost in urban centers",
+    "Remain unchanged because waves of innovation fail to reach them"
+   ],
+   "explanation": "Appalachian English in the United States and Icelandic in Scandinavia are classic conservative varieties that preserved archaic grammatical traits for centuries.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 5, p. 19",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q048",
+   "topicId": "E404_T06",
+   "type": "theorist",
+   "difficulty": 1,
+   "question": "What is diglossia according to Charles Ferguson?",
+   "directAnswer": "A sociolinguistic situation where two varieties of the same language (High and Low) coexist, each assigned strictly different social functions.",
+   "vivaAnswer": "Formulated by Charles Ferguson in 1959, diglossia describes a stable sociolinguistic situation in which two varieties of the same language coexist throughout a speech community. One variety is a prestigious, highly codified High (H) variety used for formal, literary, and official domains, while the other is a colloquial Low (L) variety used for everyday domestic conversation.",
+   "keyPoints": [
+    "Introduced by Charles Ferguson in 1959",
+    "Two varieties of the SAME language coexist in stable distribution",
+    "High (H) variety: formal, written, religious, and official functions",
+    "Low (L) variety: informal, conversational, domestic functions"
+   ],
+   "explanation": "Crucially, Ferguson noted that no one in a diglossic society speaks the High variety in everyday informal conversation at home.",
+   "followUp": "E404_Q049",
+   "sourceRef": "E404 Guide, Topic 6, p. 22",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q049",
+   "topicId": "E404_T06",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "What are the defining differences between the High (H) and Low (L) varieties in diglossia?",
+   "directAnswer": "The H variety is prestigious, grammatically complex, learned in school, and used in formal domains; the L variety is the mother tongue used at home in daily conversation.",
+   "vivaAnswer": "In diglossia, the High (H) variety carries supreme social prestige, is learned formally through schooling, possesses an elaborate grammar and standardized writing system, and is reserved for literature, sermons, news, and state affairs. In contrast, the Low (L) variety is acquired naturally at home as a mother tongue, has simpler inflectional morphology, and is used for family talk, jokes, and folk culture.",
+   "keyPoints": [
+    "Prestige: H has high social prestige; L is often regarded as inferior or colloquial",
+    "Acquisition: L is acquired natively at home; H is learned formally in school",
+    "Grammar & Lexicon: H has complex, archaic grammar; L has simplified inflections",
+    "Domain: H is for formal writing/speech; L is for everyday casual dialogue"
+   ],
+   "explanation": "Using H in a casual market transaction or L in a solemn university lecture would be socially inappropriate and jarring.",
+   "followUp": "E404_Q050",
+   "sourceRef": "E404 Guide, Topic 6, p. 22",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q050",
+   "topicId": "E404_T06",
+   "type": "example",
+   "difficulty": 1,
+   "question": "What are classic real-world examples of diglossic speech communities?",
+   "directAnswer": "Arabic (Standard Arabic vs Colloquial Arabic), Greek (Katharevousa vs Dimotiki), and Bangla (Standard Bangla vs regional dialects).",
+   "vivaAnswer": "Classic examples of diglossia include Arabic, where Modern Standard Arabic (H) is used in formal media and religious sermons while regional colloquial Arabic (L) is spoken at home; Greek, with Katharevousa (H) and Dimotiki (L); Swiss German communities using High German (H) and Swiss German dialects (L); and Bangla, where Modern Standard Bangla (H) contrasts with regional dialects (L).",
+   "keyPoints": [
+    "Arabic: Modern Standard Arabic (H) vs regional colloquial dialects (L)",
+    "Greek: Katharevousa (H) vs Dimotiki (L)",
+    "Swiss German: Standard High German (H) vs Schwyzertütsch (L)",
+    "Bangla: Standard Bangla / Shadhubhasha (H) vs regional dialects (L)"
+   ],
+   "explanation": "In all these communities, both varieties coexist indefinitely without one completely replacing the other.",
+   "followUp": "E404_Q051",
+   "sourceRef": "E404 Guide, Topic 6, p. 22",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q051",
+   "topicId": "E404_T06",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is bilingualism, and how does individual bilingualism differ from societal bilingualism?",
+   "directAnswer": "Bilingualism is the ability to use two languages; individual bilingualism resides in a single person, whereas societal bilingualism is institutionalized across a community.",
+   "vivaAnswer": "Bilingualism refers to the capacity of an individual or speech community to use two languages proficiently. Individual bilingualism is a psychological, personal attribute of a speaker who commands two linguistic codes. In contrast, societal bilingualism is a sociopolitical state where an entire society or government recognizes and routinely operates in two distinct languages.",
+   "keyPoints": [
+    "Bilingualism: proficiency in two languages",
+    "Individual bilingualism: psychological ability of a single human speaker",
+    "Societal bilingualism: institutionalized presence of two languages in a country or community"
+   ],
+   "explanation": "Canada is an officially bilingual nation (societal bilingualism), yet many individual citizens in Alberta speak only English.",
+   "followUp": "E404_Q052",
+   "sourceRef": "E404 Guide, Topic 6, pp. 22-23",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q052",
+   "topicId": "E404_T06",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "Distinguish between simultaneous bilingualism and sequential bilingualism.",
+   "directAnswer": "Simultaneous bilingualism is learning two languages from infancy together; sequential bilingualism is learning a second language after the first is already established.",
+   "vivaAnswer": "Simultaneous bilingualism occurs when a child acquires two languages concurrently from infancy or early childhood, treating both as native mother tongues. Sequential bilingualism (or successive bilingualism) occurs when an individual acquires a second language after their first language has already been structurally established, typically after early childhood or in adult life.",
+   "keyPoints": [
+    "Simultaneous: two languages acquired concurrently from birth/infancy",
+    "Sequential: L2 learned after L1 is already established",
+    "Simultaneous learners develop native phonological competence in both codes"
+   ],
+   "explanation": "A child growing up in a home where the father speaks Bangla and the mother speaks English develops simultaneous bilingualism.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 6, p. 23",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q053",
+   "topicId": "E404_T06",
+   "type": "application",
+   "difficulty": 2,
+   "question": "What cognitive and communicative advantages are associated with bilingualism?",
+   "directAnswer": "Enhanced executive control, creative problem-solving, cognitive flexibility, and broader cross-cultural communicative competence.",
+   "vivaAnswer": "Extensive psycholinguistic and sociolinguistic research indicates that bilingualism confers significant cognitive and social benefits. Bilingual individuals exhibit superior executive cognitive function, sharper multitasking abilities, heightened metalinguistic awareness, and delay in age-related cognitive decline, alongside economic advantages in global markets.",
+   "keyPoints": [
+    "Enhanced cognitive flexibility and problem-solving skills",
+    "Greater metalinguistic awareness and abstract reasoning",
+    "Improved communicative competence and intercultural empathy",
+    "Economic and occupational advantages in multilingual economies"
+   ],
+   "explanation": "Bilingual brains constantly manage two active linguistic systems, strengthening inhibitory control in the prefrontal cortex.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 6, p. 23",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E412_T09"
+   ]
+  },
+  {
+   "id": "E404_Q054",
+   "topicId": "E404_T06",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "What is the crucial distinction between diglossia and bilingualism?",
+   "directAnswer": "Diglossia involves two varieties of the same language with rigid functional division; bilingualism involves two separate languages and flexible domains.",
+   "vivaAnswer": "The fundamental difference is that classic diglossia involves two varieties of the SAME language strictly compartmentalized into mutually exclusive functional roles (H for formal, L for informal) at the community level. Bilingualism, by contrast, involves two completely DIFFERENT languages, can exist at the individual level, and often permits overlapping domains of use.",
+   "keyPoints": [
+    "Linguistic distance: Diglossia = two varieties of same language; Bilingualism = two distinct languages",
+    "Functional distribution: Diglossia has strict, non-overlapping domains; Bilingualism allows overlapping use",
+    "Level of analysis: Diglossia is primarily a societal condition; Bilingualism is both individual and societal"
+   ],
+   "explanation": "Joshua Fishman later explored societies with both bilingualism and diglossia (such as Paraguay, using Spanish for H and Guaraní for L).",
+   "followUp": "E404_Q055",
+   "sourceRef": "E404 Guide, Topic 6, pp. 23-24",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q055",
+   "topicId": "E404_T06",
+   "type": "explanation",
+   "difficulty": 1,
+   "question": "What is multilingualism, and why is it normal across global societies?",
+   "directAnswer": "The ability to use three or more languages; it is the worldwide norm because most countries are ethnically diverse.",
+   "vivaAnswer": "Multilingualism is the capacity of an individual or society to communicate using three or more languages. While Western nation-states historically popularized the monolingual myth, sociolinguistics demonstrates that multilingualism is the statistical and communicative norm globally, reflecting geographic mobility, trade, ethnic coexistence, and globalization.",
+   "keyPoints": [
+    "Proficiency in three or more languages",
+    "Statistical norm across the majority of world populations",
+    "Prominent examples: India, Singapore, Switzerland, South Africa"
+   ],
+   "explanation": "In India, an average citizen regularly navigates a regional mother tongue, Hindi, and English in everyday professional life.",
+   "followUp": "E404_Q056",
+   "sourceRef": "E404 Guide, Topic 6, p. 23",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q056",
+   "topicId": "E404_T06",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "Can a community be both bilingual and diglossic?",
+   "directAnswer": "Yes; Joshua Fishman showed that a community can use two distinct languages where one acts as the High variety and the other as the Low variety.",
+   "vivaAnswer": "Yes, a speech community can exhibit both bilingualism and diglossia. Joshua Fishman expanded Ferguson's definition, showing that two entirely different languages can function diglossically: one language (e.g., Spanish or English) serves exclusively as the High variety in government and universities, while an indigenous or local language serves as the Low variety at home.",
+   "keyPoints": [
+    "Joshua Fishman expanded diglossia to separate languages",
+    "Bilingualism + Diglossia: community speaks two languages with strict functional separation",
+    "Example: Paraguay uses Spanish as H (formal) and Guaraní as L (domestic)"
+   ],
+   "explanation": "When a society loses functional separation, diglossia breaks down, often triggering language shift or language loss.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 6, pp. 23-24",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q057",
+   "topicId": "E404_T07",
+   "type": "theorist",
+   "difficulty": 1,
+   "question": "What is code-switching according to John Gumperz?",
+   "directAnswer": "The juxtaposition within the same speech exchange of passages belonging to two different grammatical systems.",
+   "vivaAnswer": "Pioneered by John Gumperz (1982), code-switching is defined as the alternation between two or more languages, dialects, or linguistic varieties within a single conversation or speech event. Rather than demonstrating communicative failure, code-switching is a skilled communicative strategy reflecting high bilingual proficiency.",
+   "keyPoints": [
+    "Defined by John Gumperz (1982)",
+    "Alternation between two grammatical systems within a speech exchange",
+    "A hallmark of bilingual proficiency, not linguistic deficiency",
+    "Serves diverse pragmatic, stylistic, and social functions"
+   ],
+   "explanation": "Gumperz proved that bilingual speakers switch codes strategically to signal solidarity, negotiate social distance, or shift conversational topics.",
+   "followUp": "E404_Q058",
+   "sourceRef": "E404 Guide, Topic 7, p. 25",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q058",
+   "topicId": "E404_T07",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "What is the distinction between situational and metaphorical code-switching?",
+   "directAnswer": "Situational code-switching is triggered by external setting changes; metaphorical code-switching is triggered by conversational intent, tone, or topic.",
+   "vivaAnswer": "Situational code-switching occurs when a change in the external environment—such as a new interlocutor entering the room, or shifting from a workplace to a home setting—demands a change in code. Metaphorical code-switching occurs within an unchanged social setting, where the speaker switches codes to add stylistic emphasis, express emotion, redefine interpersonal relationships, or signal intimacy.",
+   "keyPoints": [
+    "Situational: driven by external contextual change (setting, participants, formality)",
+    "Metaphorical: driven by internal communicative intent (emphasis, humor, intimacy, power)",
+    "Formulated by Jan-Petter Blom and John Gumperz (1972)"
+   ],
+   "explanation": "A bank clerk speaking standard Norwegian during a transaction and switching to local dialect when discussing a personal loan with a neighbor is using metaphorical code-switching.",
+   "followUp": "E404_Q059",
+   "sourceRef": "E404 Guide, Topic 7, p. 25",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q059",
+   "topicId": "E404_T07",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "Distinguish between inter-sentential, intra-sentential, and tag code-switching with examples.",
+   "directAnswer": "Inter-sentential occurs between sentences; intra-sentential occurs within a sentence; tag-switching involves inserting a discourse marker or tag from another language.",
+   "vivaAnswer": "Inter-sentential code-switching occurs at clause or sentence boundaries (e.g., 'I am leaving now. Tumi pore call koro'). Intra-sentential code-switching occurs within a single sentence clause, requiring sophisticated syntactic integration (e.g., 'Ami kalke ekta important meeting-e chhilam'). Tag-switching involves inserting an emblematic tag or discourse marker without syntactic restructuring (e.g., 'Tumi bhalo acho, right?').",
+   "keyPoints": [
+    "Inter-sentential: switch occurs between sentences or clause boundaries",
+    "Intra-sentential: switch occurs within a single clause, blending grammars",
+    "Tag-switching: insertion of an isolated tag/marker (e.g., 'you know', 'right')"
+   ],
+   "explanation": "Intra-sentential switching is the most grammatically complex, as it must respect the grammatical constraints of both languages.",
+   "followUp": "E404_Q060",
+   "sourceRef": "E404 Guide, Topic 7, p. 25",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q060",
+   "topicId": "E404_T07",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What communicative and social motivations drive speakers to code-switch?",
+   "directAnswer": "Filling lexical gaps, adding emphasis, expressing social identity, changing register, signaling solidarity, or excluding eavesdroppers.",
+   "vivaAnswer": "Speakers code-switch for numerous communicative and social reasons: filling vocabulary gaps when an exact word is missing in one language, conveying emotional emphasis or humor, clarifying complex ideas, asserting in-group ethnic identity, signaling solidarity with the listener, or intentionally excluding third parties who do not understand the secondary code.",
+   "keyPoints": [
+    "Compensating for vocabulary gaps or untranslatable cultural concepts",
+    "Expressing ethnic solidarity and in-group identity",
+    "Emphasizing points, conveying humor, or quoting others",
+    "Excluding outsiders or managing social distance",
+    "Pedagogical scaffolding in bilingual classrooms"
+   ],
+   "explanation": "In educational contexts, bilingual teachers frequently code-switch to L1 to explain intricate theoretical concepts that students struggle to grasp in L2.",
+   "followUp": "E404_Q061",
+   "sourceRef": "E404 Guide, Topic 7, p. 26",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E405_T03"
+   ]
+  },
+  {
+   "id": "E404_Q061",
+   "topicId": "E404_T07",
+   "type": "explanation",
+   "difficulty": 3,
+   "question": "What are the meta-principles of code-switching (e.g., interpretive faithfulness, face management)?",
+   "directAnswer": "Principles explaining sociolinguistic motivations: interpretive faithfulness, symbolic power, social concurrence, face management, and perspective taking.",
+   "vivaAnswer": "Sociolinguists identify five meta-principles governing code-switching: Interpretive Faithfulness (maximizing communicative efficiency and economy); Power/Symbolic Domination (asserting social authority or prestige through linguistic capital); Social Concurrence (fostering intimacy and alignment with the interlocutor); Face Management (protecting public self-image); and Perspective Taking (framing, quoting, or justifying a viewpoint).",
+   "keyPoints": [
+    "Interpretive Faithfulness: conveying precise meaning efficiently",
+    "Power / Symbolic Domination: establishing authority and prestige",
+    "Social Concurrence: building intimacy and affiliation",
+    "Face Management: preserving politeness and public self-image",
+    "Perspective Taking: adopting rhetorical stances and empathy"
+   ],
+   "explanation": "Switching to English in a South Asian business setting often activates the principle of symbolic power to command deference.",
+   "followUp": "E404_Q062",
+   "sourceRef": "E404 Guide, Topic 7, p. 26",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q062",
+   "topicId": "E404_T07",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "What is code-mixing, and how does it differ from code-switching?",
+   "directAnswer": "Code-mixing is the blending of linguistic elements from two languages within a single sentence, whereas code-switching involves alternating between sentences or turns.",
+   "vivaAnswer": "While code-switching involves alternating between distinct grammatical systems across conversational passages or clauses, code-mixing entails the intrasentential blending of lexical items and grammatical morphemes within a single clause without necessarily signaling a deliberate change in topic or setting. Code-mixing is often spontaneous and unconscious.",
+   "keyPoints": [
+    "Code-mixing: intrasentential fusion of linguistic elements within a sentence",
+    "Code-switching: alternation across sentences, turns, or clear situational boundaries",
+    "Code-switching is typically conscious and functional; code-mixing is often unconscious and fluid"
+   ],
+   "explanation": "Saying 'Yeh photo bohot achi hai' blends an English noun into an Urdu clause structure, illustrating code-mixing.",
+   "followUp": "E404_Q063",
+   "sourceRef": "E404 Guide, Topic 7, pp. 26-27",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q063",
+   "topicId": "E404_T07",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "What is Carol Myers-Scotton's Matrix Language Frame (MLF) model?",
+   "directAnswer": "A grammatical model explaining code-mixing where a dominant Matrix Language provides the morphosyntactic frame and an Embedded Language supplies content words.",
+   "vivaAnswer": "Formulated by Carol Myers-Scotton (1993), the Matrix Language Frame (MLF) model explains how code-mixed utterances maintain grammatical coherence. It posits that in any bilingual clause, one language acts as the dominant Matrix Language (ML), providing the morphosyntactic frame and system morphemes (tense, word order, inflection), while the other acts as the Embedded Language (EL), supplying content words.",
+   "keyPoints": [
+    "Proposed by Carol Myers-Scotton in 1993",
+    "Matrix Language (ML): supplies grammatical frame and functional morphemes",
+    "Embedded Language (EL): inserts lexical content words into ML frames",
+    "Maintains syntactic consistency across bilingual clauses"
+   ],
+   "explanation": "In the sentence 'Ami office-e jachhi', Bangla is the Matrix Language providing syntax and case markers ('-e'), while 'office' is an English Embedded Language noun.",
+   "followUp": "E404_Q064",
+   "sourceRef": "E404 Guide, Topic 7, p. 27",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q064",
+   "topicId": "E404_T07",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What are the three types of code-mixing (Insertion, Alternation, Congruent Lexicalization)?",
+   "directAnswer": "Insertion puts an alien word into a matrix structure; Alternation switches between structures; Congruent Lexicalization shares a common grammatical frame.",
+   "vivaAnswer": "Muysken and sociolinguistic typologists identify three main types of code-mixing: Insertion, where a lexical item from one language is inserted into the morphosyntactic structure of another; Alternation, where the clause alternates between structures of both languages; and Congruent Lexicalization, where two languages share a largely identical syntactic frame, allowing lexical items from either language to be inserted interchangeably.",
+   "keyPoints": [
+    "Insertion: single foreign word inserted into a dominant matrix grammar",
+    "Alternation: switching structures mid-sentence according to topic or effect",
+    "Congruent Lexicalization: fluid lexical interchange across shared syntactic frames"
+   ],
+   "explanation": "'Let's go for chai break' demonstrates congruent lexicalization where English and South Asian linguistic items fit into a shared idiomatic structure.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 7, p. 27",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q065",
+   "topicId": "E404_T07",
+   "type": "definition",
+   "difficulty": 1,
+   "question": "What is lexical borrowing according to Peter Trudgill?",
+   "directAnswer": "The permanent incorporation and phonological assimilation of words from one language into another.",
+   "vivaAnswer": "As defined by Peter Trudgill, borrowing is the process whereby bilingual speakers introduce words from a source language into a host language, with those loanwords eventually becoming fully accepted, integrated, and regularized as an integral part of the host language's permanent lexicon.",
+   "keyPoints": [
+    "Permanent incorporation of foreign words into a host language",
+    "Loanwords undergo phonological and morphological assimilation",
+    "Used habitually by monolinguals who do not speak the donor tongue",
+    "Results in lasting historical language change"
+   ],
+   "explanation": "The French word 'restaurant' was borrowed into English centuries ago and is now fully assimilated into English phonology and grammar.",
+   "followUp": "E404_Q066",
+   "sourceRef": "E404 Guide, Topic 7, p. 28",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q066",
+   "topicId": "E404_T07",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "Explain Leonard Bloomfield's classification of borrowing (Dialect, Cultural, Intimate).",
+   "directAnswer": "Bloomfield classified borrowing into Dialect Borrowing (within same language), Cultural Borrowing (from foreign languages), and Intimate Borrowing (under sustained colonial/dominant contact).",
+   "vivaAnswer": "Leonard Bloomfield (1933) identified three fundamental types of borrowing: 1. Dialect Borrowing, where features are adopted from another dialect within the same language area; 2. Cultural Borrowing, where words are borrowed from an external language to name new cultural, culinary, or technical novelties; and 3. Intimate Borrowing, which occurs through intensive, sustained political contact where a dominant, prestigious language heavily impacts a subordinate language.",
+   "keyPoints": [
+    "Dialect Borrowing: borrowing between regional dialects of the same language",
+    "Cultural Borrowing: adopting words for foreign concepts/novelties (e.g., 'spaghetti')",
+    "Intimate Borrowing: asymmetric transfer from dominant to subordinate language under colonization"
+   ],
+   "explanation": "The influx of thousands of English administrative and technical terms into Bangla under British colonial rule is a prime example of intimate borrowing.",
+   "followUp": "E404_Q067",
+   "sourceRef": "E404 Guide, Topic 7, p. 28",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q067",
+   "topicId": "E404_T07",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "Explain Einar Haugen's typology of borrowing (Loanwords, Loan-blends, Loan-shifts/Calques).",
+   "directAnswer": "Haugen classified borrowing into Loanwords (direct transfer), Loan-blends (combining borrowed and native parts), and Loan-shifts/Calques (borrowing meaning via literal translation).",
+   "vivaAnswer": "Einar Haugen (1950) classified linguistic borrowings into three categories: Loanwords, where both the foreign morpheme and its meaning are imported and phonologically adapted (e.g., Japanese 'sushi' into English); Loan-blends, where a native morpheme fuses with an imported morpheme (e.g., 'spork' or hybrid compound words); and Loan-shifts or Calques, where the host language imports only the conceptual meaning and creates a literal translation using native words.",
+   "keyPoints": [
+    "Loanwords: direct import of form and meaning (e.g., 'sushi', 'bazaar')",
+    "Loan-blends: hybrid combinations of native and borrowed linguistic parts",
+    "Loan-shifts (Calques): literal translations of foreign idiomatic meanings (e.g., French 'lune de miel' for 'honeymoon')"
+   ],
+   "explanation": "Calques demonstrate cognitive borrowing where grammatical or conceptual patterns transfer without borrowing foreign phonemes.",
+   "followUp": "E404_Q068",
+   "sourceRef": "E404 Guide, Topic 7, pp. 28-29",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q068",
+   "topicId": "E404_T07",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "Summarize the essential distinctions between code-switching, code-mixing, and borrowing.",
+   "directAnswer": "Code-switching is deliberate sentence-level alternation; code-mixing is fluid intra-sentential blending; borrowing is permanent, assimilated lexical integration.",
+   "vivaAnswer": "The crucial distinctions lie in permanency, grammatical level, and speaker awareness. Code-switching and code-mixing are temporary, dynamic conversational acts occurring during discourse among bilinguals. Borrowing, by contrast, is a permanent historical change that enters the dictionary, adapts to host phonology, and is routinely spoken by monolinguals who do not speak the donor tongue.",
+   "keyPoints": [
+    "Permanence: CS and CM are temporary in conversation; Borrowing is permanent in the lexicon",
+    "Linguistic Level: CS occurs across sentences/clauses; CM within sentences; Borrowing at word level",
+    "Speaker Awareness: CS is conscious; CM often unconscious; Borrowing speakers are often unaware words are foreign",
+    "Grammar: CS/CM retain source grammar; Borrowing fully adapts to host grammar"
+   ],
+   "explanation": "A bilingual saying 'I had a bohot productive day' is code-mixing, while an English monolingual saying 'I bought an avatar' is using a borrowed Sanskrit word.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 7, p. 29",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q069",
+   "topicId": "E404_T08",
+   "type": "theorist",
+   "difficulty": 1,
+   "question": "What is language planning according to Einar Haugen?",
+   "directAnswer": "The deliberate activity of preparing a normative orthography, grammar, and dictionary for guidance in a non-homogeneous speech community.",
+   "vivaAnswer": "Introduced by Einar Haugen, language planning is defined as the deliberate, organized societal effort to influence the function, structure, or acquisition of language varieties within a speech community. Haugen originally defined it as the preparation of a normative orthography, grammar, and dictionary to resolve linguistic discord in diverse nations.",
+   "keyPoints": [
+    "Coined and defined by Einar Haugen",
+    "Deliberate effort to guide language structure, use, and acquisition",
+    "Emerged in postcolonial 1960s to solve national linguistic problems",
+    "Creates normative reference materials for writers and speakers"
+   ],
+   "explanation": "In the 1960s, postcolonial nations recruited linguists to design writing systems and national dictionaries for newly liberated African and Asian states.",
+   "followUp": "E404_Q070",
+   "sourceRef": "E404 Guide, Topic 8, p. 30",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q070",
+   "topicId": "E404_T08",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "What is the difference between status planning and corpus planning?",
+   "directAnswer": "Status planning decides the social and political roles of a language; corpus planning modifies the internal linguistic form, grammar, and vocabulary of the language.",
+   "vivaAnswer": "Introduced by Heinz Kloss, status planning and corpus planning represent the two fundamental branches of language planning. Status planning is external and sociopolitical—deciding which language serves which institutional functions (e.g., designating official languages, media mediums, or school languages). Corpus planning is internal and linguistic—developing writing systems, reforming spelling, standardizing grammar, and coining new vocabulary.",
+   "keyPoints": [
+    "Status Planning (Kloss): focuses on the social role, legal standing, and official functions of language",
+    "Corpus Planning (Kloss): focuses on internal structure, orthography, grammar, and lexicon",
+    "Status is sociopolitical; corpus is linguistic and lexicographical"
+   ],
+   "explanation": "Declaring Bangla the sole state language in the 1972 Constitution was status planning; publishing Bangla Academy's Bengali-English dictionary was corpus planning.",
+   "followUp": "E404_Q071",
+   "sourceRef": "E404 Guide, Topic 8, pp. 30-31",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q071",
+   "topicId": "E404_T08",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "What is acquisition planning as introduced by Robert L. Cooper?",
+   "directAnswer": "Language planning focused on teaching, literacy, and educational activities to increase the number of language speakers.",
+   "vivaAnswer": "Robert L. Cooper (1989) expanded language planning theory by introducing Acquisition Planning as a third distinct domain alongside status and corpus planning. Acquisition planning addresses language pedagogy—efforts to increase the number of speakers, improve literacy rates, and determine which languages are taught in primary, secondary, and tertiary schools.",
+   "keyPoints": [
+    "Introduced by Robert L. Cooper in 1989",
+    "Focuses on language learning, teaching methodology, and literacy",
+    "Determines school curricula, teacher training, and language requirements for graduation"
+   ],
+   "explanation": "Mandating compulsory English or mother-tongue instruction in national primary schools is a policy of acquisition planning.",
+   "followUp": "E404_Q072",
+   "sourceRef": "E404 Guide, Topic 8, p. 31",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q072",
+   "topicId": "E404_T08",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "Explain Einar Haugen's four-step framework of language planning.",
+   "directAnswer": "Selection and Implementation (status planning), alongside Codification and Elaboration (corpus planning).",
+   "vivaAnswer": "Einar Haugen's classic language planning model integrates status and corpus planning into a four-stage process: 1. Selection (choosing a variety for official promotion; status); 2. Codification (standardizing orthography and grammar; corpus); 3. Implementation (distributing materials and enforcing use in schools and civil service; status); and 4. Elaboration (expanding vocabulary for science and modern governance; corpus).",
+   "keyPoints": [
+    "1. Selection: choosing a language variety (Status Planning)",
+    "2. Codification: creating dictionaries and standardized grammars (Corpus Planning)",
+    "3. Implementation: introducing through government and textbooks (Status Planning)",
+    "4. Elaboration: expanding technical terminology for modern usage (Corpus Planning)"
+   ],
+   "explanation": "This matrix demonstrates that successful language policy requires both political authority (status) and lexicographical craftsmanship (corpus).",
+   "followUp": "E404_Q073",
+   "sourceRef": "E404 Guide, Topic 8, p. 30",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q073",
+   "topicId": "E404_T08",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "Why did Joshua Fishman assert that status planning and corpus planning must work together?",
+   "directAnswer": "Status planning without corpus planning leads nowhere; corpus planning without status planning has no social impact.",
+   "vivaAnswer": "Joshua Fishman (1979) famously argued that status planning and corpus planning are mutually dependent: 'Status planning without corpus planning runs into a blind alley. Corpus planning without status planning is a linguistic game without social consequences.' Declaring a language official without dictionaries leaves it unusable, while compiling dictionaries for a language with no institutional role is pointless.",
+   "keyPoints": [
+    "Fishman emphasized the inseparable synergy of both domains",
+    "Status planning without corpus planning lacks practical linguistic tools",
+    "Corpus planning without status planning lacks social and political power"
+   ],
+   "explanation": "A government may declare an indigenous language official, but without corpus elaboration (creating legal and scientific terms), judges and scientists cannot use it.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 8, p. 31",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q074",
+   "topicId": "E404_T08",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What were the primary social goals of early language planning (Ricento 2000)?",
+   "directAnswer": "National unification, modernization, administrative efficiency, and democratization.",
+   "vivaAnswer": "As synthesized by Thomas Ricento (2000), early post-World War II language planning was driven by four idealistic nation-building goals: 1. Unification (forging national unity across diverse ethnic groups); 2. Modernization (adapting languages to industrial and technological demands); 3. Efficiency (streamlining bureaucratic and educational administration); and 4. Democratization (making knowledge accessible to the masses).",
+   "keyPoints": [
+    "Unification: consolidating national identity across tribal/ethnic divides",
+    "Modernization: updating vocabulary for science and industrial technology",
+    "Efficiency: streamlining legal, bureaucratic, and commercial channels",
+    "Democratization: promoting mass literacy and civic participation"
+   ],
+   "explanation": "Early planners assumed these goals were technocratic and ideologically neutral, an assumption later dismantled by critical theorists.",
+   "followUp": "E404_Q075",
+   "sourceRef": "E404 Guide, Topic 8, p. 31",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q075",
+   "topicId": "E404_T08",
+   "type": "theorist",
+   "difficulty": 3,
+   "question": "What is Critical Language Policy (CLP) according to James Tollefson?",
+   "directAnswer": "An approach showing that language policies are not neutral, but serve dominant class interests and perpetuate social inequality.",
+   "vivaAnswer": "Critical Language Policy (CLP), pioneered by James Tollefson in the 1990s, challenges the notion that language planning is objective or apolitical. Tollefson's historical-structural model argues that state language policies systematically serve the economic and political interests of ruling elites, creating institutional barriers that disenfranchise linguistic minorities and entrench social inequality.",
+   "keyPoints": [
+    "Pioneered by James Tollefson in the 1990s",
+    "Exposes that language planning is inherently ideological and political",
+    "Historical-structural model: policies serve dominant class interests",
+    "Seeks to expose linguistic injustice and advocate minority language rights"
+   ],
+   "explanation": "For instance, imposing English or French proficiency tests for civil service jobs in postcolonial states ensures elite dynastic dominance over lucrative state posts.",
+   "followUp": "E404_Q076",
+   "sourceRef": "E404 Guide, Topic 8, p. 32",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q076",
+   "topicId": "E404_T08",
+   "type": "theorist",
+   "difficulty": 3,
+   "question": "How do Nancy Hornberger and Alastair Pennycook contribute to Critical Language Policy?",
+   "directAnswer": "Hornberger advocated indigenous multilingual policy spaces; Pennycook showed how everyday classroom practices create inequality.",
+   "vivaAnswer": "Nancy Hornberger demonstrated that progressive multilingual policies can create institutional 'ideological and implementational spaces' to revitalize indigenous languages and foster bilingual intercultural education. Alastair Pennycook revealed that language policy is enacted not just by state decrees from above, but through the micro-politics and everyday pedagogical practices of classroom teachers.",
+   "keyPoints": [
+    "Nancy Hornberger: opening ideological/implementational spaces for indigenous tongues",
+    "Fosters bilingual intercultural education in Latin America",
+    "Alastair Pennycook: language policy enacted bottom-up through classroom practice",
+    "Reveals how daily English teaching choices reproduce global and local inequalities"
+   ],
+   "explanation": "Pennycook emphasizes that teachers are not passive policy executors; their daily linguistic choices either reinforce linguistic hegemony or subvert it.",
+   "followUp": "E404_Q077",
+   "sourceRef": "E404 Guide, Topic 8, p. 32",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q077",
+   "topicId": "E404_T08",
+   "type": "criticism",
+   "difficulty": 2,
+   "question": "What are the major criticisms levelled against Critical Language Policy?",
+   "directAnswer": "It is criticized for being overly deterministic, portraying speakers as passive victims and ignoring human agency.",
+   "vivaAnswer": "Critical Language Policy has been criticized (notably by Ricento and Hornberger) for excessive structural determinism. Critics argue that by framing state language policies as all-powerful mechanisms of elite domination, CLP tends to depict minority speakers as passive, helpless victims, underestimating their human agency, resilience, and capacity to resist or creatively adapt linguistic policies.",
+   "keyPoints": [
+    "Criticized for excessive structural determinism",
+    "Underestimates human agency and grassroots resilience",
+    "Risks portraying minority communities as passive victims rather than active agents"
+   ],
+   "explanation": "Grassroots speech communities often defy state assimilation policies by establishing informal community schools and digital indigenous media.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 8, p. 32",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q078",
+   "topicId": "E404_T09",
+   "type": "theorist",
+   "difficulty": 1,
+   "question": "What is variationist sociolinguistics, and who founded the field?",
+   "directAnswer": "A branch of sociolinguistics studying structured language variation and change, founded by William Labov in the 1960s.",
+   "vivaAnswer": "Variationist sociolinguistics (also known as Labovian or urban sociolinguistics) is the quantitative study of linguistic variation and language change across social communities. Founded by William Labov in the 1960s through his seminal studies on Martha's Vineyard (1963) and New York City department stores (1966), it demonstrated that linguistic variation is patterned and socially motivated.",
+   "keyPoints": [
+    "Founded by William Labov in the 1960s",
+    "Landmark works: Martha's Vineyard (1963) and NYC Department Stores (1966)",
+    "Uses quantitative methods to correlate linguistic variants with social factors",
+    "Proves that language variation is the catalyst for historical language change"
+   ],
+   "explanation": "Labov investigated the pronunciation of post-vocalic /r/ in New York City, showing that frequency of pronunciation correlated systematically with socioeconomic class and stylistic attention.",
+   "followUp": "E404_Q079",
+   "sourceRef": "E404 Guide, Topic 9, p. 33",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q079",
+   "topicId": "E404_T09",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "What did William Labov mean by the concept of 'orderly heterogeneity'?",
+   "directAnswer": "Language variation is not random or chaotic noise, but highly structured and governed by systematic social and linguistic rules.",
+   "vivaAnswer": "Formulated by Weinreich, Labov, and Herzog (1968), 'orderly heterogeneity' is the foundational principle of variationist sociolinguistics. It asserts that although language usage displays substantial diversity and variability across speakers (heterogeneity), this variation is not random or disorganized. Rather, it is governed by predictable, orderly constraints tied to social class, age, gender, and grammatical context.",
+   "keyPoints": [
+    "Variation is systematic and structured, not chaotic or random",
+    "Heterogeneity is governed by precise social and linguistic constraints",
+    "Linguistic variation is an inherent, functional characteristic of all living languages"
+   ],
+   "explanation": "Orderly heterogeneity disproved the traditional structuralist assumption that linguistics must only study an idealized, perfectly homogeneous language system.",
+   "followUp": "E404_Q080",
+   "sourceRef": "E404 Guide, Topic 9, p. 33",
+   "isEssential": true,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q080",
+   "topicId": "E404_T09",
+   "type": "identification",
+   "difficulty": 2,
+   "question": "What are the main dimensions of language variation (regional, social, temporal, stylistic)?",
+   "directAnswer": "Regional (geography), Social (class, gender, age, ethnicity), Temporal (historical time), Stylistic (formality), and Situational (context).",
+   "vivaAnswer": "Language varies across several systematic dimensions: Regional Variation (geographic dialects, e.g., British 'lift' vs American 'elevator'); Social Variation (sociolects patterned by class, gender, age, and ethnicity like AAVE); Temporal Variation (diachronic shifts over centuries, e.g., Old English to Modern English); Stylistic Variation (degrees of formality); and Situational Variation (communicative context).",
+   "keyPoints": [
+    "Regional: geographic distribution and accents",
+    "Social: sociolects shaped by class, caste, ethnicity, and gender",
+    "Temporal: historical change across successive eras",
+    "Stylistic/Situational: casual vs formal register based on setting"
+   ],
+   "explanation": "Every individual speaker moves along stylistic dimensions while belonging to specific regional and social categories.",
+   "followUp": "E404_Q081",
+   "sourceRef": "E404 Guide, Topic 9, pp. 33-34",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q081",
+   "topicId": "E404_T09",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What are phonological mechanisms of language change, such as sound shifts and assimilation?",
+   "directAnswer": "Sound shifts systematically alter vowel or consonant systems over centuries, while assimilation makes adjacent sounds more phonetically similar.",
+   "vivaAnswer": "Phonological change occurs through systematic sound shifts and assimilation processes. The Great Vowel Shift (15th–18th century) fundamentally restructured English long vowels—e.g., 'bite' shifted from /biːt/ to /baɪt/, and 'house' from /huːs/ to /haʊs/. Assimilation occurs when a phoneme adapts to a neighboring sound for ease of articulation, as when 'handbag' is pronounced /ˈhæmbæɡ/.",
+   "keyPoints": [
+    "Sound shifts: systematic, sweeping shifts in the phonological inventory",
+    "The Great Vowel Shift: restructured English vowels (e.g., /biːt/ -> /baɪt/, /huːs/ -> /haʊs/)",
+    "Assimilation: phonetic accommodation to adjacent sounds (e.g., 'handbag' -> /ˈhæmbæɡ/)",
+    "Driven by principles of least effort and acoustic clarity"
+   ],
+   "explanation": "Sound shifts are regular and explain why English historical spelling no longer corresponds directly to modern pronunciation.",
+   "followUp": "E404_Q082",
+   "sourceRef": "E404 Guide, Topic 9, p. 34",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E410_T02"
+   ]
+  },
+  {
+   "id": "E404_Q082",
+   "topicId": "E404_T09",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What are morphological mechanisms of language change, including grammaticalization and back-formation?",
+   "directAnswer": "Mechanisms include loss of inflection, regularization, grammaticalization, and back-formation.",
+   "vivaAnswer": "Morphological change alters word forms over time through several mechanisms: Loss of Inflection (Old English 'stanas' becoming Modern English 'stones'); Regularization (analogical leveling of irregular verbs, such as archaic 'holp' becoming 'helped'); Grammaticalization (lexical words turning into functional markers, like 'going to' contracting to 'gonna'); and Back-formation (removing an apparent affix to create a new base word, such as 'editor' yielding 'edit').",
+   "keyPoints": [
+    "Loss of inflection: gradual simplification of complex noun case endings",
+    "Regularization: irregular paradigms smoothed out by analogy (e.g., 'holp' -> 'helped')",
+    "Grammaticalization: lexical items evolve into grammatical markers ('going to' -> 'gonna')",
+    "Back-formation: coining a new word by removing a perceived suffix ('editor' -> 'edit')"
+   ],
+   "explanation": "Grammaticalization is a universal linguistic process seen across diverse language families worldwide.",
+   "followUp": "E404_Q083",
+   "sourceRef": "E404 Guide, Topic 9, pp. 34-35",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q083",
+   "topicId": "E404_T09",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "Distinguish between semantic broadening and semantic narrowing with examples.",
+   "directAnswer": "Semantic broadening expands a word's meaning to cover more concepts; semantic narrowing restricts a word's meaning to a more specific concept.",
+   "vivaAnswer": "Semantic change alters the lexical meaning of words through broadening and narrowing. Broadening (generalization) occurs when a word expands its semantic scope—e.g., 'holiday' originally meant solely a consecrated 'holy day', but now denotes any vacation day. Narrowing (specialization) occurs when a word's meaning is restricted—e.g., Old English 'mete' originally referred to any food, but narrowed to mean only animal flesh ('meat').",
+   "keyPoints": [
+    "Broadening (Generalization): semantic range expands over time (e.g., 'holiday' from holy day to any vacation)",
+    "Narrowing (Specialization): semantic range shrinks to a specific referent (e.g., 'meat' from all food to animal flesh)",
+    "Another narrowing example: 'hound' (from any dog to a specific hunting breed)"
+   ],
+   "explanation": "Semantic change is often driven by cultural transformations, technological innovations, and metaphoric extensions.",
+   "followUp": "E404_Q084",
+   "sourceRef": "E404 Guide, Topic 9, p. 35",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E405_T01"
+   ]
+  },
+  {
+   "id": "E404_Q084",
+   "topicId": "E404_T09",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "Distinguish between internal and external factors driving language change.",
+   "directAnswer": "Internal factors are structural properties inside the language system; external factors are social, political, and demographic influences outside it.",
+   "vivaAnswer": "Internal factors stem from the inherent structural, phonetic, and cognitive architecture of the language itself, such as articulatory ease, morphological simplification, phonological symmetry, and analogical leveling. External factors arise from outside social forces, including language contact through trade and conquest, migration, cultural prestige, mass media, and government language planning.",
+   "keyPoints": [
+    "Internal factors: physiological ease of articulation, structural symmetry, cognitive processing",
+    "External factors: migration, colonial conquest, language contact, social prestige, media",
+    "Both factors interact continuously in driving historical language evolution"
+   ],
+   "explanation": "The simplification of consonant clusters is internally motivated by articulatory ease, whereas the massive adoption of French vocabulary after 1066 was externally motivated by the Norman Conquest.",
+   "followUp": "E404_Q085",
+   "sourceRef": "E404 Guide, Topic 9, p. 35",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q085",
+   "topicId": "E404_T09",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "What is the difference between overt prestige and covert prestige in language variation?",
+   "directAnswer": "Overt prestige attaches to standardized forms recognized by institutions; covert prestige attaches to non-standard vernacular forms signaling local solidarity.",
+   "vivaAnswer": "Overt prestige is the status and social value explicitly attached to standardized, elite speech varieties endorsed by mainstream institutions such as universities, courts, and national media. Covert prestige is the hidden, subterranean status attached to non-standard vernacular forms or working-class dialects, which speakers use to express in-group solidarity, local identity, and authentic street credibility.",
+   "keyPoints": [
+    "Overt prestige: public, institutional prestige associated with standard varieties",
+    "Covert prestige: localized, informal prestige associated with non-standard vernaculars",
+    "Covert prestige explains why non-standard dialects persist despite institutional pressure"
+   ],
+   "explanation": "Working-class men often deliberately retain vernacular non-standard pronunciations because they convey covert prestige of toughness and local loyalty.",
+   "followUp": "E404_Q086",
+   "sourceRef": "E404 Guide, Topic 9, p. 35",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q086",
+   "topicId": "E404_T09",
+   "type": "theorist",
+   "difficulty": 3,
+   "question": "What are the Five Fundamental Problems of language change formulated by Weinreich, Labov, and Herzog?",
+   "directAnswer": "The Constraints Problem, the Embedding Problem, the Transition Problem, the Evaluation Problem, and the Actuation Problem.",
+   "vivaAnswer": "In their landmark 1968 paper, Uriel Weinreich, William Labov, and Marvin Herzog formulated the Five Fundamental Empirical Problems of language change: 1. Constraints (what universal linguistic restrictions govern the direction of change?); 2. Embedding (how is a change situated in the linguistic system and social matrix?); 3. Transition (by what intermediate stages does a change propagate?); 4. Evaluation (how do speakers socially evaluate the change?); and 5. Actuation (why does a specific change happen at a particular time and place, and not at another?).",
+   "keyPoints": [
+    "1. Constraints Problem: universal restrictions on change",
+    "2. Embedding Problem: linguistic and social integration of change",
+    "3. Transition Problem: continuous route and velocity of diffusion",
+    "4. Evaluation Problem: speaker attitudes and subjective social evaluation",
+    "5. Actuation Problem: why a change occurs at a specific time and place"
+   ],
+   "explanation": "These five questions constitute the comprehensive theoretical framework of variationist sociolinguistics.",
+   "followUp": "E404_Q087",
+   "sourceRef": "E404 Guide, Topic 9, pp. 35-36",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q087",
+   "topicId": "E404_T09",
+   "type": "explanation",
+   "difficulty": 3,
+   "question": "Explain the Actuation Problem and the Embedding Problem in variationist linguistics.",
+   "directAnswer": "The Actuation Problem asks why a change begins at a specific moment; the Embedding Problem asks how the change weaves into the language structure and social classes.",
+   "vivaAnswer": "The Actuation Problem is considered the most elusive problem in historical linguistics: it asks why a linguistic change begins in a particular language, at a specific geographic point and historical moment, when identical linguistic conditions existed previously without triggering change. The Embedding Problem examines how that innovation, once actuated, weaves itself into both the internal linguistic system (conditioned by neighboring phonemes or syntax) and the external social matrix (which social classes, genders, or age cohorts spearhead the change).",
+   "keyPoints": [
+    "Actuation: the spark that initiates change at a particular historical moment",
+    "Actuation remains linguistics' hardest question to answer definitively",
+    "Embedding: the linguistic and social environments where the change takes root",
+    "Embedding identifies which social groups lead or lag in adopting the change"
+   ],
+   "explanation": "Labov demonstrated that linguistic changes from below are typically spearheaded and embedded first by lower-middle-class women.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 9, p. 36",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q088",
+   "topicId": "E404_T10",
+   "type": "explanation",
+   "difficulty": 1,
+   "question": "In what fundamental ways are language and culture interconnected?",
+   "directAnswer": "Language expresses cultural reality, embodies cultural reality, and symbolizes cultural reality.",
+   "vivaAnswer": "Language and culture are inextricably linked social phenomena. As sociolinguist Claire Kramsch demonstrated, language is the primary medium through which cultural life is conducted: it expresses cultural reality through words that describe shared beliefs, embodies cultural reality through communicative styles and non-verbal gestures, and symbolizes cultural reality by serving as a revered badge of social identity.",
+   "keyPoints": [
+    "Language expresses cultural reality: words reflect shared cultural values and beliefs",
+    "Language embodies cultural reality: conversational habits, tone, and gestures enact culture",
+    "Language symbolizes cultural reality: acts as a sacred marker of collective group identity",
+    "Prohibiting a language is experienced as an assault on the culture itself"
+   ],
+   "explanation": "When a community's language is suppressed or lost, vast cultural archives of oral history, myth, and indigenous botanical knowledge disappear with it.",
+   "followUp": "E404_Q089",
+   "sourceRef": "E404 Guide, Topic 10, p. 37",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q089",
+   "topicId": "E404_T10",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "How does language express, embody, and symbolize cultural reality according to Claire Kramsch?",
+   "directAnswer": "It expresses cultural beliefs in verbal discourse, embodies culture through interactive behaviors and tones, and symbolizes group identity as a cultural icon.",
+   "vivaAnswer": "Claire Kramsch (1998) formulated a tripartite framework explaining that: 1. Speakers express cultural reality by using words that articulate shared experiences and knowledge; 2. Speakers embody cultural reality through how they communicate—modulating pitch, silence, gestures, and non-verbal conventions; and 3. Speakers symbolize cultural reality by treating their mother tongue as an essential symbol of their social solidarity and cultural heritage.",
+   "keyPoints": [
+    "1. Expressing cultural reality: verbalizing collective concepts and historical experiences",
+    "2. Embodying cultural reality: non-verbal behaviors, pauses, registers, and intonations",
+    "3. Symbolizing cultural reality: language functions as an emblem of cultural group membership",
+    "Framework formulated by applied linguist Claire Kramsch"
+   ],
+   "explanation": "A silence in an Indigenous American conversation embodies cultural respect, whereas in an Anglo-American conversation, it is often misinterpreted as awkwardness.",
+   "followUp": "E404_Q090",
+   "sourceRef": "E404 Guide, Topic 10, p. 37",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E403_T01"
+   ]
+  },
+  {
+   "id": "E404_Q090",
+   "topicId": "E404_T10",
+   "type": "definition",
+   "difficulty": 2,
+   "question": "What is a discourse community, and how does it share a 'cultural imagination'?",
+   "directAnswer": "A group of people sharing common communicative practices, values, and cultural imaginations.",
+   "vivaAnswer": "A discourse community refers to a social group—such as a profession, ethnic community, or academic circle—whose members share common communicative norms, linguistic conventions, and shared social goals. Crucially, a discourse community shares not only factual information, but also a common 'cultural imagination' comprising shared literary allusions, historical memories, and collective aspirations.",
+   "keyPoints": [
+    "Group sharing common linguistic conventions and social purposes",
+    "Maintains shared communicative channels, registers, and specialized genres",
+    "Bound by a shared cultural imagination, collective history, and cultural myths"
+   ],
+   "explanation": "For example, mentioning Shakespeare and Dickens evokes an entire cultural imagination of London that is instantly understood by members of the English literary discourse community.",
+   "followUp": "E404_Q091",
+   "sourceRef": "E404 Guide, Topic 10, pp. 37-38",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q091",
+   "topicId": "E404_T10",
+   "type": "theorist",
+   "difficulty": 1,
+   "question": "What is the Sapir-Whorf Hypothesis?",
+   "directAnswer": "A hypothesis proposing that the structure of a language influences or determines how its speakers perceive and conceptualize the world.",
+   "vivaAnswer": "Formulated by anthropological linguists Edward Sapir and Benjamin Lee Whorf, the Sapir-Whorf Hypothesis (or Linguistic Relativity) posits that the grammatical categories and lexical structures of a person's native language shape their cognitive processes and habitual worldview. It suggests that people who speak fundamentally different languages perceive reality in distinct ways.",
+   "keyPoints": [
+    "Formulated by Edward Sapir and his student Benjamin Lee Whorf",
+    "Posits that linguistic structures shape human cognition and perception",
+    "Combines two versions: Linguistic Determinism and Linguistic Relativity",
+    "Argues that grammar and vocabulary filter our perception of reality"
+   ],
+   "explanation": "Whorf studied Native American languages such as Hopi, arguing that their grammatical treatment of time differed radically from European languages.",
+   "followUp": "E404_Q092",
+   "sourceRef": "E404 Guide, Topic 10, p. 38",
+   "isEssential": true,
+   "crossCourseLinks": [
+    "E405_T01"
+   ]
+  },
+  {
+   "id": "E404_Q092",
+   "topicId": "E404_T10",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "Distinguish between Linguistic Determinism (strong version) and Linguistic Relativity (weak version).",
+   "directAnswer": "Linguistic determinism claims language determines thought; linguistic relativity claims language merely influences perception and memory.",
+   "vivaAnswer": "The Sapir-Whorf hypothesis has two formulations. The Strong Version (Linguistic Determinism) claims that language completely determines thought—meaning you can only conceptualize what your language encodes. The Weak Version (Linguistic Relativity) claims that linguistic structures influence or bias cognitive perception and memory, making certain distinctions more salient or easier to process without permanently imprisoning thought.",
+   "keyPoints": [
+    "Linguistic Determinism (Strong): language rigidly dictates and confines human thought",
+    "Linguistic Relativity (Weak): language influences cognitive processing, attention, and memory",
+    "Determinism claims untranslatability; relativity claims cognitive predispositions"
+   ],
+   "explanation": "Saying a language has no future tense means speakers cannot conceive of tomorrow is determinism (false); saying it directs less grammatical attention to time is relativity (supported).",
+   "followUp": "E404_Q093",
+   "sourceRef": "E404 Guide, Topic 10, pp. 38-39",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q093",
+   "topicId": "E404_T10",
+   "type": "example",
+   "difficulty": 2,
+   "question": "What was Benjamin Lee Whorf's 'empty gasoline drums' observation, and what did it illustrate?",
+   "directAnswer": "Workers tossed burning cigarette butts into drums labeled 'empty' because the word evoked safety, despite lethal explosive vapors.",
+   "vivaAnswer": "While working as a fire insurance investigator, Benjamin Lee Whorf observed that laborers were meticulous around drums labeled 'Full of Gasoline' but casually tossed cigarette butts near drums labeled 'Empty Gasoline Drums'. The word 'empty' subconsciously evoked a neutral, non-hazardous space, blinding workers to the volatile, explosive vapor fumes. Whorf concluded that lexical labeling directly filters human behavioral perception.",
+   "keyPoints": [
+    "Whorf's empirical observation as an insurance risk assessor",
+    "Workers smoked near 'empty' drums, overlooking invisible combustible vapors",
+    "The word 'empty' induced a false psychological perception of safety",
+    "Demonstrated that linguistic terminology guides human habitual behavior"
+   ],
+   "explanation": "This classic example demonstrated how linguistic labeling subconsciously conditions behavioral risk assessment.",
+   "followUp": "E404_Q094",
+   "sourceRef": "E404 Guide, Topic 10, p. 38",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q094",
+   "topicId": "E404_T10",
+   "type": "criticism",
+   "difficulty": 2,
+   "question": "Why do modern linguists reject the strong determinist version while accepting the weak relativity version?",
+   "directAnswer": "Strong determinism is disproved by successful translation, bilingual cognition, and non-verbal thought, whereas weak relativity is empirically validated in color and spatial cognition.",
+   "vivaAnswer": "Modern linguists reject strong linguistic determinism because human beings regularly think without language, acquire new concepts, and translate complex texts across radically different languages. However, the weak version (linguistic relativity) is widely accepted because modern experimental psycholinguistics confirms that native language categories influence reaction times, color discrimination, and spatial navigation.",
+   "keyPoints": [
+    "Determinism rejected: ideas can be translated, and humans think in abstract mental concepts",
+    "Babies and animals think without spoken language",
+    "Weak relativity accepted: linguistic framing primes attention and memory salience",
+    "Modern experiments (e.g., Russian blues, spatial reckoning) validate relativity"
+   ],
+   "explanation": "For example, speakers of Australian Aboriginal languages that use absolute cardinal directions (North, South) possess superior spatial orientation.",
+   "followUp": "E404_Q095",
+   "sourceRef": "E404 Guide, Topic 10, p. 39",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q095",
+   "topicId": "E404_T10",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "What is Stuart Hall's Representation Theory of culture?",
+   "directAnswer": "A cultural theory demonstrating that meaning is not inherent in objects, but actively produced and exchanged through language as a representational system.",
+   "vivaAnswer": "Stuart Hall's Representation Theory asserts that representation is the central practice through which culture and meaning are produced. Hall argued that objects and events in the world do not carry intrinsic, objective meanings on their own; rather, human beings construct meaning by using language, signs, and cultural codes to represent them to one another.",
+   "keyPoints": [
+    "Formulated by cultural theorist Stuart Hall",
+    "Meaning is not inherent in things, but socially constructed through representation",
+    "Language operates as a representational system of signs and cultural codes",
+    "Representation actively produces culture rather than merely mirroring reality"
+   ],
+   "explanation": "A piece of colored cloth has no intrinsic meaning until represented as a national flag representing sovereignty and patriotism.",
+   "followUp": "E404_Q096",
+   "sourceRef": "E404 Guide, Topic 10, pp. 39-40",
+   "isEssential": true,
+   "crossCourseLinks": [
+    "E403_T05"
+   ]
+  },
+  {
+   "id": "E404_Q096",
+   "topicId": "E404_T10",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What are the two systems of representation in Stuart Hall's theory?",
+   "directAnswer": "Mental representations (concepts in our minds) and language (shared sign systems that communicate those concepts).",
+   "vivaAnswer": "Stuart Hall identified two distinct, interconnected systems of representation: 1. The System of Mental Representations, which is the internal map of concepts, ideas, and mental images that organizes and classifies the world inside our minds; and 2. Language, which is the shared system of signs—spoken words, written letters, visual images, or sounds—that translates those internal mental concepts into external communicative expressions.",
+   "keyPoints": [
+    "System 1: Mental Representations (cognitive concepts, schemas, and classifications in the mind)",
+    "System 2: Language (external signs, words, and symbols that communicate concepts)",
+    "Shared cultural codes align both systems across members of a society"
+   ],
+   "explanation": "Because members of a culture share the same conceptual map and sign system, they are able to communicate mutually intelligible meanings.",
+   "followUp": "E404_Q097",
+   "sourceRef": "E404 Guide, Topic 10, pp. 39-40",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q097",
+   "topicId": "E404_T10",
+   "type": "explanation",
+   "difficulty": 3,
+   "question": "Why does Stuart Hall argue that meaning is constructed rather than inherent in things?",
+   "directAnswer": "Because different cultures assign completely different symbolic meanings to the exact same physical object or color.",
+   "vivaAnswer": "Stuart Hall showed that meaning is constructed (constructionist approach) because physical reality contains no inherent linguistic significance. If meaning were intrinsic to objects, the word for 'tree' would be identical worldwide, and every culture would interpret symbols identically. Instead, black symbolizes mourning in Western culture, while white symbolizes mourning in parts of Asia, proving that meaning is culturally constructed through shared codes.",
+   "keyPoints": [
+    "Contrasts constructionist approach with reflective and intentional theories",
+    "Physical objects do not dictate their linguistic or cultural value",
+    "The same referent evokes contradictory cultural meanings across societies",
+    "Children unconsciously internalize cultural representational codes during language acquisition"
+   ],
+   "explanation": "Meaning is never fixed or final; it is constantly contested, renegotiated, and reshaped through ongoing cultural and political struggles.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 10, p. 40",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q098",
+   "topicId": "E404_T11",
+   "type": "distinction",
+   "difficulty": 1,
+   "question": "What is the distinction between sex and gender in sociolinguistic analysis?",
+   "directAnswer": "Sex is biological; gender is socially constructed through cultural roles and communicative practices.",
+   "vivaAnswer": "In sociolinguistics, sex refers to biological differences determined by anatomy, chromosomes, and vocal tract physiology. Gender, by contrast, is a social construct referring to the psychological, cultural, and behavioral roles that a society considers appropriate for men and women. Most differences in language use stem from gender socialization rather than biological sex.",
+   "keyPoints": [
+    "Sex: biological, physiological, and anatomical attributes",
+    "Gender: socially constructed roles, expectations, and identities",
+    "Linguistic differences between men and women are primarily socially learned"
+   ],
+   "explanation": "While vocal cord length biologically affects pitch (sex), how a speaker modulates intonation for politeness is socially conditioned (gender).",
+   "followUp": "E404_Q099",
+   "sourceRef": "E404 Guide, Topic 11, p. 41",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q099",
+   "topicId": "E404_T11",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "What are the principal features of 'women's language' identified by Robin Lakoff?",
+   "directAnswer": "Tag questions, hedges, precise color terms, polite indirect requests, hypercorrect grammar, and rising intonation on statements.",
+   "vivaAnswer": "In her seminal work 'Language and Woman's Place' (1975), Robin Lakoff identified several linguistic traits characterizing 'women's language': frequent use of tag questions ('isn't it?'), hedges ('sort of', 'perhaps'), specialized color terms ('mauve', 'magenta'), evaluative adjectives ('adorable', 'divine'), polite indirect requests, and rising intonation on declarative statements.",
+   "keyPoints": [
+    "Pioneered by Robin Lakoff (1975)",
+    "Hedges and qualifiers ('kind of', 'maybe')",
+    "Tag questions indicating uncertainty or seeking agreement",
+    "High rising terminal intonation on declarative statements",
+    "Specialized color terms and emphatic particles"
+   ],
+   "explanation": "Lakoff argued that this linguistic style was imposed on women by society, which socializes them to sound tentative and unassertive.",
+   "followUp": "E404_Q100",
+   "sourceRef": "E404 Guide, Topic 11, pp. 41-42",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q100",
+   "topicId": "E404_T11",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "Why do women use tag questions and hedging more frequently according to Robin Lakoff?",
+   "directAnswer": "To express politeness, mitigate confrontation, and avoid appearing overly forceful in patriarchal social contexts.",
+   "vivaAnswer": "Robin Lakoff argued that women use tag questions and hedging because society penalizes them for speaking assertively. By qualifying their statements, women avoid coming across as aggressive or confrontational, thus preserving interpersonal harmony. Later researchers like Janet Holmes demonstrated that tag questions also function as cooperative facilitative devices to encourage others to speak.",
+   "keyPoints": [
+    "Avoids appearing dogmatic or aggressive in patriarchal culture",
+    "Mitigates potential face-threatening acts in conversation",
+    "Holmes's reinterpretation: facilitative devices to foster conversational inclusion"
+   ],
+   "explanation": "A tag question like 'It's cold in here, isn't it?' allows a speaker to make a suggestion without sounding authoritarian.",
+   "followUp": "E404_Q101",
+   "sourceRef": "E404 Guide, Topic 11, p. 42",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q101",
+   "topicId": "E404_T11",
+   "type": "example",
+   "difficulty": 2,
+   "question": "How do gendered word pairs in English reflect social asymmetries and sexual double standards?",
+   "directAnswer": "Female terms frequently undergo pejorative semantic drift, acquiring sexualized or negative connotations not found in male terms.",
+   "vivaAnswer": "English gendered word pairs exhibit profound semantic asymmetries that reflect patriarchal double standards. While the male term remains neutral or prestigious, the female counterpart often undergoes pejoration: 'master' indicates authority and skill, while 'mistress' denotes an illicit sexual partner; 'bachelor' connotes an enviable, carefree man, while 'spinster' connotes an unwanted, aging woman.",
+   "keyPoints": [
+    "Asymmetry: male terms retain prestige while female terms suffer pejorative drift",
+    "Examples: master vs mistress; bachelor vs spinster; wizard vs witch",
+    "Robin Lakoff noted: 'He is a professional' implies competence; 'She is a professional' historically insinuated prostitution"
+   ],
+   "explanation": "These linguistic asymmetries reveal how language mirrors and reinforces societal sexual double standards.",
+   "followUp": "E404_Q102",
+   "sourceRef": "E404 Guide, Topic 11, p. 42",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q102",
+   "topicId": "E404_T11",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What conversational patterns characterize mixed-sex interactions?",
+   "directAnswer": "Men speak more, control topics, and interrupt frequently, while women use supportive back-channeling and cooperative overlaps.",
+   "vivaAnswer": "Sociolinguistic studies of cross-sex interactions reveal pronounced structural disparities. Men consistently speak for longer durations, initiate and steer conversational topics, and execute the vast majority of disruptive interruptions. Women, by contrast, tend to ask more questions, provide supportive back-channel feedback (like 'mhmm', 'yes'), and utilize cooperative overlapping talk designed to build rapport.",
+   "keyPoints": [
+    "Men talk more total time and dominate conversational topic choice",
+    "Men execute over 90% of hostile or competitive interruptions in cross-sex talk",
+    "Women employ cooperative feedback, questions, and active listening cues",
+    "Reflects the wider distribution of institutional and patriarchal power in society"
+   ],
+   "explanation": "West and Zimmerman (1983) famously demonstrated that conversational interruption is an exercise of social dominance by men over women.",
+   "followUp": "E404_Q103",
+   "sourceRef": "E404 Guide, Topic 11, pp. 42-43",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q103",
+   "topicId": "E404_T11",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "Compare the Dominance Explanation with the Socialization (Difference) Explanation of gendered speech.",
+   "directAnswer": "The Dominance model views speech differences as reflections of male power; the Difference model views them as cross-cultural communication styles learned in childhood.",
+   "vivaAnswer": "The Dominance Explanation (advocated by Robin Lakoff and Dale Spender) argues that language differences directly mirror men's historical power and domination over women in a patriarchal society. The Socialization or Difference Explanation (championed by Deborah Tannen) argues that boys and girls grow up in different peer subcultures, acquiring distinct conversational styles—men using 'report talk' to assert status, and women using 'rapport talk' to build connection.",
+   "keyPoints": [
+    "Dominance Model: male dominance and patriarchal hierarchy shape conversational behavior",
+    "Difference Model: peer-group socialization creates distinct subcultural communication styles",
+    "Dominance emphasizes power; Difference emphasizes cross-cultural misunderstanding"
+   ],
+   "explanation": "Feminist critics prefer the dominance model because the difference model risks ignoring real structural power imbalances.",
+   "followUp": "E404_Q104",
+   "sourceRef": "E404 Guide, Topic 11, p. 43",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q104",
+   "topicId": "E404_T11",
+   "type": "criticism",
+   "difficulty": 2,
+   "question": "Is language itself inherently sexist, or is language usage sexist?",
+   "directAnswer": "Language as a system is flexible and neutral; it is how society uses language and encodes patriarchal ideology that creates sexism.",
+   "vivaAnswer": "Sociolinguists generally agree that language as an abstract symbolic system is inherently flexible and capable of change; it is not biologically or structurally sexist. Rather, language becomes sexist because human speakers use it within patriarchal societies to reflect and reinforce male supremacy. Because language is malleable, sexist patterns can be reformed through deliberate social action.",
+   "keyPoints": [
+    "Language system is inherently flexible and capable of transformation",
+    "Sexist usage reflects patriarchal societal structures and attitudes",
+    "Feminist language reform proves that exclusionary terms can be systematically replaced"
+   ],
+   "explanation": "The successful replacement of 'mankind' with 'humanity' illustrates that language adapts when societal attitudes shift.",
+   "followUp": "E404_Q105",
+   "sourceRef": "E404 Guide, Topic 11, pp. 43-44",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q105",
+   "topicId": "E404_T11",
+   "type": "application",
+   "difficulty": 2,
+   "question": "What reforms did feminist linguists propose to eliminate sexist bias from English?",
+   "directAnswer": "Replacing male-as-norm morphemes with gender-neutral alternatives, such as 'chairperson', 'firefighter', 'humanity', and singular 'they'.",
+   "vivaAnswer": "Feminist language reform has successfully eliminated generic masculine biases in English. Key reforms include replacing gender-marked occupational titles with neutral terms ('chairman' to 'chairperson', 'policeman' to 'police officer', 'fireman' to 'firefighter'); substituting inclusive words for generic 'man' ('mankind' to 'humanity', 'man-made' to 'synthetic'); and widely adopting the singular 'they' to avoid generic 'he'.",
+   "keyPoints": [
+    "Generic masculine replacements: 'chairperson', 'police officer', 'flight attendant'",
+    "Lexical modernization: 'humanity' instead of 'mankind', 'artificial' instead of 'man-made'",
+    "Pronoun reform: using singular 'they' instead of universal 'he'",
+    "Dale Spender (Man Made Language) exposed how male supremacy controlled discourse"
+   ],
+   "explanation": "Major publishers, universities, and style guides (APA, MLA, Oxford) have universally codified these non-sexist guidelines.",
+   "followUp": "E404_Q106",
+   "sourceRef": "E404 Guide, Topic 11, p. 44",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q106",
+   "topicId": "E404_T11",
+   "type": "connection",
+   "difficulty": 2,
+   "question": "How do individuals and speech communities use language to construct and perform identity?",
+   "directAnswer": "Speakers actively choose dialects, accents, registers, and vocabulary to project ethnic, gender, class, and national affiliations.",
+   "vivaAnswer": "Language is the most powerful symbolic vehicle for constructing personal and collective identity. Sociolinguists view identity not as a fixed biological trait, but as an ongoing social performance. Speakers make conscious and unconscious linguistic choices—such as selecting a specific dialect, accent, or register—to signal belonging to an ethnic group, perform gender roles, or display national allegiance.",
+   "keyPoints": [
+    "Identity is constructed and performed through linguistic choices",
+    "Signals ethnic belonging (e.g., AAVE, Chicano English)",
+    "Projects gender performance, occupational authority, and social class",
+    "National languages serve as powerful rallying symbols for statehood"
+   ],
+   "explanation": "Language choices in multilingual settings constantly negotiate where a speaker stands in relation to local solidarity and global prestige.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 11, p. 44",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q107",
+   "topicId": "E404_T12",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "What is linguistic imperialism according to Robert Phillipson?",
+   "directAnswer": "The theoretical construct explaining how a dominant language (especially English) maintains supremacy through structural and ideological mechanisms, marginalizing local languages.",
+   "vivaAnswer": "Theorized by Robert Phillipson in his landmark 1992 book 'Linguistic Imperialism', linguistic imperialism is defined as the structural and ideological dominance of a powerful language (particularly global English) whereby the continuous transfer of resources to the dominant language legitimizes unequal relations of power and leads to the devaluation and displacement of indigenous and local languages.",
+   "keyPoints": [
+    "Theorized by Robert Phillipson (1992, 1997)",
+    "Structural and ideological dominance of a dominant language over local tongues",
+    "Transfers material resources and prestige to the imperial language",
+    "Marginalizes indigenous languages and creates linguistic hierarchies"
+   ],
+   "explanation": "Phillipson drew on Edward Said's concept of cultural hegemony, showing that modern imperialism operates through knowledge, education, and language.",
+   "followUp": "E404_Q108",
+   "sourceRef": "E404 Guide, Topic 12, p. 45",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q108",
+   "topicId": "E404_T12",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What are the key structural and ideological features of linguistic imperialism?",
+   "directAnswer": "Structural features allocate financial resources, infrastructure, and institutions to the dominant language; ideological features glorify it as modern and superior.",
+   "vivaAnswer": "Linguistic imperialism operates along two coordinated dimensions: Structural and Ideological. The structural dimension ensures that state funding, examination boards, media infrastructure, and jobs are allocated disproportionately to the dominant language. The ideological dimension instills beliefs and myths that the imperial language is inherently logical, modern, and superior, while indigenous languages are stigmatized as backward.",
+   "keyPoints": [
+    "Structural: material infrastructure, funding, publication, and administrative power",
+    "Ideological: cultural myths portraying English as superior, neutral, and essential",
+    "Hegemonic: accepted by colonized populations as 'natural' and common sense",
+    "Subtractive: dominant language learned at the expense of local mother tongues"
+   ],
+   "explanation": "This creates an unequal linguistic hierarchy where monolingual speakers of local languages are disenfranchised.",
+   "followUp": "E404_Q109",
+   "sourceRef": "E404 Guide, Topic 12, p. 45",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q109",
+   "topicId": "E404_T12",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "What is 'linguicism' as coined by Tove Skutnabb-Kangas?",
+   "directAnswer": "Ideologies, structures, and practices used to legitimate and reproduce an unequal division of power and resources based on language.",
+   "vivaAnswer": "Coined by Finnish-Swedish linguist Tove Skutnabb-Kangas (1988), 'linguicism' is defined as the ideologies, structures, and practices used to legitimize, effectuate, and reproduce an unequal division of power and resources (both material and immaterial) between groups defined on the basis of language. Skutnabb-Kangas conceptualized linguicism as operating in exact parallel with racism, sexism, and classism.",
+   "keyPoints": [
+    "Coined by Tove Skutnabb-Kangas (1988)",
+    "Discrimination and unequal resource allocation based strictly on language",
+    "Directly parallels racism, sexism, and economic classism",
+    "Frames dominant languages as 'killer languages' that extinguish minority tongues"
+   ],
+   "explanation": "Denying a citizen employment or public services because their accent or mother tongue is non-standard is a direct manifestation of linguicism.",
+   "followUp": "E404_Q110",
+   "sourceRef": "E404 Guide, Topic 12, p. 46",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q110",
+   "topicId": "E404_T12",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "How does the Centre-Periphery framework apply to cultural and linguistic imperialism?",
+   "directAnswer": "Powerful Western nations (the Centre) control knowledge, media, and language norms, while developing nations (the Periphery) consume them.",
+   "vivaAnswer": "Drawing on Johan Galtung's structural imperialism theory, the Centre-Periphery model divides the world into powerful dominant nations (the Centre, e.g., the US and UK) and dependent developing nations (the Periphery). Linguistic imperialism functions alongside educational, media, and scientific imperialism, flowing one-way from the Centre to the Periphery, reinforcing global economic dependence.",
+   "keyPoints": [
+    "Centre: powerful Western nations that export language, pedagogical models, and media",
+    "Periphery: developing postcolonial nations that consume Centre materials",
+    "Flow of intellectual property and curriculum maintains postcolonial dependency",
+    "Internal elites in Periphery nations adopt Centre language to maintain class rule"
+   ],
+   "explanation": "Western ELT textbook publishers generate billions in profits exporting standardized curriculum packages to periphery countries.",
+   "followUp": "E404_Q111",
+   "sourceRef": "E404 Guide, Topic 12, p. 46",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E403_T02"
+   ]
+  },
+  {
+   "id": "E404_Q111",
+   "topicId": "E404_T12",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "What is 'native-speakerism' according to Adrian Holliday?",
+   "directAnswer": "A pervasive ideology that 'native speakers' represent a superior Western culture and pedagogical model, 'othering' non-native English educators.",
+   "vivaAnswer": "Formulated by Adrian Holliday (2006), native-speakerism is a pervasive ideology that represents Western native-speaking English teachers as culturally superior, naturally gifted educators who embody the true ideals of the English language. Holliday argued that native-speakerism discriminates against and 'others' the vast global majority of qualified non-native English-speaking teachers.",
+   "keyPoints": [
+    "Formulated by Adrian Holliday (2006)",
+    "Pervasive bias favoring Western 'native speaker' English teachers",
+    "Marginalizes and discriminates against non-native English-speaking teachers (NNESTs)",
+    "Treats Western teaching methodologies as universally superior"
+   ],
+   "explanation": "Hiring an unqualified traveler simply because they are a white 'native speaker' over an experienced local professor with a PhD exemplifies native-speakerism.",
+   "followUp": "E404_Q112",
+   "sourceRef": "E404 Guide, Topic 12, pp. 46-47",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q112",
+   "topicId": "E404_T12",
+   "type": "application",
+   "difficulty": 2,
+   "question": "What is the 'gate-keeping effect' of language in imperial and post-colonial contexts?",
+   "directAnswer": "Using dominant language tests as a barrier to exclude speakers of local languages from higher education, jobs, and social mobility.",
+   "vivaAnswer": "The gate-keeping effect refers to the institutional practice of using high-stakes standardized tests in the dominant imperial language (such as English) as a non-negotiable filter for university admissions, prestigious employment, and political office. This effectively blocks underprivileged students from vernacular backgrounds from ascending the socioeconomic ladder.",
+   "keyPoints": [
+    "Language tests act as institutional filters and barriers to entry",
+    "Excludes speakers with lower proficiency in the dominant language",
+    "Protects elite privileges under the guise of 'meritocracy' and 'competence'"
+   ],
+   "explanation": "Exams like IELTS and TOEFL function as lucrative global gatekeepers regulating international immigration and student mobility.",
+   "followUp": "E404_Q113",
+   "sourceRef": "E404 Guide, Topic 12, p. 46",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q113",
+   "topicId": "E404_T12",
+   "type": "criticism",
+   "difficulty": 3,
+   "question": "How can English Language Teaching (ELT) function both as a tool of imperialism and as a vehicle for empowerment?",
+   "directAnswer": "It is imperialistic when imposed at the expense of local languages, but empowering when appropriated critically for global access and resistance.",
+   "vivaAnswer": "English Language Teaching (ELT) is a dual-edged sword. It functions as an imperialist tool when it promotes native-speakerism, devalues mother-tongue education, and erodes local linguistic rights. Conversely, when approached critically and locally, ELT acts as an empowering asset, equipping postcolonial citizens with communicative tools to participate in global science, trade, and international anti-imperialist advocacy.",
+   "keyPoints": [
+    "Imperialist tool: subtractive bilingualism, cultural erasure, and commercial dependency",
+    "Empowering tool: provides access to global knowledge, employment, and political advocacy",
+    "Depends on pedagogical approach: culturally imperialist vs critically transformative"
+   ],
+   "explanation": "Suresh Canagarajah stresses that postcolonial learners do not just absorb English passively; they actively appropriate it to advance their own interests.",
+   "followUp": "E404_Q114",
+   "sourceRef": "E404 Guide, Topic 12, p. 47",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q114",
+   "topicId": "E404_T12",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "How does Suresh Canagarajah critique the passive victim narrative of linguistic imperialism?",
+   "directAnswer": "He shows that periphery communities are not helpless victims; they actively resist, adapt, and negotiate with English for their own ends.",
+   "vivaAnswer": "In 'Resisting Linguistic Imperialism in English Teaching' (1999), Suresh Canagarajah critiques Phillipson's framework for being overly deterministic. Canagarajah argues that people in periphery societies are not passive dupes brainwashed by imperial English; rather, they exhibit critical agency—hybridizing English, code-switching, and reshaping the language to express their own cultural realities and resist Western hegemony.",
+   "keyPoints": [
+    "Authored 'Resisting Linguistic Imperialism' (1999)",
+    "Rejects the view that non-Western learners are passive victims of English hegemony",
+    "Demonstrates that learners negotiate, resist, and indigenize English",
+    "Highlights hybridity and grassroots pedagogical resistance in Sri Lanka and worldwide"
+   ],
+   "explanation": "Postcolonial writers like Chinua Achebe and Arundhati Roy transformed English into a medium of anti-colonial narrative power.",
+   "followUp": "E404_Q115",
+   "sourceRef": "E404 Guide, Topic 12, p. 47",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q115",
+   "topicId": "E404_T12",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "What is the concept of 'Unequal Englishes' proposed by Ruanni Tupas and Rani Rubdy?",
+   "directAnswer": "The unequal social and economic valuation assigned to different varieties of English across global hierarchies.",
+   "vivaAnswer": "Proposed by Ruanni Tupas and Rani Rubdy (2015), the concept of 'Unequal Englishes' critiques the idealized pluralism of the World Englishes paradigm. It demonstrates that although linguists celebrate all varieties of English as linguistically legitimate, global society assigns unequal economic, political, and cultural worth to them—privileging Inner Circle varieties while stigmatizing Outer Circle varieties like Philippine or Nigerian English.",
+   "keyPoints": [
+    "Formulated by Ruanni Tupas and Rani Rubdy (2015)",
+    "Critiques World Englishes for ignoring real-world prejudice and material inequality",
+    "Reveals hierarchies among Englishes: Inner Circle privileged over Outer/Expanding Circle varieties",
+    "Connects linguistic varieties to racial and geopolitical stratification"
+   ],
+   "explanation": "A call-center worker in Manila speaking fluent Philippine English is forced to neutralize their accent to mimic American English to be deemed acceptable.",
+   "followUp": "E404_Q116",
+   "sourceRef": "E404 Guide, Topic 12, p. 48",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q116",
+   "topicId": "E404_T12",
+   "type": "criticism",
+   "difficulty": 2,
+   "question": "What is linguistic instrumentalism and what dangers does it pose in Outer Circle societies?",
+   "directAnswer": "The pragmatic view that English is merely a neutral tool for economic mobility; it threatens local language rights and accelerates language shift.",
+   "vivaAnswer": "Linguistic instrumentalism treats English purely as a pragmatic, apolitical tool for economic advancement, science, and technological progress. While superficially appealing, this ideology is dangerous in Outer and Expanding Circle countries because it encourages governments to divest from mother-tongue education, fosters severe social stratification, and accelerates the extinction of indigenous languages.",
+   "keyPoints": [
+    "Frames English as an apolitical, purely pragmatic instrument for economic success",
+    "Obscures the social inequalities and cultural erasure caused by English hegemony",
+    "Justifies dismantling funding for mother-tongue and indigenous education",
+    "Promotes subtractive bilingualism where local languages are abandoned"
+   ],
+   "explanation": "When parents believe only English matters for jobs, they stop speaking their indigenous mother tongues to their children at home.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 12, p. 48",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q117",
+   "topicId": "E404_T13",
+   "type": "theorist",
+   "difficulty": 1,
+   "question": "What is language fossilization and who introduced the term?",
+   "directAnswer": "The permanent entrenchment of incorrect linguistic forms in a learner's language system, introduced by Larry Selinker in 1972.",
+   "vivaAnswer": "Introduced by Larry Selinker in 1972 as part of his groundbreaking Interlanguage hypothesis, language fossilization refers to the phenomenon whereby specific erroneous linguistic features—in pronunciation, grammar, or vocabulary—become permanently fixed in a second language learner's speech despite continued exposure, practice, and instruction.",
+   "keyPoints": [
+    "Introduced by Larry Selinker in 1972",
+    "Part of the Interlanguage hypothesis in Second Language Acquisition (SLA)",
+    "Permanent cessation of learning progress before target language norms are reached",
+    "Errors become 'frozen' and highly resistant to pedagogical correction"
+   ],
+   "explanation": "Fossilization occurs across phonology, morphology, syntax, and pragmatics in adult second language acquisition.",
+   "followUp": "E404_Q118",
+   "sourceRef": "E404 Guide, Topic 13, p. 49",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E412_T04"
+   ]
+  },
+  {
+   "id": "E404_Q118",
+   "topicId": "E404_T13",
+   "type": "theorist",
+   "difficulty": 2,
+   "question": "What is an interlanguage according to Larry Selinker?",
+   "directAnswer": "The dynamic, autonomous linguistic system constructed by a second language learner between their native language and the target language.",
+   "vivaAnswer": "Larry Selinker defined an interlanguage as an independent, rule-governed linguistic system created by a second language learner that lies between their native language (L1) and the target language (L2). It is not simply a chaotic collection of mistakes, but an autonomous transitional grammar that reflects the learner's developing cognitive hypotheses about the target language.",
+   "keyPoints": [
+    "Formulated by Larry Selinker (1972)",
+    "Autonomous, rule-governed grammar intermediate between L1 and L2",
+    "Dynamic and transitional system that develops over time",
+    "Reflects systematic cognitive hypotheses about target language rules"
+   ],
+   "explanation": "When interlanguage development stops permanently short of target norms, that plateau is called fossilization.",
+   "followUp": "E404_Q119",
+   "sourceRef": "E404 Guide, Topic 13, p. 49",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E412_T04"
+   ]
+  },
+  {
+   "id": "E404_Q119",
+   "topicId": "E404_T13",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What are the primary causes of language fossilization in second language learners?",
+   "directAnswer": "L1 transfer, lack of corrective feedback, communicative satisfaction, post-critical period age, and limited target language input.",
+   "vivaAnswer": "Several interrelated psycholinguistic and sociolinguistic factors trigger fossilization: First Language (L1) Transfer (habits of the mother tongue overriding L2 rules); Lack of Corrective Feedback (unnoticed errors becoming ingrained habits); Communicative Success (achieving understanding without needing grammatical accuracy); Age Factors (reduced neurological plasticity after the critical period); and Insufficient Target Language Exposure.",
+   "keyPoints": [
+    "L1 Transfer: persistent interference from mother tongue grammar and phonology",
+    "Lack of corrective feedback: errors go unnoticed and solidify",
+    "Communicative success: speaker successfully communicates despite grammatical errors",
+    "Age factor: post-pubescent cognitive and biological constraints on acquisition",
+    "Motivational plateau: lack of social incentive to sound native-like"
+   ],
+   "explanation": "These causes demonstrate that fossilization is governed by both cognitive wiring and communicative needs.",
+   "followUp": "E404_Q120",
+   "sourceRef": "E404 Guide, Topic 13, p. 49",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q120",
+   "topicId": "E404_T13",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "How does first language (L1) transfer or mother tongue interference cause fossilization?",
+   "directAnswer": "Deeply ingrained phonological and grammatical habits from the native language are subconsciously imposed on the second language.",
+   "vivaAnswer": "First language (L1) transfer causes fossilization because the neural pathways and articulatory habits of the mother tongue are deeply established. When a learner encounters an L2 sound or syntactic structure absent in L1, they subconsciously substitute the closest L1 equivalent. Over years of uncorrected repetition, this substitution becomes an automated, permanent cognitive habit.",
+   "keyPoints": [
+    "Subconscious substitution of L1 phonemes or structures into L2",
+    "Automated neuromuscular articulatory habits resist new motor patterns",
+    "Absence of certain grammatical categories in L1 causes persistent omission in L2"
+   ],
+   "explanation": "For example, because Bangla lacks the dental fricatives /θ/ and /ð/, Bangla speakers frequently fossilize /t/ and /d/ substitutions ('tink' for 'think').",
+   "followUp": "E404_Q121",
+   "sourceRef": "E404 Guide, Topic 13, p. 49",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q121",
+   "topicId": "E404_T13",
+   "type": "application",
+   "difficulty": 2,
+   "question": "How does communicative success paradoxically lead to language fossilization?",
+   "directAnswer": "If listeners understand the message despite errors, the learner has no functional incentive to expend effort correcting grammatical mistakes.",
+   "vivaAnswer": "Communicative success paradoxically encourages fossilization because the primary evolutionary function of language is communication, not grammatical perfection. When a second language speaker achieves communicative efficiency—meaning colleagues, friends, and customers understand them despite grammatical or phonological errors—there is no communicative pressure to expend cognitive energy rectifying non-standard forms.",
+   "keyPoints": [
+    "Language prioritizes meaning over grammatical correctness",
+    "Satisficing: communication succeeds despite persistent errors",
+    "Absence of communicative breakdown removes the motivation for self-correction"
+   ],
+   "explanation": "An immigrant shopkeeper who successfully conducts business for thirty years saying 'he have' sees no practical need to master 'he has'.",
+   "followUp": "E404_Q122",
+   "sourceRef": "E404 Guide, Topic 13, p. 49",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q122",
+   "topicId": "E404_T13",
+   "type": "distinction",
+   "difficulty": 2,
+   "question": "Distinguish between phonological fossilization and morphological fossilization with examples.",
+   "directAnswer": "Phonological fossilization affects pronunciation and accent; morphological fossilization affects grammatical inflections like plurals and verb tenses.",
+   "vivaAnswer": "Phonological fossilization involves permanent non-native pronunciation habits, intonation contours, or consonant substitutions—such as persistently pronouncing English 'think' as 'tink' due to L1 sound systems. Morphological fossilization involves permanently omitting or misusing grammatical morphemes, such as consistently omitting the third-person singular present '-s' (saying 'he go' instead of 'he goes').",
+   "keyPoints": [
+    "Phonological: permanent errors in pronunciation, stress, or rhythm (e.g., 'think' -> 'tink')",
+    "Morphological: permanent errors in word forms, inflections, and affixes (e.g., 'he go' instead of 'he goes')",
+    "Phonological fossilization is almost universal in post-pubescent adult L2 learners"
+   ],
+   "explanation": "Henry Kissinger retained a heavily fossilized German phonology despite complete mastery of English morphology and syntax.",
+   "followUp": "E404_Q123",
+   "sourceRef": "E404 Guide, Topic 13, p. 50",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q123",
+   "topicId": "E404_T13",
+   "type": "explanation",
+   "difficulty": 2,
+   "question": "What are syntactic, lexical, and pragmatic fossilization?",
+   "directAnswer": "Syntactic affects word order; lexical affects habitual misuse of words; pragmatic affects socially inappropriate language use in context.",
+   "vivaAnswer": "Beyond phonology and morphology, fossilization strikes other language levels: Syntactic Fossilization fixes incorrect word order or sentence structures (e.g., 'I yesterday went to school'); Lexical Fossilization establishes persistent unidiomatic expressions (e.g., habitually saying 'open the light' instead of 'turn on the light' due to L1 calques); and Pragmatic Fossilization involves entrenched social inappropriateness, such as habitually using blunt commands instead of polite mitigations in formal settings.",
+   "keyPoints": [
+    "Syntactic: entrenched non-standard word order patterns (e.g., VSO or SOV interference)",
+    "Lexical: habitual misuse of collocations or direct literal translations from L1",
+    "Pragmatic: permanent inability to adapt formality and politeness to social context"
+   ],
+   "explanation": "Pragmatic fossilization often leads to serious intercultural misunderstandings, as speakers are perceived as rude rather than linguistically non-native.",
+   "followUp": "E404_Q124",
+   "sourceRef": "E404 Guide, Topic 13, p. 50",
+   "isEssential": false,
+   "crossCourseLinks": []
+  },
+  {
+   "id": "E404_Q124",
+   "topicId": "E404_T13",
+   "type": "criticism",
+   "difficulty": 2,
+   "question": "Why is fossilization considered a natural psycholinguistic phenomenon rather than personal learner failure?",
+   "directAnswer": "Because only a tiny fraction of adult learners ever achieve native competence, reflecting natural cognitive economy and biological maturation.",
+   "vivaAnswer": "In modern applied linguistics, fossilization is not viewed as cognitive failure or lack of intelligence. Psycholinguistic research shows that only about 5% of adult second language learners ever achieve complete native-like perfection. Stabilizing at an effective, functional interlanguage is a natural adaptation that maximizes communicative efficiency while economizing cognitive effort once communicative survival is secured.",
+   "keyPoints": [
+    "Universal property of adult Second Language Acquisition",
+    "Fewer than 5% of adult learners achieve full native-like proficiency",
+    "Represents an adaptive cognitive equilibrium balancing communication and effort",
+    "Guides teachers to focus on communicative fluency rather than punitive perfectionism"
+   ],
+   "explanation": "Understanding fossilization allows language educators to set realistic, communicative pedagogical goals rather than stigmatizing non-native accents.",
+   "followUp": null,
+   "sourceRef": "E404 Guide, Topic 13, pp. 50-51",
+   "isEssential": false,
+   "crossCourseLinks": [
+    "E412_T09"
+   ]
+  }
+ ]
+}
